@@ -72,11 +72,10 @@ kiriya 源自动词 karoti（做），本义为“作为、行为”。在律学
 
 ## 相关条目
 
-- 作（kiriyā）——十七要素第十一项
-- 未做（akiriya）
-- 做及未做（kiriyākiriya）
-- 等起（samuṭṭhāna）
-- 十七要素分析
+- [[kiriyā@十七要素分析]]
+- [[akiriya@十七要素分析]]
+- [[kiriyākiriya]]
+- [[samuṭṭhāna@十七要素分析]]
 
 # 分类标签
 

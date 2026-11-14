@@ -5,6 +5,11 @@
 
 后面每条学处的末尾都会套用这一套术语，所以这里的译名需要统一。
 
+**注意**：“三心 / 二心 / 一心”属于第 16 项（善三法），不是第 13 项。第 13 项 citta 只分 sacittaka（有心）/ acittaka（无心）。207:1333：*akusalacittavasena ekaṃ cittaṃ, kusalābyākatacittavasena dve cittāni, sabbesaṃ vasena tīṇi cittāni*。第 17 项同理：一受（苦受）/ 二受（乐、舍）/ 三受。
+
+每条学处的套用格式（以 207:1455 卡提那学处为例）：
+*Kathinasamuṭṭhānaṃ*（10 等起）, *akiriyaṃ*（11 作）, *nosaññāvimokkhaṃ*（12 想）, *acittakaṃ*（13 心）, *paṇṇattivajjaṃ*（14 罪过）, *kāyakammaṃ, vacīkammaṃ*（15 业）, *ticittaṃ*（16 三心）, *tivedanaṃ*（17 三受）
+
 来源列：`自定` = 你自己的术语词条；`公共` = WikiPali 公共术语表；`无词条` = 草稿里有标记但没有词条；`未标记` = 草稿里还没有作为术语标记过。
 
 
@@ -174,6 +179,9 @@
 | kusalacitta | — | 无词条 |  |
 | abyākata | 无记 | 公共 |  |
 | abyākatacitta | 无记心 | 自定 |  |
+| ticitta | — | 未标记 | **三心**：善、不善、无记三心皆可犯。例：207:1455 卡提那学处、207:1610 句法学处 `…paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti`（18 处） |
+| dvicitta | — | 未标记 | **二心**：只以善、无记心犯。原文 `kusalābyākatacittehi dvicittaṃ`，仅 207:1626 告宝学处 |
+| akusalacitta（一心） | 不善心 | 自定 | **一心**：只以不善心犯，原文直接写 `akusalacittaṃ`，不写 ekacitta。例：207:1336 第一巴拉基咖、207:1383 （13 处） |
 
 ## 17. vedanāttika 受三法（207:1333）
 
@@ -185,3 +193,6 @@
 | dukkhavedanā | 苦受 | 公共 |  |
 | sukhavedanā | 乐受 | 公共 |  |
 | upekkhavedanā | — | 无词条 |  |
+| tivedana | — | 未标记 | **三受**：`tivedananti`，与 ticitta 成对出现（23 处） |
+| dvivedana / dvivedanā | 二受 | 公共 | **二受**：乐、舍二受。草稿 207:1336 用 `[[dvivedana]]`、207:1383 用 `[[dvivedanā]]`，两种词形需统一 |
+| dukkhavedana | — | 未标记 | **一受（苦受）**：与 akusalacitta 成对，`akusalacittaṃ, dukkhavedananti`。例：207:1362 第三巴拉基咖、207:1412 破僧学处（24 处） |

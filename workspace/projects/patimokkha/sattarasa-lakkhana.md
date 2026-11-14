@@ -65,10 +65,42 @@
 
 ## 6. āpatti 罪（207:1324）
 
+定义：*Āpattīti pubbappayogādivasena āpattibhedo*（207:1324）——这一项讲的是**罪的区分（āpattibheda）**：同一条学处里，按加行的阶段、对象、想（认知）的不同，分别犯哪一级罪，由轻到重列出来。每条学处里通常以 *ayamettha āpattibhedo*（这里的罪的区分就是这些）收尾，如 207:1335 第一巴拉基咖；没有区分时写 *āpattibhedo natthi*（207:1807、207:2030、207:2314）。
+
+**戒条里的写法：**
+- 按加行阶段：*māraṇatthāya opātakkhaṇanādīsu dukkaṭaṃ … manussamaraṇe pārājikan … Iminā nayena sabbattha payogabhedavasena āpattibhedo veditabbo*（207:1362 第三巴拉基咖：为杀而挖陷阱等犯恶作……人死犯巴拉基咖；依加行区分罪）
+- 按对象：207:1335 第一巴拉基咖，同一行为按对象分别犯 巴拉基咖 / 图拉加亚 / 恶作。草稿把 *āpattibhedo* 译作“罪种分类”（207:1335-251）。
+- 按想（三想）：*Tikapācittiyaṃ, … vematikassa vā dukkaṭaṃ*（207:1572）——实为 X 而作 X 想、怀疑、作非 X 想，三种情况都犯巴吉帝亚；反之作 X 想或怀疑的犯恶作。
+- 按次数：*payoge payoge pācittiyaṃ*（每一加行一巴吉帝亚，16 处）、*pade pade dukkaṭaṃ*（每一步一恶作，8 处）。
+
+**七罪聚（由重到轻）：**
+
 | 术语标记 | 当前译名 | 来源 | 说明 | 隔离 |
 |---|---|---|---|---|
-| āpatti | 罪 | 公共 |  |  |
-| pubbapayoga | 事先的准备 | 自定 | 前加行等，区分罪别 |  |
+| āpatti | 罪 | 公共 | 要素名 |  |
+| āpattibheda | 罪种分类（草稿正文用语） | 未标记 | 本项的实际内容 |  |
+| payogabheda | — | 未标记 | 依加行区分（207:1362） |  |
+| pubbapayoga | 事先的准备 | 自定 | 前加行（定义里的 pubbappayoga） |  |
+| sahapayoga | 自作加行 | 自定 | 与 pubbapayoga 相对 |  |
+| pārājika | 巴拉基咖 | 自定 | ① 最重 |  |
+| saṅghādisesa | 僧始终 | 公共 | ② |  |
+| thullaccaya | 图拉加亚 | 自定 | ③ 粗罪，多为未遂 |  |
+| nissaggiyapācittiya | 尼萨耆巴吉帝亚（推） | 未标记 | ④ 舍堕 |  |
+| pācittiya | 巴吉帝亚 | 自定 | ④ 单堕 |  |
+| pāṭidesanīya | 波罗提提舍尼（推） | 未标记 | ⑤ 悔过 |  |
+| dukkaṭa | 恶作 | 公共 | ⑥ |  |
+| dubbhāsita | 恶说 | 未标记 | ⑦ 最轻 |  |
+| garukāpatti / lahukāpatti | 重罪 / 轻罪 | 未标记 | 轻重总分 |  |
+
+**三想格式（按想区分罪）：**
+
+| 术语标记 | 当前译名 | 来源 | 说明（Kaṅkhā 中出现段数） | 隔离 |
+|---|---|---|---|---|
+| tikapācittiya | — | 未标记 | 三想巴吉帝亚（90） |  |
+| tikadukkaṭa | — | 未标记 | 三想恶作（35） |  |
+| dvikadukkaṭa | — | 未标记 | 二想恶作（13） |  |
+| tikasaṅghādisesa | — | 未标记 | 三想僧始终（1） |  |
+| vematika | — | 未标记 | 怀疑者，三想之一（65） |  |
 
 ## 7. anāpatti 不犯（207:1324）
 

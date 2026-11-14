@@ -143,15 +143,16 @@
 - 你用了 `[[kiriya@十七要素分析]]` 这种带标签的写法，可以用来区分同一个词的不同意思（kamma 业／甘马、paññatti 也可以这样处理）。
 - 同一段里 ① 有时写 `[[kiriyā]]`（公共术语表，显示为“唯作”），有时写 `[[kiriya]]`（你自己的词条，显示为“由做”），需要统一。
 
-| 术语标记 | 当前译名 | 来源 | 说明 |
-|---|---|---|---|
-| kiriyā | 唯作 | 公共 | 要素名；与 kiriya 混用 |
-| kiriya | 由做 | 自定 | ① |
-| akiriya | 未做 | 自定 | ② |
-| kiriyākiriya | 做及未做 | 自定 | ③ |
-| paṭhamakathina | 第一卡提那学处 | 无词条 | ② 的例子 |
-| cīvarappaṭiggahaṇa | 受衣学处 | 无词条 | ③ 的例子 |
-| kuṭikārāpatti | 造小屋罪 | 无词条 | ⑤ 的例子 |
+| # | 术语标记（词头） | 译名 | 来源 | 原文写法 |
+|---|---|---|---|---|
+| 要素名 | kiriyā | 唯作 | 公共 | kiriyā（要素名，与 kiriya 混用，待统一） |
+| ① | kiriya | 由做 | 自定 | kiriyaṃ / kiriyato |
+| ② | akiriya | 未做 | 自定 | akiriyaṃ / akiriyato |
+| ③ | kiriyākiriya | 做及未做 | 自定 | kiriyākiriyaṃ / kiriyākiriyato |
+| ④ | siyākiriya-siyāakiriya | 有时由做有时未作 | 待建词条 | siyā kiriyaṃ, siyā akiriyaṃ / siyā kiriyato siyā akiriyato |
+| ⑤ | siyākiriya-siyākiriyākiriya | 有时由做有时做及未作 | 待建词条 | kiriyañca kiriyākiriyañca / siyā kiriyato siyā kiriyākiriyato |
+
+词头写法：用词干（与 ①②③ 一致，不带 -ṃ / -to 格尾），去掉空格，两半之间用连字符。理由见 TODO。
 
 ## 12. saññā 想（207:1331）
 

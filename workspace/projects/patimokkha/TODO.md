@@ -15,6 +15,8 @@
 - [ ] **草稿里有标记、术语表没词条的 21 个**（网页上显示不出中文）：`???`、`adinnan`、`bhaggāna`、`bhikkhuvassa`、`cīvarappaṭiggahaṇa`、`ehi-bhikkhu-upasampadā`、`khaṇḍasīmā`、`kosambi`、`kusalacitta`、`kuṭikārāpatti`、`majjhimadesa`、`padabhājana`、`paṭhamakathina`、`sammakkhanda`、`saṃvāsa`、`sudinna`、`sāmaggipavāraṇādivasa`、`ubhatobyañjana`、`upekkhavedanā`、`vedanātika`、`ñatti-catuttha-kamma`
   - [ ] 拼写错误：`ñatti-catuttha-kamma` → `ñatticatutthakamma`，`ehi-bhikkhu-upasampadā` → `ehibhikkhuupasampadā`
   - [ ] 207:1344 标记坏了：`[[adinnan]]`、`[[???]]`
+- [ ] kiriyā 五种的 ④⑤ 建词条（已定译名）：`siyākiriya-siyāakiriya` 有时由做有时未作；`siyākiriya-siyākiriyākiriya` 有时由做有时做及未作。先建一条试渲染，确认连字符词头能正常显示
+- [ ] “做/作”统一：akiriya 未做、kiriyākiriya 做及未做 vs ④⑤ 的“未作”“做及未作”
 - [ ] 统一之后，重新提取草稿术语，更新 `../../glossary/vinaya-terms.md` 和 `terms.md`
 - [ ] 律藏术语表里来源为 `推` 的 70 条（按风格推出的译名）逐条确认
 - [ ] 律藏术语表里标 ⚠ 的 42 条确认

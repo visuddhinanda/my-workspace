@@ -41,7 +41,7 @@ kusalattika 由 kusala（善）与 tika（三法）组成，指阿毗达摩“�
 《疑惑度脱》在每条学处末尾列出该罪的属性，善三法这一项排在“业”之后、“受”之前。
 
 - **一心**：第一巴拉基咖“*lokavajjaṃ, kāyakammaṃ, akusalacittaṃ, dvivedananti*”（世间罪，身业，不善心，二受）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}第三巴拉基咖亦作“*akusalacittaṃ, dukkhavedananti*”（不善心，苦受）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}
-- **二心**：只见于告宝学处：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善心、无记心而为二心，依乐受、舍受而为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+- **二心**：只见于告实学处：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善心、无记心而为二心，依乐受、舍受而为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
 - **三心**：第一卡提那学处“*paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, ticittaṃ, tivedananti*”（制定罪，身业，语业，三心，三受）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}媒嫁学处则展开来说：“*kusalādivasena cettha tīṇi cittāni, sukhādivasena tisso vedanāti*”（这里依善等而有三心，依乐等而有三受）。{{para|id=207-1393|title=kaṅkhāvitaraṇī 1393|style=reference}}
 
 ## 复注：为何要列善三法

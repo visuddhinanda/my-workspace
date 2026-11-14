@@ -85,7 +85,7 @@
 | addhānasamuṭṭhāna | 行道等起 | `c6fd43ae-def7-48b6-9c3f-49969c6b35a1` |
 | theyyasatthasamuṭṭhāna | 贼商等起 | `e1ebb844-c30f-421d-b0e4-e28b3672d359` |
 | dhammadesanāsamuṭṭhāna | 说法等起 | `629502b8-2ed4-48ef-a682-1abf625ed065` |
-| bhūtārocanasamuṭṭhāna | 告宝等起 | `54a8639e-b770-4486-bd5a-8fecf1d9a180` |
+| bhūtārocanasamuṭṭhāna | 告实等起 | `54a8639e-b770-4486-bd5a-8fecf1d9a180` |
 | corivuṭṭhāpanasamuṭṭhāna | 贼女达上等起 | `a09ae929-d040-4a2f-b18c-ed3b88bb444a` |
 | ananuññātasamuṭṭhāna | 不听许等起 | `8a7d4651-cd08-40af-ac6a-0bfc1ac791cf` |
 | lokavajja | 世间罪 | `93bf0557-e24d-4da7-9ef8-45f57e19a249` |

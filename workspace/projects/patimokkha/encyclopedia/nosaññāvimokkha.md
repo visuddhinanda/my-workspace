@@ -25,7 +25,7 @@
 
 《疑惑度脱》在套用中，非由想得脱总是与“无心”相连。第一卡提那学处：“*Kathinasamuṭṭhānaṃ, akiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（卡提那等起，未做，非由想得脱，无心，制定罪）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}《疑惑度脱新复注》解释此处的理由：“*Ajānantopi āpajjatīti nosaññāvimokkhaṃ*”（不知者也会犯，所以是非由想得脱）。{{para|id=212-1230|title=kaṅkhāvitaraṇī 1230|style=reference}}
 
-羊毛学处：“*kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ*”（由做，非由想得脱，无心，制定罪，身业）。{{para|id=207-1529|title=kaṅkhāvitaraṇī 1529|style=reference}}告宝学处：“*Bhūtārocanasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（告宝等起，由做，非由想得脱，无心，制定罪）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+羊毛学处：“*kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ*”（由做，非由想得脱，无心，制定罪，身业）。{{para|id=207-1529|title=kaṅkhāvitaraṇī 1529|style=reference}}告实学处：“*Bhūtārocanasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（告实等起，由做，非由想得脱，无心，制定罪）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
 
 ## 参考文献
 

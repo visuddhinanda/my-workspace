@@ -18,7 +18,7 @@
 
 ## 生起方式
 
-六种等起中，前三种无心，后三种有心：“*Tattha purimāni tīṇi acittakāni, pacchimāni sacittakāni*”（其中前三种是无心的，后三种是有心的）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}三等起（tisamuṭṭhāna）有两类：“*Tisamuṭṭhānā nāma paṭhamehi ca tīhi, pacchimehi ca tīhi samuṭṭhānehi samuṭṭhāti, na aññehi*”（三等起，是由前三种或后三种等起生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}不予取等起属于由后三种生起的一类；由前三种生起的另一类是告宝等起。
+六种等起中，前三种无心，后三种有心：“*Tattha purimāni tīṇi acittakāni, pacchimāni sacittakāni*”（其中前三种是无心的，后三种是有心的）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}三等起（tisamuṭṭhāna）有两类：“*Tisamuṭṭhānā nāma paṭhamehi ca tīhi, pacchimehi ca tīhi samuṭṭhānehi samuṭṭhāti, na aññehi*”（三等起，是由前三种或后三种等起生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}不予取等起属于由后三种生起的一类；由前三种生起的另一类是告实等起。
 
 《附随》的偈颂说明它的生起方式：“*Kāyacittena na vācā, vācācittaṃ na kāyikaṃ*”（由身心而非语，由语心而非身）{{para|id=217-1388|title=vinayapitaka 1388|style=reference}}；“*Tīhi dvārehi jāyanti, pārājikaṃ dutiyaṃ yathā*”（从三门生起，如同第二巴拉基咖）。{{para|id=217-1389|title=vinayapitaka 1389|style=reference}}
 

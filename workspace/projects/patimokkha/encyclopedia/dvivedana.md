@@ -5,7 +5,7 @@
 
 - 定义
 - 不善心而二受：贪欲所犯之罪
-- 善、无记心而二受：告宝学处
+- 善、无记心而二受：告实学处
 - 戒条中的套用
 - 参考文献
 - 相关条目
@@ -22,9 +22,9 @@
 
 第二不定学处亦同。《疑惑度脱新复注》说：“*kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ, kāyakammaṃ, vacīkammaṃ, akusalacittaṃ, sukhamajjhattavedanāhi dvivedanaṃ*”（由做，由想得脱，有心，世间罪，身业、语业，不善心，依乐、舍受为二受）。{{para|id=212-1177|title=kaṅkhāvitaraṇī 1177|style=reference}}
 
-## 善、无记心而二受：告宝学处
+## 善、无记心而二受：告实学处
 
-告宝学处是另一种情形，二受与二心相配：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善、无记心为二心，依乐、舍受为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}《精髓义灯（Sāratthadīpanī-ṭīkā）》认为二心的说法可能正是为了配合二受：“*Idha dukkhavedanāya abhāvato ‘‘dvivedanan’’ti imassa anurūpaṃ katvā dvicittan ti idaṃ vuttanti evaṃ vā ettha adhippāyo gahetabbo*”（或者，此处因为没有苦受而说“二受”，为了与之相配才说“二心”）。{{para|id=206-55|title=sāratthadīpanī-ṭīkā 55|style=reference}}《疑惑度脱新复注》所说全同。{{para|id=212-1497|title=kaṅkhāvitaraṇī 1497|style=reference}}
+告实学处是另一种情形，二受与二心相配：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善、无记心为二心，依乐、舍受为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}《精髓义灯（Sāratthadīpanī-ṭīkā）》认为二心的说法可能正是为了配合二受：“*Idha dukkhavedanāya abhāvato ‘‘dvivedanan’’ti imassa anurūpaṃ katvā dvicittan ti idaṃ vuttanti evaṃ vā ettha adhippāyo gahetabbo*”（或者，此处因为没有苦受而说“二受”，为了与之相配才说“二心”）。{{para|id=206-55|title=sāratthadīpanī-ṭīkā 55|style=reference}}《疑惑度脱新复注》所说全同。{{para|id=212-1497|title=kaṅkhāvitaraṇī 1497|style=reference}}
 
 ## 戒条中的套用
 

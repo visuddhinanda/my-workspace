@@ -38,7 +38,7 @@ samuṭṭhānavidhi 是 samuṭṭhāna（等起）与 vidhi（方式、规则�
 - “*Tattha yā kāyacittato samuṭṭhāti, ayaṃ paṭhamapārājikasamuṭṭhānā nāma*”（其中由身心生起的，名为第一巴拉基咖等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 - “*Yā sacittakehi tīhi samuṭṭhānehi samuṭṭhāti, ayaṃ adinnādānasamuṭṭhānā nāma*”（由有心的三种等起生起的，名为不予取等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 - “*Yā chahipi samuṭṭhāti, ayaṃ sañcarittasamuṭṭhānā nāma*”（六种都能生起的，名为做媒等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
-- “*Yā acittakehi tīhi samuṭṭhānehi samuṭṭhāti, ayaṃ bhūtārocanasamuṭṭhānā nāma*”（由无心的三种等起生起的，名为告宝等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
+- “*Yā acittakehi tīhi samuṭṭhānehi samuṭṭhāti, ayaṃ bhūtārocanasamuṭṭhānā nāma*”（由无心的三种等起生起的，名为告实等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 
 《疑惑度脱新复注》说明这里的“等起”指等起名：“*Samuṭṭhānavasenāti samuṭṭhānasīsavasena*”（依等起：即依等起名）。{{para|id=212-911|title=kaṅkhāvitaraṇī 911|style=reference}}
 

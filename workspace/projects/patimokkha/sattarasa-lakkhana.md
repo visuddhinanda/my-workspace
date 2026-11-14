@@ -153,7 +153,7 @@
 | addhānasamuṭṭhāna | 行道等起 | 自定 |  |  | P2 |
 | theyyasatthasamuṭṭhāna | 贼商等起 | 自定 |  |  | P2 |
 | dhammadesanāsamuṭṭhāna | 说法等起 | 自定 |  |  | P2 |
-| bhūtārocanasamuṭṭhāna | 告宝等起 | 自定 |  |  | P2 |
+| bhūtārocanasamuṭṭhāna | 告实等起 | 自定 |  |  | P2 |
 | corivuṭṭhāpanasamuṭṭhāna | 贼女达上等起 | 自定 |  |  | P2 |
 | ananuññātasamuṭṭhāna | 不听许等起 | 自定 |  |  | P2 |
 
@@ -252,7 +252,7 @@
 | abyākata | 无记 | 公共 |  |  | P3 |
 | abyākatacitta | 无记心 | 自定 |  |  | P3 |
 | ticitta | — | 未标记 | **三心**（另一写法：*kusalādivasena cettha tīṇi cittāni*，207:1393 媒嫁学处）：善、不善、无记三心皆可犯。例：207:1455 卡提那学处、207:1610 句法学处 `…paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti`（18 处） |  | P2 |
-| dvicitta | — | 未标记 | **二心**：只以善、无记心犯。原文 `kusalābyākatacittehi dvicittaṃ`，仅 207:1626 告宝学处 |  | P2 |
+| dvicitta | — | 未标记 | **二心**：只以善、无记心犯。原文 `kusalābyākatacittehi dvicittaṃ`，仅 207:1626 告实学处 |  | P2 |
 | akusalacitta（一心） | 不善心 | 自定 | **一心**：只以不善心犯，原文直接写 `akusalacittaṃ`，不写 ekacitta。例：207:1336 第一巴拉基咖、207:1383 粗恶语学处（共 13 处） |  | P3 |
 
 ## 17. vedanāttika 受三法（207:1333）

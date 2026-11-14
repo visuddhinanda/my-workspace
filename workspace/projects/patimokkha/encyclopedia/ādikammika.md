@@ -18,7 +18,7 @@
 
 ## 不犯的理由
 
-学处是因始作俑者的行为才制定的，制定之前没有学处可犯。所以在不犯的名单里，始作俑者与疯狂者等并列。第一巴拉基咖：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者以及始作俑者，不犯）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告宝学处也说：“*ādikammikassa ca anāpatti*”（始作俑者不犯）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}根本律中，连众学法每一条之后都附有“*Ādikammikassāti*”（〔不犯：〕始作俑者）。{{para|id=214-1731|title=vinayapitaka 1731|style=reference}}
+学处是因始作俑者的行为才制定的，制定之前没有学处可犯。所以在不犯的名单里，始作俑者与疯狂者等并列。第一巴拉基咖：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者以及始作俑者，不犯）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告实学处也说：“*ādikammikassa ca anāpatti*”（始作俑者不犯）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}根本律中，连众学法每一条之后都附有“*Ādikammikassāti*”（〔不犯：〕始作俑者）。{{para|id=214-1731|title=vinayapitaka 1731|style=reference}}
 
 不犯只限于始作俑者本人。《普端严》说：“*Avasesānaṃ makkaṭīsamaṇavajjiputtakādīnaṃ āpattiyevāti*”（其余如与母猴行淫的沙门、跋耆子等，仍然犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}
 

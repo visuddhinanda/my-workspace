@@ -40,7 +40,7 @@
 《疑惑度脱》在每条学处末尾，把“心”这一项列在“想”之后、“罪过”之前。
 
 - 有心：第一巴拉基咖“*kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ*”（由做，由想得脱，有心，世间罪）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}
-- 无心：第一卡提那学处“*akiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（未做，非由想得脱，无心，制定罪）{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}；告宝学处“*kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, kusalābyākatacittehi dvicittaṃ*”（由做，非由想得脱，无心，制定罪，身业、语业，以善与无记心为二心）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+- 无心：第一卡提那学处“*akiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（未做，非由想得脱，无心，制定罪）{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}；告实学处“*kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, kusalābyākatacittehi dvicittaṃ*”（由做，非由想得脱，无心，制定罪，身业、语业，以善与无记心为二心）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
 
 ## 参考文献
 

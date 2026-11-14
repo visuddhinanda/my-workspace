@@ -1,10 +1,10 @@
 {{quality|pending}}
-二心（dvicitta）是《疑惑度脱》在学处末尾套用十七要素时，第十六项善三法（kusalattika）的一种标注：表示这一罪只以善心或无记心犯，不以不善心犯。在《疑惑度脱》中只用于告宝学处（向未受具足戒者说上人法的实情），与三心（ticitta）、一心（akusalacittaṃ）相对。
+二心（dvicitta）是《疑惑度脱》在学处末尾套用十七要素时，第十六项善三法（kusalattika）的一种标注：表示这一罪只以善心或无记心犯，不以不善心犯。在《疑惑度脱》中只用于告实学处（向未受具足戒者说上人法的实情），与三心（ticitta）、一心（akusalacittaṃ）相对。
 
 ## 目录
 
 - 定义
-- 唯一的用例：告宝学处
+- 唯一的用例：告实学处
 - 为什么不算不善心：复注的两种解释
 - 参考文献
 - 相关条目
@@ -13,9 +13,9 @@
 
 《疑惑度脱（Kaṅkhāvitaraṇī）》说：“*sabbasikkhāpadesu akusalacittavasena ekaṃ cittaṃ, kusalābyākatacittavasena dve cittāni, sabbesaṃ vasena tīṇi cittāni*”（在一切学处中，依不善心为一心，依善、无记心为二心，依全部为三心）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}
 
-## 唯一的用例：告宝学处
+## 唯一的用例：告实学处
 
-《疑惑度脱》的告宝学处写道：“*Bhūtārocanasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（告宝等起，由做，非由想得脱，无心，制定罪，身业、语业，依善、无记心为二心，依乐、舍受为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+《疑惑度脱》的告实学处写道：“*Bhūtārocanasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（告实等起，由做，非由想得脱，无心，制定罪，身业、语业，依善、无记心为二心，依乐、舍受为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
 
 《律抉择复注（Vinayavinicchaya-ṭīkā）》说明原因：“*Imissāpattiyā aññatra jhānamaggādilābhīnaṃ aññassa asambhavā ‘‘kusalābyākateheva dvicittan’’ti vuttaṃ*”（因为这一罪除了得禅那、道等的人以外，别人不可能犯，所以说“只以善、无记心为二心”）。{{para|id=201-1527|title=vinayavinicchaya-ṭīkā 1527|style=reference}}
 

@@ -36,7 +36,7 @@ vedanāttika 由 vedanā（受）与 tika（三法）组成，指“乐受、苦
 《疑惑度脱》在每条学处末尾列出该罪的属性，受三法排在最后。义注称“一受”（ekavedana），戒条里则直接写“苦受”（dukkhavedanaṃ）。
 
 - **一受（苦受）**：第三巴拉基咖“*akusalacittaṃ, dukkhavedananti*”（不善心，苦受）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}
-- **二受**：第一巴拉基咖“*akusalacittaṃ, dvivedananti*”（不善心，二受）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告宝学处则说明是哪两受：“*sukhamajjhattavedanāhi dvivedananti*”（依乐受、舍受而为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+- **二受**：第一巴拉基咖“*akusalacittaṃ, dvivedananti*”（不善心，二受）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告实学处则说明是哪两受：“*sukhamajjhattavedanāhi dvivedananti*”（依乐受、舍受而为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
 - **三受**：第二巴拉基咖“*akusalacittaṃ, tivedananti*”（不善心，三受）。{{para|id=207-1353|title=kaṅkhāvitaraṇī 1353|style=reference}}第一卡提那学处“*ticittaṃ, tivedananti*”（三心，三受）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
 
 可见受的数目与心的数目不一定对应：同样是“不善心”，杀人（第三巴拉基咖）只有苦受，淫（第一巴拉基咖）是二受，盗（第二巴拉基咖）则三受都有。

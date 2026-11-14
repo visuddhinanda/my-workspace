@@ -89,7 +89,7 @@
 | thullaccaya | 图拉加亚 | 自定 | ③ 粗罪，多为未遂 |  | P2 |
 | nissaggiyapācittiya | 尼萨耆巴吉帝亚（推） | 未标记 | ④ 舍堕 |  | P2 |
 | pācittiya | 巴吉帝亚 | 自定 | ④ 单堕 |  | P2 |
-| pāṭidesanīya | 波罗提提舍尼（推） | 未标记 | ⑤ 悔过 |  | P2 |
+| pāṭidesanīya | 应悔过（推） | 未标记 | ⑤ 悔过 |  | P2 |
 | dukkaṭa | 恶作 | 公共 | ⑥ |  | P2 |
 | dubbhāsita | 恶说 | 未标记 | ⑦ 最轻 |  | P2 |
 | garukāpatti / lahukāpatti | 重罪 / 轻罪 | 未标记 | 轻重总分 |  | P2 |
@@ -143,7 +143,7 @@
 | tisamuṭṭhānā | 三重等起 | 自定 |  |  | P2 |
 | catusamuṭṭhāna | 四重等起 | 自定 |  |  | P2 |
 | chasamuṭṭhāna | 六重等起 | 自定 |  |  | P2 |
-| paṭhamapārājikasamuṭṭhāna | 第一巴拉基卡等起 | 自定 | 十三种等起名之一 |  | P2 |
+| paṭhamapārājikasamuṭṭhāna | 第一巴拉基咖等起 | 自定 | 十三种等起名之一 |  | P2 |
 | adinnādānasamuṭṭhāna | 不予取等起 | 自定 |  |  | P2 |
 | sañcarittasamuṭṭhāna | 做媒等起 | 自定 |  |  | P2 |
 | samanubhāsanasamuṭṭhāna | 劝谏等起 | 自定 |  |  | P2 |

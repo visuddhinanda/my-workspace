@@ -6,7 +6,7 @@
 - [ ] **同一个词的不同写法**，统一：
   - [ ] uposatha：伍波思特 / 伍波萨它（和合日伍波萨它、决意伍波萨它）/ 布萨（ekūposatha、uposathakamma）
   - [ ] pātimokkha：巴帝摩卡 / 巴蒂摩卡 / 巴帝牟卡（`Pātimokkha` 大写形式单独一条）
-  - [ ] pārājika：巴拉基咖 / 巴拉基卡（第一巴拉基卡、巴拉基卡对象、《巴拉基卡诵》）
+  - [x] pārājika：统一“巴拉基咖”（用户定）；用户旧词条待改
   - [ ] paṇḍaka：般达咖 / 潘达咖（口淫潘达咖等）
   - [ ] kammavācā：甘马语 / 甘马文 / 羯磨语（kammavācāsampatti）
   - [ ] sikkhāpada：训练条规 / 学处（异语学处、射精学处）
@@ -31,8 +31,9 @@
 - [ ] tag 不一致：āṇatti 的 tag 是“律学十七要素分析中的一项”，其他是“十七要素分析”
 - [x] P2 戒律专用术语：63 条已写入 Claude channel（无 tag）
   - [ ] 确认拟定译名：nissaggiyapācittiya 尼萨耆巴吉帝亚、pāṭidesanīya 应悔过、garukāpatti 重罪、āpattibheda 罪种分类、payogabheda 加行区分、sāṇattika 有命令的、vematika 怀疑者、tikapācittiya 三想巴吉帝亚、tikadukkaṭa 三想恶作、dvikadukkaṭa 二想恶作、tikasaṅghādisesa 三想僧始终、diṭṭhivipatti 见失坏、sikkhāpadasamuṭṭhāna 学处等起、tikadvaya 两组三法、ticitta 三心、dvicitta 二心、tivedana 三受
-  - [ ] pāṭidesanīya：百科用“应悔过”，律藏术语表为“波罗提提舍尼”（推），需统一
-  - [ ] sañcaritta“媒嫁” vs sañcarittasamuṭṭhāna“做媒等起”；pārājika“巴拉基咖” vs 等起名“巴拉基卡”
+  - [x] pāṭidesanīya 定为“应悔过”（用户定，2026-11-14），律藏表与百科已改
+  - [ ] sañcaritta“媒嫁” vs sañcarittasamuṭṭhāna“做媒等起”
+  - [x] pārājika 复合词统一用“巴拉基咖”（用户定）：百科与律藏表已改；用户自己的旧词条（第一巴拉基卡、巴拉基卡篇等）待改
   - [ ] bhūtārocanasamuṭṭhāna“告宝等起”：bhūta 义为“真实”，可考虑“告实等起”
   - [ ] 新书名确认：《巴吉帝亚等义疏》(Pācityādiyojanā)
 - [ ] P3 公共领域术语（23 行：地名、三门、善/不善/无记心、诸受等）

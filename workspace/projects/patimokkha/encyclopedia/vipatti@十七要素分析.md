@@ -25,7 +25,7 @@ vipatti 由前缀 vi-（离、坏）与 patti（到达、成就，源自 pajjati
 《附随》又以偈颂界定各自的内容：
 
 - **戒失坏（sīlavipatti）**：“*Ye garukā te duṭṭhullā, ye duṭṭhullā sā sīlavipatti*”（凡是重罪就是粗罪，凡是粗罪就是戒失坏）{{para|id=217-2277|title=vinayapitaka 2277|style=reference}}；“*Pārājikaṃ saṅghādiseso, sīlavipattī ti vuccati*”（巴拉基咖、僧始终，称为戒失坏）。{{para|id=217-2278|title=vinayapitaka 2278|style=reference}}
-- **行失坏（ācāravipatti）**：“*Thullaccayaṃ pācittiyā, pāṭidesanīyaṃ dukkaṭaṃ*”（图拉加亚、巴吉帝亚、波罗提提舍尼、恶作）{{para|id=217-2279|title=vinayapitaka 2279|style=reference}}，“*Dubbhāsitaṃ yo cāyaṃ, akkosati hasādhippāyo*”（恶说，以及以戏笑之意辱骂者）{{para|id=217-2280|title=vinayapitaka 2280|style=reference}}，“*Ayaṃ sā ācāravipattisammatā*”（这被认定为行失坏）。{{para|id=217-2281|title=vinayapitaka 2281|style=reference}}
+- **行失坏（ācāravipatti）**：“*Thullaccayaṃ pācittiyā, pāṭidesanīyaṃ dukkaṭaṃ*”（图拉加亚、巴吉帝亚、应悔过、恶作）{{para|id=217-2279|title=vinayapitaka 2279|style=reference}}，“*Dubbhāsitaṃ yo cāyaṃ, akkosati hasādhippāyo*”（恶说，以及以戏笑之意辱骂者）{{para|id=217-2280|title=vinayapitaka 2280|style=reference}}，“*Ayaṃ sā ācāravipattisammatā*”（这被认定为行失坏）。{{para|id=217-2281|title=vinayapitaka 2281|style=reference}}
 - **见失坏（diṭṭhivipatti）**：“*Viparītadiṭṭhiṃ gaṇhanti, asaddhammehi purakkhatā*”（执取颠倒见，以非正法为先导）{{para|id=217-2282|title=vinayapitaka 2282|style=reference}}，“*Ayaṃ sā diṭṭhivipattisammatā*”（这被认定为见失坏）。{{para|id=217-2284|title=vinayapitaka 2284|style=reference}}
 - **命失坏（ājīvavipatti）**：“*Ājīvahetu ājīvakāraṇā pāpiccho icchāpakato asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapati*”（为了活命、以活命为因，恶欲、为欲所驱，宣说自己并不具有的过人法）……“*Ayaṃ sā ājīvavipatti sammatā*”（这被认定为命失坏）。{{para|id=217-2285|title=vinayapitaka 2285|style=reference}}
 

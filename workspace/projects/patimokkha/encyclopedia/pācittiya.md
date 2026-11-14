@@ -17,7 +17,7 @@
 
 ## 在七罪聚中的位置
 
-《普端严·附随注》提到“七罪聚”：“*Āpattikkhandhā ca bhavanti satta*”（罪聚有七）。{{para|id=142-250|title=samantapāsādikā 250|style=reference}}《大品》把巴吉帝亚与图拉加亚、波罗提提舍尼、恶作、恶说同列为行失坏：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、悔过、恶作、恶说，这是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}《疑惑度脱》也说：“*pārājikāni ca saṅghādisesā ca sīlavipatti, sesāpattiyo ācāravipatti*”（巴拉基咖与僧始终是戒失坏，其余诸罪是行失坏）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
+《普端严·附随注》提到“七罪聚”：“*Āpattikkhandhā ca bhavanti satta*”（罪聚有七）。{{para|id=142-250|title=samantapāsādikā 250|style=reference}}《大品》把巴吉帝亚与图拉加亚、应悔过、恶作、恶说同列为行失坏：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、悔过、恶作、恶说，这是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}《疑惑度脱》也说：“*pārājikāni ca saṅghādisesā ca sīlavipatti, sesāpattiyo ācāravipatti*”（巴拉基咖与僧始终是戒失坏，其余诸罪是行失坏）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
 
 就轻重而言，《普端严·小品注》说：“*Pañcāpattikkhandhā lahukāpatti nāma, dve āpattikkhandhā garukāpatti nāma*”（五罪聚名为轻罪，二罪聚名为重罪）。{{para|id=141-528|title=samantapāsādikā 528|style=reference}}巴吉帝亚属于前者。
 

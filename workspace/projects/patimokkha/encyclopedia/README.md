@@ -75,7 +75,7 @@
 | catusamuṭṭhāna | 四重等起 | `d7f70a2e-8d06-4aa0-ab39-2423f01cf12e` |
 | chasamuṭṭhāna | 六重等起 | `de82bfa4-df6b-4188-a9cb-3162300762e0` |
 | kiriyākiriya | 做及未做 | `83ed9a7a-a37b-4e03-8049-1bd194f52fdc` |
-| paṭhamapārājikasamuṭṭhāna | 第一巴拉基卡等起 | `d0723a65-3e7b-4862-b9e5-f64ed160d6d4` |
+| paṭhamapārājikasamuṭṭhāna | 第一巴拉基咖等起 | `d0723a65-3e7b-4862-b9e5-f64ed160d6d4` |
 | adinnādānasamuṭṭhāna | 不予取等起 | `b2de26a4-9405-4e6e-9476-4e2d1e067518` |
 | sañcarittasamuṭṭhāna | 做媒等起 | `0b6ad592-2fb5-4901-97ca-a426c7e3f320` |
 | samanubhāsanasamuṭṭhāna | 劝谏等起 | `410f66e1-43cd-4db5-9f1a-30b837beb648` |

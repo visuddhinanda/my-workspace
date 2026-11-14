@@ -23,7 +23,7 @@
 
 三种组合各有一个等起名：
 
-1. **身心**（第四种）：“*Tattha yā kāyacittato samuṭṭhāti, ayaṃ paṭhamapārājikasamuṭṭhānā nāma*”（其中由身心生起的，名为第一巴拉基卡等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
+1. **身心**（第四种）：“*Tattha yā kāyacittato samuṭṭhāti, ayaṃ paṭhamapārājikasamuṭṭhānā nāma*”（其中由身心生起的，名为第一巴拉基咖等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 2. **语心**（第五种）：“*Yā pañcameneva samuṭṭhāti, ayaṃ dhammadesanāsamuṭṭhānā nāma*”（只由第五种生起的，名为说法等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 3. **身语心**（第六种）：“*Yā chaṭṭheneva samuṭṭhāti, ayaṃ samanubhāsanasamuṭṭhānā nāma*”（只由第六种生起的，名为劝谏等起）。{{para|id=207-1329|title=kaṅkhāvitaraṇī 1329|style=reference}}
 
@@ -31,7 +31,7 @@
 
 《附随（Parivāra）》在列举同一等起名下的学处之后，以“单一等起”作结，如：“*Sabbe ekasamuṭṭhānā, paṭhamaṃ pārājikaṃ yathā*”（这些全都是单一等起，如第一巴拉基咖）{{para|id=217-1368|title=vinayapitaka 1368|style=reference}}；“*Sabbe ekasamuṭṭhānā, samanubhāsanā yathā*”（全都是单一等起，如劝谏）{{para|id=217-1419|title=vinayapitaka 1419|style=reference}}；“*Sabbe ekasamuṭṭhānā, samakā dhammadesane*”（全都是单一等起，与说法相同）。{{para|id=217-1481|title=vinayapitaka 1481|style=reference}}
 
-《上抉择》给出各组的数目。第一巴拉基卡等起一组：“*Pañcasattati niddiṭṭhā, kāyacittasamuṭṭhitā*”（列出的七十五条，由身心生起）{{para|id=200-11318|title=uttaravinicchayo 11318|style=reference}}，“*Ime ekasamuṭṭhānā, methunena samā matā*”（这些是单一等起，被认为与淫法相同）。{{para|id=200-11319|title=uttaravinicchayo 11319|style=reference}}《上抉择复注》说这七十五条出自两部分别：“*ubhatovibhaṅge niddiṭṭhā ime pañcasattati dhammā kāyacittasamuṭṭhitā methunena samā ekasamuṭṭhānā matāti yojanā*”（两部分别中所列这七十五条，由身心生起，与淫法相同，是单一等起）。{{para|id=201-4644|title=uttaravinicchaya-ṭīkā 4644|style=reference}}
+《上抉择》给出各组的数目。第一巴拉基咖等起一组：“*Pañcasattati niddiṭṭhā, kāyacittasamuṭṭhitā*”（列出的七十五条，由身心生起）{{para|id=200-11318|title=uttaravinicchayo 11318|style=reference}}，“*Ime ekasamuṭṭhānā, methunena samā matā*”（这些是单一等起，被认为与淫法相同）。{{para|id=200-11319|title=uttaravinicchayo 11319|style=reference}}《上抉择复注》说这七十五条出自两部分别：“*ubhatovibhaṅge niddiṭṭhā ime pañcasattati dhammā kāyacittasamuṭṭhitā methunena samā ekasamuṭṭhānā matāti yojanā*”（两部分别中所列这七十五条，由身心生起，与淫法相同，是单一等起）。{{para|id=201-4644|title=uttaravinicchaya-ṭīkā 4644|style=reference}}
 
 劝谏等起一组有三十七条：“*ime sattatiṃsa dhammā sabbe kāyavācādito kāyavācācittato ekasamuṭṭhānā katā samanubhāsanā siyuṃ*”（这三十七条全都由身语心而生起，是单一等起，与劝谏相同）。{{para|id=201-4673|title=uttaravinicchaya-ṭīkā 4673|style=reference}}说法等起一组有十一条：“*nidassitā sabbe ekādasa dhammā vācācittasaṅkhātena ekena samuṭṭhānena samuṭṭhitā dhammadesanasamuṭṭhānāti saññitā*”（所列的十一条，全都由称为语心的一种等起生起，被称为说法等起）。{{para|id=201-4694|title=uttaravinicchaya-ṭīkā 4694|style=reference}}
 

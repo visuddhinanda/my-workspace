@@ -1,5 +1,5 @@
 {{quality|pending}}
-行失坏（ācāravipatti）是四种失坏之一，指巴拉基咖、僧始终以外的五类罪：图拉加亚、巴吉帝亚、波罗提提舍尼、恶作、恶说。《疑惑度脱》指出，两部波罗提木叉中除巴拉基咖、僧始终外，其余的罪都属行失坏，因此从尼萨耆巴吉帝亚起不再逐条标注。
+行失坏（ācāravipatti）是四种失坏之一，指巴拉基咖、僧始终以外的五类罪：图拉加亚、巴吉帝亚、应悔过、恶作、恶说。《疑惑度脱》指出，两部波罗提木叉中除巴拉基咖、僧始终外，其余的罪都属行失坏，因此从尼萨耆巴吉帝亚起不再逐条标注。
 
 ## 目录
 
@@ -12,9 +12,9 @@
 
 ## 定义
 
-根本律《大品》：“*thullaccayaṃ , pācittiyaṃ , pāṭidesanīyaṃ , dukkaṭaṃ , dubbhāsitaṃ , ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、波罗提提舍尼、恶作、恶说，这就是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}
+根本律《大品》：“*thullaccayaṃ , pācittiyaṃ , pāṭidesanīyaṃ , dukkaṭaṃ , dubbhāsitaṃ , ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、应悔过、恶作、恶说，这就是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}
 
-《附随》以偈颂说：“*Thullaccayaṃ pācittiyā , pāṭidesanīyaṃ dukkaṭaṃ*”（图拉加亚、巴吉帝亚、波罗提提舍尼、恶作）{{para|id=217-2279|title=vinayapitaka 2279|style=reference}}，“*Dubbhāsitaṃ yo cāyaṃ , akkosati hasādhippāyo*”（恶说，以及以戏笑之意辱骂者）{{para|id=217-2280|title=vinayapitaka 2280|style=reference}}，“*Ayaṃ sā ācāravipattisammatā*”（这被认定为行失坏）。{{para|id=217-2281|title=vinayapitaka 2281|style=reference}}
+《附随》以偈颂说：“*Thullaccayaṃ pācittiyā , pāṭidesanīyaṃ dukkaṭaṃ*”（图拉加亚、巴吉帝亚、应悔过、恶作）{{para|id=217-2279|title=vinayapitaka 2279|style=reference}}，“*Dubbhāsitaṃ yo cāyaṃ , akkosati hasādhippāyo*”（恶说，以及以戏笑之意辱骂者）{{para|id=217-2280|title=vinayapitaka 2280|style=reference}}，“*Ayaṃ sā ācāravipattisammatā*”（这被认定为行失坏）。{{para|id=217-2281|title=vinayapitaka 2281|style=reference}}
 
 《疑惑度脱新复注（Kaṅkhāvitaraṇī-abhinavaṭīkā）》：“*avasesā pañca ācāravipatti nāma*”（其余五类〔罪聚〕名为行失坏）。{{para|id=212-909|title=kaṅkhāvitaraṇī 909|style=reference}}《精髓义灯（Sāratthadīpanī-ṭīkā）》也说：“*Avasesānaṃ vasenāti pañcalahukāpattīnaṃ vasena*”（“依其余者”，即依五种轻罪）。{{para|id=205-1295|title=sāratthadīpanī-ṭīkā 1295|style=reference}}
 

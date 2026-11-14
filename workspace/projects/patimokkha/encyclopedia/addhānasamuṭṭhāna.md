@@ -19,7 +19,7 @@
 
 ## 所属学处
 
-《附随》以偈颂列出属于此类的学处：“*Addhānanāvaṃ paṇītaṃ, mātugāmena saṃhare*”（同行、同船、美食、与女人〔同行〕、剃〔隐处毛〕）{{para|id=217-1458|title=vinayapitaka 1458|style=reference}}，“*Dhaññaṃ nimantitā ceva, aṭṭha ca pāṭidesanī*”（谷物、受请〔食〕，以及八条波罗提提舍尼）{{para|id=217-1459|title=vinayapitaka 1459|style=reference}}，共计“*Sikkhā pannarasa ete*”（这些学处共十五条）。{{para|id=217-1460|title=vinayapitaka 1460|style=reference}}
+《附随》以偈颂列出属于此类的学处：“*Addhānanāvaṃ paṇītaṃ, mātugāmena saṃhare*”（同行、同船、美食、与女人〔同行〕、剃〔隐处毛〕）{{para|id=217-1458|title=vinayapitaka 1458|style=reference}}，“*Dhaññaṃ nimantitā ceva, aṭṭha ca pāṭidesanī*”（谷物、受请〔食〕，以及八条应悔过）{{para|id=217-1459|title=vinayapitaka 1459|style=reference}}，共计“*Sikkhā pannarasa ete*”（这些学处共十五条）。{{para|id=217-1460|title=vinayapitaka 1460|style=reference}}
 
 《普端严·附随注》逐一解释偈中所指，前三条是：“*bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, ekaṃ nāvaṃ abhiruheyya, paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyyā*”（与比库尼约定而同行一段路，同乘一船，无病而为自己乞美食来吃）。{{para|id=142-68|title=samantapāsādikā 68|style=reference}}
 

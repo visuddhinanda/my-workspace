@@ -137,7 +137,7 @@
 - ④ 写 `siyā kiriyaṃ, siyā akiriyaṃ`，如 207:1536 金银学处：*siyā kiriyaṃ gahaṇena āpajjanato, siyā akiriyaṃ paṭikkhepassa akaraṇato*（受取时由做而犯，不拒绝时由未做而犯）。
 - ⑤ 在 207:1397 造小屋学处写成 *kiriyañca, kiriyākiriyañca*，并解释：*vatthuṃ desāpetvā pamāṇātikkantaṃ vā karoto kiriyato samuṭṭhāti, adesāpetvā karoto kiriyākiriyato samuṭṭhāti*（指示了地点但超过尺寸而造，由做而犯；未经指示地点就造，由做及未做而犯）。
 - 另有混合写法：207:2520 *siyā kiriyākiriyaṃ … siyā kiriyaṃ*。
-- 所以 ④⑤ 不需要另建术语，用 `siyā`（有时）+ ①②③ 的术语标记来译即可，例如“有时[[kiriya]]，有时[[akiriya]]”。
+- **定案**：④⑤ 不另建术语，`siyā` 译“有时”，后接 ①②③ 的术语标记。
 
 **草稿用词问题**（207:1330）：
 - 你用了 `[[kiriya@十七要素分析]]` 这种带标签的写法，可以用来区分同一个词的不同意思（kamma 业／甘马、paññatti 也可以这样处理）。
@@ -149,10 +149,10 @@
 | ① | kiriya | 由做 | 自定 | kiriyaṃ / kiriyato |
 | ② | akiriya | 未做 | 自定 | akiriyaṃ / akiriyato |
 | ③ | kiriyākiriya | 做及未做 | 自定 | kiriyākiriyaṃ / kiriyākiriyato |
-| ④ | siyākiriya-siyāakiriya | 有时由做有时未作 | 待建词条 | siyā kiriyaṃ, siyā akiriyaṃ / siyā kiriyato siyā akiriyato |
-| ⑤ | siyākiriya-siyākiriyākiriya | 有时由做有时做及未作 | 待建词条 | kiriyañca kiriyākiriyañca / siyā kiriyato siyā kiriyākiriyato |
+| ④ | 不建词条 | 有时[[kiriya]]，有时[[akiriya]] | 译法 | siyā kiriyaṃ, siyā akiriyaṃ / siyā kiriyato siyā akiriyato |
+| ⑤ | 不建词条 | 有时[[kiriya]]，有时[[kiriyākiriya]] | 译法 | kiriyañca kiriyākiriyañca / siyā kiriyato siyā kiriyākiriyato |
 
-词头写法：用词干（与 ①②③ 一致，不带 -ṃ / -to 格尾），去掉空格，两半之间用连字符。理由见 TODO。
+④⑤ 不建词条：译文写“有时[[kiriya]]，有时[[akiriya]]”“有时[[kiriya]]，有时[[kiriyākiriya]]”，复用 ①②③ 的词条（用户定，2026-11-14）。
 
 ## 12. saññā 想（207:1331）
 

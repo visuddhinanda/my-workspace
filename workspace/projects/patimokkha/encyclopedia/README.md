@@ -1,4 +1,4 @@
-# 百科词条（P1：十七要素分析，隔离术语）
+# 百科词条
 
 写入 WikiPali Claude channel（`73c03e1a…`），以术语条目形式（word + tag=十七要素分析 + note=词条正文）。本目录是本地副本，修改后用 `wikipali term-edit <guid> --note "$(cat 文件)"` 同步。2026-11-14，署名 claude-opus-5-5。
 
@@ -29,3 +29,71 @@
 | vacīkamma | 语业 | `2fbcc149-92e0-41d1-b588-deed27e5a14f` |
 | kusalattika | 善三法 | `e424c1da-d410-454d-9501-b29d64564550` |
 | vedanāttika | 受三法 | `c9cdea96-2d4e-4d57-83f1-4ea044b16ce5` |
+
+## P2：戒律专用术语（无 tag）
+
+| word | 译名 | guid |
+|---|---|---|
+| anupaññatti | 补充条款 | `2f4759eb-2166-41eb-8166-2b0934c7fc3b` |
+| anuppannapaññatti | 提前制定 | `da720504-806e-4ed4-8672-9b6cbd355849` |
+| sabbatthapaññatti | 一切处制定 | `de92872b-c5ad-4611-b564-31481013f6e0` |
+| padesapaññatti | 区域性规定 | `1488c46d-e7d5-4ee8-b72a-f86c14908878` |
+| sādhāraṇapaññatti | 共通制定 | `7736b2c8-2b56-4543-904d-6e302ea47218` |
+| asādhāraṇapaññatti | 非共通制定 | `9ea3368b-73ef-4e11-bd05-390899904f9a` |
+| ekatopaññatti | 单独适用的规定 | `9c7e9f06-b3d4-428e-8a80-f2a9dfc117d6` |
+| ubhatopaññatti | 两方制定 | `c5d016df-85b5-4f77-a23f-4b5592b32e3d` |
+| pārājika | 巴拉基咖 | `31320fa9-d814-44d8-9118-c9c68f3d3e7a` |
+| saṅghādisesa | 僧始终 | `cd0ca845-f977-4074-8371-3d23a7444b38` |
+| thullaccaya | 图拉加亚 | `f2fb152d-d1cc-4f73-bf54-edfd90814a05` |
+| nissaggiyapācittiya | 尼萨耆巴吉帝亚 | `37689648-731e-40e1-a73b-85feabdcbd96` |
+| pācittiya | 巴吉帝亚 | `256ccf97-fa97-45af-838d-fd0cb1ffd10e` |
+| pāṭidesanīya | 应悔过 | `d2b59344-0224-42ab-bebb-d784579a0de6` |
+| dukkaṭa | 恶作 | `b50f3e59-52e2-4da7-9b11-92d575ee60de` |
+| dubbhāsita | 恶说 | `957db01f-2fd2-4a59-9c3f-e0244f4260d1` |
+| garukāpatti | 重罪 | `ab5bb4e3-289c-43e7-8b71-6a749c4b1fea` |
+| lahukāpatti | 轻罪 | `baf110d0-c309-4277-bef7-791951477567` |
+| āpattibheda | 罪种分类 | `71ec8c53-4148-4419-87eb-842151e20bba` |
+| payogabheda | 加行区分 | `979250dc-1f00-45e4-9190-607162bb3701` |
+| pubbapayoga | 事先的准备 | `e0eb7360-b5f9-446e-896f-387836d73624` |
+| sahapayoga | 自作加行 | `b2ad1f2f-f8c0-4806-9baf-1e2698d3ad41` |
+| anāṇattika | 非命令的 | `8e74535f-eb10-4c43-b272-63e906d97a53` |
+| sāṇattika | 有命令的 | `db85776b-af2d-4a4a-ac61-0c5aa37ed63e` |
+| ādikammika | 始作俑者 | `b317afaa-044b-457c-8601-2a433792c284` |
+| vematika | 怀疑者 | `62dfb476-2362-49ae-b4b9-b52d4252c890` |
+| tikapācittiya | 三想巴吉帝亚 | `783dfb4e-00de-45b9-ae44-56afb306ac99` |
+| tikadukkaṭa | 三想恶作 | `967dd777-5eb7-4700-8579-d7f36ceb4335` |
+| dvikadukkaṭa | 二想恶作 | `707baa3b-b8d0-486e-beb5-3cb937ecc8b3` |
+| tikasaṅghādisesa | 三想僧始终 | `1b468a67-9483-4ed7-ab65-fd59e8630155` |
+| sīlavipatti | 戒失坏 | `9fe4be6e-8313-4b17-b39b-aee077268415` |
+| ācāravipatti | 行失坏 | `298d8ec8-bd26-4c52-a5d2-6a32c6c2bbff` |
+| diṭṭhivipatti | 见失坏 | `926645a5-7aa3-4ecb-8c46-334dc2aef8fd` |
+| ājīvavipatti | 命失坏 | `acc4f880-84b9-44b0-9415-e59c14098917` |
+| sikkhāpadasamuṭṭhāna | 学处等起 | `8f86580d-59a8-4316-9584-b3e92b7d9539` |
+| ekasamuṭṭhāna | 单一等起 | `dc33c8e6-1b23-452a-9617-b35c2c70ccaf` |
+| dvisamuṭṭhāna | 双重等起 | `8f4f8681-8a4f-46ea-b16f-35ad8e7a0dc8` |
+| tisamuṭṭhānā | 三重等起 | `7958f544-8f20-42fc-8aab-d15d03d699dc` |
+| catusamuṭṭhāna | 四重等起 | `d7f70a2e-8d06-4aa0-ab39-2423f01cf12e` |
+| chasamuṭṭhāna | 六重等起 | `de82bfa4-df6b-4188-a9cb-3162300762e0` |
+| kiriyākiriya | 做及未做 | `83ed9a7a-a37b-4e03-8049-1bd194f52fdc` |
+| paṭhamapārājikasamuṭṭhāna | 第一巴拉基卡等起 | `d0723a65-3e7b-4862-b9e5-f64ed160d6d4` |
+| adinnādānasamuṭṭhāna | 不予取等起 | `b2de26a4-9405-4e6e-9476-4e2d1e067518` |
+| sañcarittasamuṭṭhāna | 做媒等起 | `0b6ad592-2fb5-4901-97ca-a426c7e3f320` |
+| samanubhāsanasamuṭṭhāna | 劝谏等起 | `410f66e1-43cd-4db5-9f1a-30b837beb648` |
+| kathinasamuṭṭhāna | 卡提那等起 | `27802c25-2a5f-4a35-bcf2-88aa7e3fbcc3` |
+| eḷakalomasamuṭṭhāna | 羊毛等起 | `90613350-7fd0-43c3-99ff-f04d08c624f1` |
+| padasodhammasamuṭṭhāna | 句法等起 | `d98358d8-83c7-4c85-bf35-970b2870660e` |
+| addhānasamuṭṭhāna | 行道等起 | `c6fd43ae-def7-48b6-9c3f-49969c6b35a1` |
+| theyyasatthasamuṭṭhāna | 贼商等起 | `e1ebb844-c30f-421d-b0e4-e28b3672d359` |
+| dhammadesanāsamuṭṭhāna | 说法等起 | `629502b8-2ed4-48ef-a682-1abf625ed065` |
+| bhūtārocanasamuṭṭhāna | 告宝等起 | `54a8639e-b770-4486-bd5a-8fecf1d9a180` |
+| corivuṭṭhāpanasamuṭṭhāna | 贼女达上等起 | `a09ae929-d040-4a2f-b18c-ed3b88bb444a` |
+| ananuññātasamuṭṭhāna | 不听许等起 | `8a7d4651-cd08-40af-ac6a-0bfc1ac791cf` |
+| lokavajja | 世间罪 | `93bf0557-e24d-4da7-9ef8-45f57e19a249` |
+| paṇṇattivajja | 制定罪 | `102db297-c8d7-45af-b5bd-6191764b2126` |
+| saññāvimokkha | 由想得脱 | `1e31e7b8-fdd7-4995-93f7-709305875c09` |
+| nosaññāvimokkha | 非由想得脱 | `92517c0c-db44-49ad-92e7-d844470bec05` |
+| tikadvaya | 两组三法 | `1500e3d6-5b25-482e-9621-975a39dcf388` |
+| ticitta | 三心 | `402f13a0-d193-4671-b183-658810628be4` |
+| dvicitta | 二心 | `ab251bd1-0b40-45e7-b935-306b660dc820` |
+| tivedana | 三受 | `9370ac53-60ec-423e-943a-b65c13bd69fc` |
+| dvivedana | 二受 | `6892d617-e8c9-4f35-9d57-ab4e3ebc3f61` |

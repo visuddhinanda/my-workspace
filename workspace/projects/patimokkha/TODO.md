@@ -29,7 +29,12 @@
   - [ ] 确认拟定译名：kiriyā 做、paññatti 制定、puggala 人、vatthu 事、aṅga 支分；nidāna 现用“来源”（正文作“因缘”）
   - [ ] 新出现的书名确认：《上抉择》(Uttaravinicchaya)、《上抉择复注》、《律抉择复注》(Vinayavinicchaya-ṭīkā)、《除疑》(Vimativinodanī)
 - [ ] tag 不一致：āṇatti 的 tag 是“律学十七要素分析中的一项”，其他是“十七要素分析”
-- [ ] P2 戒律专用术语（61 个）
+- [x] P2 戒律专用术语：63 条已写入 Claude channel（无 tag）
+  - [ ] 确认拟定译名：nissaggiyapācittiya 尼萨耆巴吉帝亚、pāṭidesanīya 应悔过、garukāpatti 重罪、āpattibheda 罪种分类、payogabheda 加行区分、sāṇattika 有命令的、vematika 怀疑者、tikapācittiya 三想巴吉帝亚、tikadukkaṭa 三想恶作、dvikadukkaṭa 二想恶作、tikasaṅghādisesa 三想僧始终、diṭṭhivipatti 见失坏、sikkhāpadasamuṭṭhāna 学处等起、tikadvaya 两组三法、ticitta 三心、dvicitta 二心、tivedana 三受
+  - [ ] pāṭidesanīya：百科用“应悔过”，律藏术语表为“波罗提提舍尼”（推），需统一
+  - [ ] sañcaritta“媒嫁” vs sañcarittasamuṭṭhāna“做媒等起”；pārājika“巴拉基咖” vs 等起名“巴拉基卡”
+  - [ ] bhūtārocanasamuṭṭhāna“告宝等起”：bhūta 义为“真实”，可考虑“告实等起”
+  - [ ] 新书名确认：《巴吉帝亚等义疏》(Pācityādiyojanā)
 - [ ] P3 公共领域术语（23 行：地名、三门、善/不善/无记心、诸受等）
 
 ## 其他

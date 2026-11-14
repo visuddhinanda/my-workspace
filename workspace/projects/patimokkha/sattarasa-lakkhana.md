@@ -123,15 +123,35 @@
 
 ## 11. kiriyā 作（五种）（207:1330）
 
+207:1330 的定义：*atthāpatti kiriyato samuṭṭhāti, atthi akiriyato, atthi kiriyākiriyato, atthi siyā kiriyato siyā akiriyato, atthi siyā kiriyato siyā kiriyākiriyatoti.*
+
+| # | 定义里的说法（207:1330） | 戒条套用里的写法 | 当前译名 | 来源 | 例子 |
+|---|---|---|---|---|---|
+| ① | kiriyato samuṭṭhāti | `kiriyaṃ` | 由做（kiriya） | 自定 | 掘地（例）；207:1477、207:1529 等 |
+| ② | akiriyato samuṭṭhāti | `akiriyaṃ` | 未做（akiriya） | 自定 | 第一卡提那罪；207:1455 |
+| ③ | kiriyākiriyato samuṭṭhāti | `kiriyākiriyaṃ` | 做及未做（kiriyākiriya） | 自定 | 从非亲里比库尼受衣；207:1481、207:2197 等 13 处 |
+| ④ | siyā kiriyato siyā akiriyato | `siyā kiriyaṃ, siyā akiriyaṃ` | —（未定） | 未标记 | 受金银罪；207:1536 金银学处、207:1645 异语学处、207:1924 窃听学处 |
+| ⑤ | siyā kiriyato siyā kiriyākiriyato | 不用 siyā，写成 `kiriyañca kiriyākiriyañca` | —（未定） | 未标记 | 造小屋罪；207:1397 造小屋学处 |
+
+**结论**：④⑤ 不是另造的新词，而是把 ①②③ 加上 **siyā**（“有时”）组合起来：
+- ④ 写 `siyā kiriyaṃ, siyā akiriyaṃ`，如 207:1536 金银学处：*siyā kiriyaṃ gahaṇena āpajjanato, siyā akiriyaṃ paṭikkhepassa akaraṇato*（受取时由做而犯，不拒绝时由未做而犯）。
+- ⑤ 在 207:1397 造小屋学处写成 *kiriyañca, kiriyākiriyañca*，并解释：*vatthuṃ desāpetvā pamāṇātikkantaṃ vā karoto kiriyato samuṭṭhāti, adesāpetvā karoto kiriyākiriyato samuṭṭhāti*（指示了地点但超过尺寸而造，由做而犯；未经指示地点就造，由做及未做而犯）。
+- 另有混合写法：207:2520 *siyā kiriyākiriyaṃ … siyā kiriyaṃ*。
+- 所以 ④⑤ 不需要另建术语，用 `siyā`（有时）+ ①②③ 的术语标记来译即可，例如“有时[[kiriya]]，有时[[akiriya]]”。
+
+**草稿用词问题**（207:1330）：
+- 你用了 `[[kiriya@十七要素分析]]` 这种带标签的写法，可以用来区分同一个词的不同意思（kamma 业／甘马、paññatti 也可以这样处理）。
+- 同一段里 ① 有时写 `[[kiriyā]]`（公共术语表，显示为“唯作”），有时写 `[[kiriya]]`（你自己的词条，显示为“由做”），需要统一。
+
 | 术语标记 | 当前译名 | 来源 | 说明 |
 |---|---|---|---|
-| kiriyā | 唯作 | 公共 |  |
-| kiriya | 由做 | 自定 | 由作而犯 |
-| akiriya | 未做 | 自定 | 由不作而犯 |
-| kiriyākiriya | 做及未做 | 自定 | 由作及不作而犯 |
-| paṭhamakathina | 第一卡提那学处 | 无词条 | 例：第一卡提那罪 |
-| cīvarappaṭiggahaṇa | 受衣学处 | 无词条 | 例：受衣罪 |
-| kuṭikārāpatti | 造小屋罪 | 无词条 | 例：造小屋罪 |
+| kiriyā | 唯作 | 公共 | 要素名；与 kiriya 混用 |
+| kiriya | 由做 | 自定 | ① |
+| akiriya | 未做 | 自定 | ② |
+| kiriyākiriya | 做及未做 | 自定 | ③ |
+| paṭhamakathina | 第一卡提那学处 | 无词条 | ② 的例子 |
+| cīvarappaṭiggahaṇa | 受衣学处 | 无词条 | ③ 的例子 |
+| kuṭikārāpatti | 造小屋罪 | 无词条 | ⑤ 的例子 |
 
 ## 12. saññā 想（207:1331）
 

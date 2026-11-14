@@ -17,8 +17,8 @@
 | aṅga | 支分 | `5c9d3d87-3abb-4f6d-886e-5df2ae5f9bda` |
 | samuṭṭhānavidhi | 等起的方式 | `9fa59a2b-ba6c-49e4-b18a-67c4a32111c9` |
 | samuṭṭhāna | 等起 | `84df88d2-6324-4222-b553-cf70e355ee57` |
-| sacittaka | 故意 | `41228fb3-c1e1-4328-bdaf-1b023e2b0240` |
-| acittaka | 无意 | `2142264f-68d6-4849-8b06-8f3a79258531` |
+| sacittaka | 有心 | `41228fb3-c1e1-4328-bdaf-1b023e2b0240` |
+| acittaka | 无心 | `2142264f-68d6-4849-8b06-8f3a79258531` |
 | kiriyā | 做 | `e92009c7-44e2-405f-b291-9792277d0c30` |
 | akiriya | 未做 | `15732448-db4b-4086-83da-3a6acc497b0a` |
 | saññā | 想 | `2e9f800c-40cb-4c38-bcfe-e00bdf56ab36` |

@@ -136,8 +136,8 @@
 | samuṭṭhānavidhi | 等起的方式 | 自定 |  | ✔ 一级 `[[samuṭṭhānavidhi@十七要素分析]]` | P1 |
 | samuṭṭhāna | 等起 | 自定 |  | ✔ `[[samuṭṭhāna@十七要素分析]]`：阿毗达摩“心等起色”的等起，与犯罪等起不同 | P1 |
 | sikkhāpadasamuṭṭhāna | — | 未标记 | 六等起的别名 |  | P2 |
-| sacittaka | 故意 | 自定 | 后三种等起 | ✔ `[[sacittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色）；“故意/无意”只适合此处 | P1 |
-| acittaka | 无意 | 自定 | 前三种等起 | ✔ `[[acittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色）；“故意/无意”只适合此处 | P1 |
+| sacittaka | 有心 | 自定 | 后三种等起 | ✔ `[[sacittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色） | P1 |
+| acittaka | 无心 | 自定 | 前三种等起 | ✔ `[[acittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色） | P1 |
 | ekasamuṭṭhāna | 单一等起 | 自定 |  |  | P2 |
 | dvisamuṭṭhāna | 双重等起 | 自定 |  |  | P2 |
 | tisamuṭṭhānā | 三重等起 | 自定 |  |  | P2 |
@@ -203,8 +203,8 @@
 | 术语标记 | 当前译名 | 来源 | 说明 | 隔离 | 批次 |
 |---|---|---|---|---|---|
 | citta | 心 | 自定 |  | ✔ 一级 `[[citta@十七要素分析]]` | P1 |
-| sacittaka | 故意 | 自定 |  | ✔ `[[sacittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色）；“故意/无意”只适合此处 | P1 |
-| acittaka | 无意 | 自定 |  | ✔ `[[acittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色）；“故意/无意”只适合此处 | P1 |
+| sacittaka | 有心 | 自定 |  | ✔ `[[sacittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色） | P1 |
+| acittaka | 无心 | 自定 |  | ✔ `[[acittaka@十七要素分析]]`：阿毗达摩 sacittaka/acittaka 指“有心/无心”（如无心色） | P1 |
 
 ## 14. vajja 罪过（207:1332）
 

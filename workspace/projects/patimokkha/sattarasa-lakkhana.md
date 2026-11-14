@@ -214,6 +214,21 @@
 
 ## 15. kamma 业（207:1332）
 
+定义（207:1332）：*Sabbā ca kāyakammavacīkammatadubhayavasena tividhā honti. Tattha kāyadvāre āpajjitabbā kāyakammanti vuccati, vacīdvāre āpajjitabbā vacīkammanti vuccati, ubhayattha āpajjitabbā kāyakammaṃ vacīkammañcāti, manodvāre āpatti nāma natthi.*
+——一切罪按业分三种：在身门犯的叫身业，在语门犯的叫语业，两门都能犯的叫“身业、语业”；意门不会犯罪。
+
+**戒条里的写法**：紧跟在第 14 项（vajja）之后，只有三种组合：
+
+| 组合 | 原文 | 例子 |
+|---|---|---|
+| 只有身业 | `…vajjaṃ, kāyakammaṃ, …` | 207:1336 第一巴拉基咖、207:1529 羊毛学处 |
+| 只有语业 | `…vajjaṃ, vacīkammaṃ, …` | 207:1610 句法学处 |
+| 身业、语业 | `…vajjaṃ, kāyakammaṃ, vacīkammaṃ, …` | 其余 20 处，如 207:1353 第二巴拉基咖、207:1383、207:1455 |
+
+- 明写这一串的只有 23 段，即 13 种等起各自的代表学处。其余学处都用简写：*Samuṭṭhānādīni X-sadisāni*（等起等与某学处相同），如 207:1634 *Samuṭṭhānādīni adinnādānasadisāni, idaṃ pana paṇṇattivajjaṃ…*，只把不同的项另外说出。
+- 207:1336 还说明：*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*——等起等这些属性是罪的，不是学处的。草稿已译。
+- 草稿里简写有两种译法：“其等起等，与……相同”（207:1375、207:1387）和“[[samuṭṭhāna]]等，与……相同”（207:1379），需要统一。
+
 | 术语标记 | 当前译名 | 来源 | 说明 | 隔离 |
 |---|---|---|---|---|
 | kamma | 业 | 自定 | 此处义为“业”，正确；律藏表里 kamma 作“甘马”，两义需分词条 | ✔ 一级 `[[kamma@十七要素分析]]`：通义“业”vs 律中“甘马（羯磨）”；此处取“业” |
@@ -234,7 +249,7 @@
 | kusalacitta | — | 无词条 |  |  |
 | abyākata | 无记 | 公共 |  |  |
 | abyākatacitta | 无记心 | 自定 |  |  |
-| ticitta | — | 未标记 | **三心**：善、不善、无记三心皆可犯。例：207:1455 卡提那学处、207:1610 句法学处 `…paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti`（18 处） |  |
+| ticitta | — | 未标记 | **三心**（另一写法：*kusalādivasena cettha tīṇi cittāni*，207:1393 媒嫁学处）：善、不善、无记三心皆可犯。例：207:1455 卡提那学处、207:1610 句法学处 `…paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti`（18 处） |  |
 | dvicitta | — | 未标记 | **二心**：只以善、无记心犯。原文 `kusalābyākatacittehi dvicittaṃ`，仅 207:1626 告宝学处 |  |
 | akusalacitta（一心） | 不善心 | 自定 | **一心**：只以不善心犯，原文直接写 `akusalacittaṃ`，不写 ekacitta。例：207:1336 第一巴拉基咖、207:1383 （13 处） |  |
 
@@ -248,6 +263,6 @@
 | dukkhavedanā | 苦受 | 公共 |  |  |
 | sukhavedanā | 乐受 | 公共 |  |  |
 | upekkhavedanā | — | 无词条 |  |  |
-| tivedana | — | 未标记 | **三受**：`tivedananti`，与 ticitta 成对出现（23 处） |  |
+| tivedana | — | 未标记 | **三受**（另一写法：*sukhādivasena tisso vedanā*，207:1393）：`tivedananti`，与 ticitta 成对出现（23 处） |  |
 | dvivedana / dvivedanā | 二受 | 公共 | **二受**：乐、舍二受。草稿 207:1336 用 `[[dvivedana]]`、207:1383 用 `[[dvivedanā]]`，两种词形需统一 |  |
 | dukkhavedana | — | 未标记 | **一受（苦受）**：与 akusalacitta 成对，`akusalacittaṃ, dukkhavedananti`。例：207:1362 第三巴拉基咖、207:1412 破僧学处（24 处） |  |

@@ -225,7 +225,7 @@
 |---|---|---|
 | 只有身业 | `…vajjaṃ, kāyakammaṃ, …` | 207:1336 第一巴拉基咖、207:1529 羊毛学处 |
 | 只有语业 | `…vajjaṃ, vacīkammaṃ, …` | 207:1610 句法学处 |
-| 身业、语业 | `…vajjaṃ, kāyakammaṃ, vacīkammaṃ, …` | 其余 20 处，如 207:1353 第二巴拉基咖、207:1383、207:1455 |
+| 身业、语业 | `…vajjaṃ, kāyakammaṃ, vacīkammaṃ, …` | 其余 20 处，如 207:1353 第二巴拉基咖、207:1383 粗恶语学处（僧始终第 3 条）、207:1455 卡提那学处 |
 
 - 明写这一串的只有 23 段，即 13 种等起各自的代表学处。其余学处都用简写：*Samuṭṭhānādīni X-sadisāni*（等起等与某学处相同），如 207:1634 *Samuṭṭhānādīni adinnādānasadisāni, idaṃ pana paṇṇattivajjaṃ…*，只把不同的项另外说出。
 - 207:1336 还说明：*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*——等起等这些属性是罪的，不是学处的。草稿已译。
@@ -253,7 +253,7 @@
 | abyākatacitta | 无记心 | 自定 |  |  | P3 |
 | ticitta | — | 未标记 | **三心**（另一写法：*kusalādivasena cettha tīṇi cittāni*，207:1393 媒嫁学处）：善、不善、无记三心皆可犯。例：207:1455 卡提那学处、207:1610 句法学处 `…paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti`（18 处） |  | P2 |
 | dvicitta | — | 未标记 | **二心**：只以善、无记心犯。原文 `kusalābyākatacittehi dvicittaṃ`，仅 207:1626 告宝学处 |  | P2 |
-| akusalacitta（一心） | 不善心 | 自定 | **一心**：只以不善心犯，原文直接写 `akusalacittaṃ`，不写 ekacitta。例：207:1336 第一巴拉基咖、207:1383 （13 处） |  | P3 |
+| akusalacitta（一心） | 不善心 | 自定 | **一心**：只以不善心犯，原文直接写 `akusalacittaṃ`，不写 ekacitta。例：207:1336 第一巴拉基咖、207:1383 粗恶语学处（共 13 处） |  | P3 |
 
 ## 17. vedanāttika 受三法（207:1333）
 
@@ -266,5 +266,5 @@
 | sukhavedanā | 乐受 | 公共 |  |  | P3 |
 | upekkhavedanā | — | 无词条 |  |  | P3 |
 | tivedana | — | 未标记 | **三受**（另一写法：*sukhādivasena tisso vedanā*，207:1393）：`tivedananti`，与 ticitta 成对出现（23 处） |  | P2 |
-| dvivedana / dvivedanā | 二受 | 公共 | **二受**：乐、舍二受。草稿 207:1336 用 `[[dvivedana]]`、207:1383 用 `[[dvivedanā]]`，两种词形需统一 |  | P2 |
+| dvivedana / dvivedanā | 二受 | 公共 | **二受**：乐、舍二受。草稿 207:1336（第一巴拉基咖）用 `[[dvivedana]]`、207:1383（粗恶语学处）用 `[[dvivedanā]]`，两种词形需统一 |  | P2 |
 | dukkhavedana | — | 未标记 | **一受（苦受）**：与 akusalacitta 成对，`akusalacittaṃ, dukkhavedananti`。例：207:1362 第三巴拉基咖、207:1412 破僧学处（24 处） |  | P3 |

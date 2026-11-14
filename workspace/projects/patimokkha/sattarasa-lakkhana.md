@@ -130,8 +130,8 @@
 | ① | kiriyato samuṭṭhāti | `kiriyaṃ` | 由做（kiriya） | 自定 | 掘地（例）；207:1477、207:1529 等 |
 | ② | akiriyato samuṭṭhāti | `akiriyaṃ` | 未做（akiriya） | 自定 | 第一卡提那罪；207:1455 |
 | ③ | kiriyākiriyato samuṭṭhāti | `kiriyākiriyaṃ` | 做及未做（kiriyākiriya） | 自定 | 从非亲里比库尼受衣；207:1481、207:2197 等 13 处 |
-| ④ | siyā kiriyato siyā akiriyato | `siyā kiriyaṃ, siyā akiriyaṃ` | —（未定） | 未标记 | 受金银罪；207:1536 金银学处、207:1645 异语学处、207:1924 窃听学处 |
-| ⑤ | siyā kiriyato siyā kiriyākiriyato | 不用 siyā，写成 `kiriyañca kiriyākiriyañca` | —（未定） | 未标记 | 造小屋罪；207:1397 造小屋学处 |
+| ④ | siyā kiriyato siyā akiriyato | `siyā kiriyaṃ, siyā akiriyaṃ` | 有时[[kiriya]]，有时[[akiriya]] | 译法 | 受金银罪；207:1536 金银学处、207:1645 异语学处、207:1924 窃听学处 |
+| ⑤ | siyā kiriyato siyā kiriyākiriyato | 不用 siyā，写成 `kiriyañca kiriyākiriyañca` | 有时[[kiriya]]，有时[[kiriyākiriya]] | 译法 | 造小屋罪；207:1397 造小屋学处 |
 
 **结论**：④⑤ 不是另造的新词，而是把 ①②③ 加上 **siyā**（“有时”）组合起来：
 - ④ 写 `siyā kiriyaṃ, siyā akiriyaṃ`，如 207:1536 金银学处：*siyā kiriyaṃ gahaṇena āpajjanato, siyā akiriyaṃ paṭikkhepassa akaraṇato*（受取时由做而犯，不拒绝时由未做而犯）。

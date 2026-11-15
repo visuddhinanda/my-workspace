@@ -1,5 +1,5 @@
 {{quality|pending}}
-第一巴拉基咖等起（paṭhamapārājikasamuṭṭhāna）是十三种等起名之一，指只由“身与心”这一种等起生起的罪，以最先制定的第一巴拉基咖（淫戒）命名。凡属此等起的学处，都只能以身、并且带着心而犯，不能以语犯。
+第一巴拉基咖等起（paṭhamapārājikasamuṭṭhāna）是十三种[[samuṭṭhāna@十七特征]]名之一，指只由“身与心”这一种[[samuṭṭhāna@十七特征]]生起的罪，以最先制定的第一[[pārājika]]（淫戒）命名。凡属此[[samuṭṭhāna@十七特征]]的学处，都只能以身、并且带着心而犯，不能以语犯。
 
 ## 目录
 
@@ -16,17 +16,17 @@
 
 ## 生起方式
 
-六种等起依次是：“*kāyo vācā kāyavācā kāyacittaṃ vācācittaṃ kāyavācācittanti*”（身、语、身语、身心、语心、身语心）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}身心是第四种。只由一种等起生起的叫一等起（ekasamuṭṭhāna）：“*ekasamuṭṭhānā nāma catutthena ca pañcamena ca chaṭṭhena ca samuṭṭhānena samuṭṭhāti, na aññena*”（一等起，是由第四、第五或第六种等起〔之一〕生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}第一巴拉基咖等起就是其中由第四种生起的一类。
+六种[[samuṭṭhāna@十七特征]]依次是：“*kāyo vācā kāyavācā kāyacittaṃ vācācittaṃ kāyavācācittanti*”（身、语、身语、身心、语心、身语心）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}身心是第四种。只由一种等起生起的叫一等起（ekasamuṭṭhāna）：“*ekasamuṭṭhānā nāma catutthena ca pañcamena ca chaṭṭhena ca samuṭṭhānena samuṭṭhāti, na aññena*”（一[[samuṭṭhāna@十七特征]]，是由第四、第五或第六种[[samuṭṭhāna@十七特征]]〔之一〕生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}第一巴拉基咖等起就是其中由第四种生起的一类。
 
 ## 所属学处
 
-《附随（Parivāra）》以偈颂列出属于此等起的学处，开头是：“*Methunaṃ sukkasaṃsaggo, aniyatā paṭhamikā*”（淫、泄精、身体接触、第一不定）{{para|id=217-1361|title=vinayapitaka 1361|style=reference}}，包括五十三条众学：“*tepaññāsā ca sekhiyā*”（以及五十三条众学）。{{para|id=217-1364|title=vinayapitaka 1364|style=reference}}总数与生起方式是：“*Chasattati ime sikkhā, kāyamānasikā katā*”（这七十六条学处，由身与意而作）{{para|id=217-1367|title=vinayapitaka 1367|style=reference}}；“*Sabbe ekasamuṭṭhānā, paṭhamaṃ pārājikaṃ yathā*”（都是一等起，如同第一巴拉基咖）。{{para|id=217-1368|title=vinayapitaka 1368|style=reference}}
+《附随（Parivāra）》以偈颂列出属于此[[samuṭṭhāna@十七特征]]的学处，开头是：“*Methunaṃ sukkasaṃsaggo, aniyatā paṭhamikā*”（淫、泄精、身体接触、第一不定）{{para|id=217-1361|title=vinayapitaka 1361|style=reference}}，包括五十三条众学：“*tepaññāsā ca sekhiyā*”（以及五十三条众学）。{{para|id=217-1364|title=vinayapitaka 1364|style=reference}}总数与生起方式是：“*Chasattati ime sikkhā, kāyamānasikā katā*”（这七十六条学处，由身与意而作）{{para|id=217-1367|title=vinayapitaka 1367|style=reference}}；“*Sabbe ekasamuṭṭhānā, paṭhamaṃ pārājikaṃ yathā*”（都是一[[samuṭṭhāna@十七特征]]，如同第一[[pārājika]]）。{{para|id=217-1368|title=vinayapitaka 1368|style=reference}}
 
 ## 《疑惑度脱》中的套用
 
-第一巴拉基咖本身：“*Samuṭṭhānādito idaṃ sikkhāpadaṃ paṭhamapārājikasamuṭṭhānaṃ, kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ, kāyakammaṃ*”（从等起等方面说，此学处是第一巴拉基咖等起、由做、由想得脱、有心、世间罪、身业）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}因为只由身门生起，业的一项只有身业。
+第一[[pārājika]]本身：“*Samuṭṭhānādito idaṃ sikkhāpadaṃ paṭhamapārājikasamuṭṭhānaṃ, kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ, kāyakammaṃ*”（从[[samuṭṭhāna@十七特征]]等方面说，此学处是第一巴拉基咖等起、[[kiriya@十七特征]]、[[saññāvimokkha]]、[[sacittaka@十七特征]]、[[lokavajja]]、[[kāyakamma@十七特征]]）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}因为只由身门生起，业的一项只有[[kāyakamma@十七特征]]。
 
-其余同类学处以简写带过，例如泄精学处：“*Samuṭṭhānādīni paṭhamapārājike vuttasadisānevāti*”（等起等与第一巴拉基咖所说相同）{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}；打比库学处：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana dukkhavedananti*”（等起等与第一巴拉基咖相同，但此条只有苦受）。{{para|id=207-1909|title=kaṅkhāvitaraṇī 1909|style=reference}}比库尼独往村落学处则说明其不同之处：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana paṇṇattivajjaṃ, ticittaṃ, tivedananti*”（等起等与第一巴拉基咖相同，但此条是制定罪、三心、三受）。{{para|id=207-2209|title=kaṅkhāvitaraṇī 2209|style=reference}}可见同一等起之下，罪过、心、受等其余属性仍可不同。
+其余同类学处以简写带过，例如泄精学处：“*Samuṭṭhānādīni paṭhamapārājike vuttasadisānevāti*”（[[samuṭṭhāna@十七特征]]等与第一[[pārājika]]所说相同）{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}；打[[bhikkhu]]学处：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana dukkhavedananti*”（[[samuṭṭhāna@十七特征]]等与第一[[pārājika]]相同，但此条只有苦受）。{{para|id=207-1909|title=kaṅkhāvitaraṇī 1909|style=reference}}[[bhikkhunī]]独往村落学处则说明其不同之处：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana paṇṇattivajjaṃ, ticittaṃ, tivedananti*”（[[samuṭṭhāna@十七特征]]等与第一[[pārājika]]相同，但此条是[[paṇṇattivajja]]、[[ticitta]]、[[tivedana]]）。{{para|id=207-2209|title=kaṅkhāvitaraṇī 2209|style=reference}}可见同一[[samuṭṭhāna@十七特征]]之下，罪过、心、受等其余属性仍可不同。
 
 ## 参考文献
 
@@ -38,8 +38,8 @@
 
 ## 相关条目
 
-- [[samuṭṭhāna@十七要素分析]]
-- [[samuṭṭhānavidhi@十七要素分析]]
+- [[samuṭṭhāna@十七特征]]
+- [[samuṭṭhānavidhi@十七特征]]
 - [[ekasamuṭṭhāna]]
 - [[pārājika]]
 - [[samanubhāsanasamuṭṭhāna]]

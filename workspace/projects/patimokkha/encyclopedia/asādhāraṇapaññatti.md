@@ -1,5 +1,5 @@
 {{quality|pending}}
-非共通制定（asādhāraṇapaññatti）是律学九种制定之一，指只为比库、或只为比库尼制定的学处，与对双方都适用的共通制定（sādhāraṇapaññatti）相对。它与“单独适用的规定（ekatopaññatti）”意思相同。
+非共通制定（asādhāraṇapaññatti）是律学九种制定之一，指只为[[bhikkhu]]、或只为[[bhikkhunī]]制定的学处，与对双方都适用的[[sādhāraṇapaññatti]]相对。它与“[[ekatopaññatti]]”意思相同。
 
 ## 目录
 
@@ -11,11 +11,11 @@
 
 ## 定义
 
-《疑惑度脱新复注（Kaṅkhāvitaraṇī-abhinavaṭīkā）》定义：“*Suddhabhikkhūnameva, suddhabhikkhunīnaṃ vā paññattaṃ sikkhāpadaṃ asādhāraṇapaññatti*”（只为比库、或只为比库尼制定的学处，是非共通制定）。{{para|id=212-909|title=kaṅkhāvitaraṇī 909|style=reference}}《普端严·附随注》说：“*suddhabhikkhūnameva hi suddhabhikkhunīnaṃ vā paññattaṃ sikkhāpadaṃ asādhāraṇapaññatti nāma hoti*”（只为比库或只为比库尼制定的学处，叫非共通制定）。{{para|id=142-12|title=samantapāsādikā 12|style=reference}}
+《疑惑度脱新复注（Kaṅkhāvitaraṇī-abhinavaṭīkā）》定义：“*Suddhabhikkhūnameva, suddhabhikkhunīnaṃ vā paññattaṃ sikkhāpadaṃ asādhāraṇapaññatti*”（只为[[bhikkhu]]、或只为[[bhikkhunī]]制定的学处，是非共通制定）。{{para|id=212-909|title=kaṅkhāvitaraṇī 909|style=reference}}《普端严·附随注》说：“*suddhabhikkhūnameva hi suddhabhikkhunīnaṃ vā paññattaṃ sikkhāpadaṃ asādhāraṇapaññatti nāma hoti*”（只为[[bhikkhu]]或只为[[bhikkhunī]]制定的学处，叫非共通制定）。{{para|id=142-12|title=samantapāsādikā 12|style=reference}}
 
 ## 实例
 
-《附随》问出精僧始终：“*Sādhāraṇapaññatti, asādhāraṇapaññattīti?*”（是共通制定，还是非共通制定？）答：“*Asādhāraṇapaññatti*”（非共通制定）。{{para|id=217-52|title=vinayapitaka 52|style=reference}}《疑惑度脱》在同一学处下也注明：“*‘aññatra supinantā’ ti ayamettha anupaññatti, asādhāraṇapaññatti*”（“除梦中外”是补充条款，属非共通制定）。{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}
+《附随》问出精[[saṅghādisesa]]：“*Sādhāraṇapaññatti, asādhāraṇapaññattīti?*”（是[[sādhāraṇapaññatti]]，还是非共通制定？）答：“*Asādhāraṇapaññatti*”（非共通制定）。{{para|id=217-52|title=vinayapitaka 52|style=reference}}《疑惑度脱》在同一学处下也注明：“*‘aññatra supinantā’ ti ayamettha anupaññatti, asādhāraṇapaññatti*”（“除梦中外”是[[anupaññatti]]，属非共通制定）。{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}
 
 ## 与单独适用的规定同义
 
@@ -32,7 +32,7 @@
 
 ## 相关条目
 
-- [[paññattividhi@十七要素分析]]
+- [[paññattividhi@十七特征]]
 - [[sādhāraṇapaññatti]]
 - [[ekatopaññatti]]
 

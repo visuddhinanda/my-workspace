@@ -17,18 +17,19 @@
   - [ ] 207:1344 标记坏了：`[[adinnan]]`、`[[???]]`
 - [x] kiriyā 五种的 ④⑤：不建词条，译作“有时[[kiriya]]，有时[[akiriya]]”“有时[[kiriya]]，有时[[kiriyākiriya]]”
 - [ ] “做/作”统一：akiriya 未做、kiriyākiriya 做及未做（用户口头用过“未作”“做及未作”）
-- [ ] 十七要素：17 个一级术语都建 tag=十七要素分析 的词条，草稿里对应位置改成 `[[词@十七要素分析]]`（清单见 `sattarasa-lakkhana.md`）
+- [ ] 十七特征：17 个一级术语都建 tag=十七特征 的词条，草稿里对应位置改成 `[[词@十七特征]]`（清单见 `sattarasa-lakkhana.md`）
 - [ ] “Samuṭṭhānādīni X-sadisāni”简写的译法统一：“其等起等，与……相同”（207:1375、207:1387）vs “[[samuṭṭhāna]]等，与……相同”（207:1379）
 - [ ] 统一之后，重新提取草稿术语，更新 `../../glossary/vinaya-terms.md` 和 `terms.md`
 - [ ] 律藏术语表里来源为 `推` 的 70 条（按风格推出的译名）逐条确认
 - [ ] 律藏术语表里标 ⚠ 的 42 条确认
 
-## 十七要素百科（分三批，批次见 `sattarasa-lakkhana.md` 批次列）
+## 十七特征百科（分三批，批次见 `sattarasa-lakkhana.md` 批次列）
 
 - [x] P1 隔离术语：25 条已写入 Claude channel（清单见 `encyclopedia/README.md`）
   - [ ] 确认拟定译名：kiriyā 做、paññatti 制定、puggala 人、vatthu 事、aṅga 支分；nidāna 现用“来源”（正文作“因缘”）
   - [ ] 新出现的书名确认：《上抉择》(Uttaravinicchaya)、《上抉择复注》、《律抉择复注》(Vinayavinicchaya-ṭīkā)、《除疑》(Vimativinodanī)
-- [ ] tag 不一致：āṇatti 的 tag 是“律学十七要素分析中的一项”，其他是“十七要素分析”
+- [ ] tag 统一为“十七特征”（用户定，2026-11-14）：Claude channel 已全部改；用户自己的 3 条 studio 词条 AI 改不了，需在网站上手动改：kiriya（c6304278）、vajja（2452e03f）、āṇatti（75520999，原 tag“律学十七要素分析中的一项”）
+- [ ] 草稿 207:1330 的 `[[kiriya@十七要素分析]]` 需改为 `[[kiriya@十七特征]]`
 - [x] P2 戒律专用术语：63 条已写入 Claude channel（无 tag）
   - [ ] 确认拟定译名：nissaggiyapācittiya 尼萨耆巴吉帝亚、pāṭidesanīya 应悔过、garukāpatti 重罪、āpattibheda 罪种分类、payogabheda 加行区分、sāṇattika 有命令的、vematika 怀疑者、tikapācittiya 三想巴吉帝亚、tikadukkaṭa 三想恶作、dvikadukkaṭa 二想恶作、tikasaṅghādisesa 三想僧始终、diṭṭhivipatti 见失坏、sikkhāpadasamuṭṭhāna 学处等起、tikadvaya 两组三法、ticitta 三心、dvicitta 二心、tivedana 三受
   - [x] pāṭidesanīya 定为“应悔过”（用户定，2026-11-14），律藏表与百科已改

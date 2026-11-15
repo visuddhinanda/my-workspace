@@ -1,5 +1,5 @@
 {{quality|pending}}
-不犯（anāpatti）是律学“十七要素分析”的第七项，指虽有与学处相关的行为，却不构成罪的情形，如不知、无意、疯狂者、始作俑者等。《疑惑度脱》在每条学处中都列出该学处的不犯情形；到众学法时更明说：其余各项可以省略，唯独不犯与支分在一切学处都必须说明。
+不犯（anāpatti）是律学“十七特征”的第七项，指虽有与学处相关的行为，却不构成罪的情形，如不知、无意、疯狂者、[[ādikammika]]等。《疑惑度脱》在每条学处中都列出该学处的不犯情形；到众学法时更明说：其余各项可以省略，唯独不犯与[[aṅga@十七特征]]在一切学处都必须说明。
 
 ## 目录
 
@@ -17,7 +17,7 @@ anāpatti 由否定前缀 an- 加 āpatti（罪）构成，意为“不成罪”
 
 ## 第一巴拉基咖的不犯
 
-《疑惑度脱》在第一巴拉基咖中列出标准的不犯者：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者，以及始作俑者，不犯）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}
+《疑惑度脱》在第一[[pārājika]]中列出标准的不犯者：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者，以及[[ādikammika]]，不犯）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}
 
 并逐一解释：
 
@@ -29,13 +29,13 @@ anāpatti 由否定前缀 an- 加 āpatti（罪）构成，意为“不成罪”
 
 ## 各学处的不犯
 
-后面的学处常以“疯狂者等”带过这一组通例，只把本学处特有的情形另外列出。第四巴拉基咖：“*Adhimānena ārocentassa, anullapanādhippāyassa, ummattakādīnañca anāpatti*”（因增上慢而宣称的、无意夸说的，以及疯狂者等，不犯）。{{para|id=207-1366|title=kaṅkhāvitaraṇī 1366|style=reference}}比库尼学处中写作阴性：“*Ābādhapaccayā gaṇḍaṃ vā vaṇaṃ vā paharantiyā, ummattikādīnañca anāpatti*”（因病而拍打疮或伤口的比库尼，以及疯狂者等，不犯）。{{para|id=207-2314|title=kaṅkhāvitaraṇī 2314|style=reference}}
+后面的学处常以“疯狂者等”带过这一组通例，只把本学处特有的情形另外列出。第四[[pārājika]]：“*Adhimānena ārocentassa, anullapanādhippāyassa, ummattakādīnañca anāpatti*”（因增上慢而宣称的、无意夸说的，以及疯狂者等，不犯）。{{para|id=207-1366|title=kaṅkhāvitaraṇī 1366|style=reference}}[[bhikkhunī]]学处中写作阴性：“*Ābādhapaccayā gaṇḍaṃ vā vaṇaṃ vā paharantiyā, ummattikādīnañca anāpatti*”（因病而拍打疮或伤口的[[bhikkhunī]]，以及疯狂者等，不犯）。{{para|id=207-2314|title=kaṅkhāvitaraṇī 2314|style=reference}}
 
-众学法省略了大部分要素，唯独不犯不省略：“*Anāpattimattaṃ pana aṅgañca sabbattha vattabbaṃ*”（但不犯与支分，在一切处都必须说明）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}接着列出：“*asañcicca, assatiyā, ajānantassa, gilānassa, āpadāsu, ummattakādīnañca anāpatti*”（非故意、失念、不知、生病、有危难，以及疯狂者等，不犯）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}
+众学法省略了大部分要素，唯独不犯不省略：“*Anāpattimattaṃ pana aṅgañca sabbattha vattabbaṃ*”（但不犯与[[aṅga@十七特征]]，在一切处都必须说明）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}接着列出：“*asañcicca, assatiyā, ajānantassa, gilānassa, āpadāsu, ummattakādīnañca anāpatti*”（非故意、失念、不知、生病、有危难，以及疯狂者等，不犯）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}
 
 ## 始作俑者
 
-不犯中的“始作俑者”指最初引发制戒的人。《疑惑度脱》说：“*Yo tasmiṃ tasmiṃ vatthusmiṃ ādibhūto, so ādikammiko*”（在各该事中最先〔犯〕的人，是始作俑者）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}《普端严》在第一巴拉基咖中举出实例：“*Idha pana sudinnatthero ādikammiko, tassa anāpatti*”（此处苏迪纳长老是始作俑者，他不犯）；“*Avasesānaṃ makkaṭīsamaṇavajjiputtakādīnaṃ āpattiyevāti*”（其余的，如母猴事的沙门、跋耆子等，都犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}
+不犯中的“[[ādikammika]]”指最初引发制戒的人。《疑惑度脱》说：“*Yo tasmiṃ tasmiṃ vatthusmiṃ ādibhūto, so ādikammiko*”（在各该事中最先〔犯〕的人，是[[ādikammika]]）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}《普端严》在第一[[pārājika]]中举出实例：“*Idha pana sudinnatthero ādikammiko, tassa anāpatti*”（此处苏迪纳长老是[[ādikammika]]，他不犯）；“*Avasesānaṃ makkaṭīsamaṇavajjiputtakādīnaṃ āpattiyevāti*”（其余的，如母猴事的沙门、跋耆子等，都犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}
 
 ## 根本律中的不犯
 
@@ -54,13 +54,13 @@ anāpatti 由否定前缀 an- 加 āpatti（罪）构成，意为“不成罪”
 
 ## 相关条目
 
-- [[āpatti@十七要素分析]]
+- [[āpatti@十七特征]]
 - [[ajānanta]]
 - [[ummattaka]]
 - [[khittacitta]]
 - [[vedanāṭṭa]]
 - [[ādikammika]]
-- [[aṅga@十七要素分析]]
+- [[aṅga@十七特征]]
 
 # 分类标签
 

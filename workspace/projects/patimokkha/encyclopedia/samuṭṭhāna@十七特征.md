@@ -1,5 +1,5 @@
 {{quality|pending}}
-等起（samuṭṭhāna）在律学“十七要素分析”中指罪生起的途径，共六种：身、语、身语、身心、语心、身语心。前三种不带心，后三种带心。一切罪都由其中一种或几种等起而生起。各罪按等起怎样组合来分类，属于“等起的方式（samuṭṭhānavidhi）”一条。
+等起（samuṭṭhāna）在律学“十七特征”中指罪生起的途径，共六种：身、语、身语、身心、语心、身语心。前三种不带心，后三种带心。一切罪都由其中一种或几种等起而生起。各罪按等起怎样组合来分类，属于“[[samuṭṭhānavidhi@十七特征]]”一条。
 
 ## 目录
 
@@ -27,15 +27,15 @@ samuṭṭhāna 由 saṃ- 与 uṭṭhāna（起来）组成，本义为“生�
 
 ## 一支、二支、三支
 
-《上抉择（Uttaravinicchaya）》说：“*Chadhā samuṭṭhānavidhiṃ vadanti*”（说等起的方式有六种）。{{para|id=200-11225|title=uttaravinicchayo 11225|style=reference}}其复注按组成的支数解释：“*Kāyo, vācāti ekaṅgikaṃ dvayaṃ, kāyavācā, kāyacittaṃ, vācācittanti duvaṅgikattayaṃ, kāyavācācittanti aṅgabhedena tividhampi*”（身、语，是一支的两种；身语、身心、语心，是二支的三种；身语心〔是三支的一种〕。按支来分，也是三类）。{{para|id=201-4618|title=uttaravinicchaya-ṭīkā 4618|style=reference}}
+《上抉择（Uttaravinicchaya）》说：“*Chadhā samuṭṭhānavidhiṃ vadanti*”（说[[samuṭṭhānavidhi@十七特征]]有六种）。{{para|id=200-11225|title=uttaravinicchayo 11225|style=reference}}其复注按组成的支数解释：“*Kāyo, vācāti ekaṅgikaṃ dvayaṃ, kāyavācā, kāyacittaṃ, vācācittanti duvaṅgikattayaṃ, kāyavācācittanti aṅgabhedena tividhampi*”（身、语，是一支的两种；身语、身心、语心，是二支的三种；身语心〔是三支的一种〕。按支来分，也是三类）。{{para|id=201-4618|title=uttaravinicchaya-ṭīkā 4618|style=reference}}
 
 ## 有心与无心
 
-《疑惑度脱》说：“*Tattha purimāni tīṇi acittakāni, pacchimāni sacittakāni*”（其中，前三种无心，后三种有心）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}也就是说，身、语、身语这三种等起不需要心作为条件，身心、语心、身语心这三种需要心。
+《疑惑度脱》说：“*Tattha purimāni tīṇi acittakāni, pacchimāni sacittakāni*”（其中，前三种[[acittaka@十七特征]]，后三种[[sacittaka@十七特征]]）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}也就是说，身、语、身语这三种等起不需要心作为条件，身心、语心、身语心这三种需要心。
 
 ## 罪的等起，而非学处的等起
 
-这六种虽然也叫“学处的等起”，严格说来却属于罪。《疑惑度脱》在第一巴拉基咖末尾指出：“*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*”（这些等起等属于罪，而不属于学处）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}《疑惑度脱新复注》说明为什么仍叫“学处的等起”：“*Etāni hi kiñcāpi āpattiyā samuṭṭhānāni, na sikkhāpadassa, vohārasukhatthaṃ panevaṃ vuccantīti*”（这些虽然是罪的等起，而不是学处的，但为了称呼方便才这样说）。{{para|id=212-910|title=kaṅkhāvitaraṇī 910|style=reference}}
+这六种虽然也叫“学处的等起”，严格说来却属于罪。《疑惑度脱》在第一[[pārājika]]末尾指出：“*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*”（这些等起等属于罪，而不属于学处）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}《疑惑度脱新复注》说明为什么仍叫“学处的等起”：“*Etāni hi kiñcāpi āpattiyā samuṭṭhānāni, na sikkhāpadassa, vohārasukhatthaṃ panevaṃ vuccantīti*”（这些虽然是罪的等起，而不是学处的，但为了称呼方便才这样说）。{{para|id=212-910|title=kaṅkhāvitaraṇī 910|style=reference}}
 
 ## 参考文献
 
@@ -50,11 +50,11 @@ samuṭṭhāna 由 saṃ- 与 uṭṭhāna（起来）组成，本义为“生�
 
 ## 相关条目
 
-- [[samuṭṭhānavidhi@十七要素分析]]
-- [[sacittaka@十七要素分析]]
-- [[acittaka@十七要素分析]]
+- [[samuṭṭhānavidhi@十七特征]]
+- [[sacittaka@十七特征]]
+- [[acittaka@十七特征]]
 - [[sikkhāpadasamuṭṭhāna]]
-- [[kiriya@十七要素分析]]
+- [[kiriya@十七特征]]
 
 # 分类标签
 

@@ -1,5 +1,5 @@
 {{quality|pending}}
-善三法（kusalattika）是律学“十七要素分析”的第十六项，按犯罪时的心是善、不善还是无记，来判定一条罪属于“一心”“二心”还是“三心”。它与第十七项“受三法（vedanāttika）”合称“两种三法（tikadvaya）”。
+善三法（kusalattika）是律学“十七特征”的第十六项，按犯罪时的心是善、不善还是无记，来判定一条罪属于“一心”“[[dvicitta]]”还是“[[ticitta]]”。它与第十七项“[[vedanāttika@十七特征]]”合称“两种三法（tikadvaya）”。
 
 ## 目录
 
@@ -16,7 +16,7 @@
 
 kusalattika 由 kusala（善）与 tika（三法）组成，指阿毗达摩“善、不善、无记”这一组三法。《疑惑度脱（Kaṅkhāvitaraṇī）》的论母说：“*Vajjakammappabhedañca, tikadvayavidhiṃ tathā*”（〔应知〕过失与业的区分，以及两种三法的方式）。{{para|id=207-1321|title=kaṅkhāvitaraṇī 1321|style=reference}}
 
-《疑惑度脱》在《第一巴拉基咖释》中解释：“*Tikadvayavidhin ti kusalattikavedanāttikavidhiṃ*”（两种三法的方式，就是善三法与受三法的方式）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}十七要素以受三法收尾：“*idaṃ nidānādivedanāttikapariyosānaṃ sattarasappakāraṃ lakkhaṇaṃ*”（这从因缘开始、到受三法结束的十七种特征）。{{para|id=207-1334|title=kaṅkhāvitaraṇī 1334|style=reference}}
+《疑惑度脱》在《第一巴拉基咖释》中解释：“*Tikadvayavidhin ti kusalattikavedanāttikavidhiṃ*”（两种三法的方式，就是善三法与[[vedanāttika@十七特征]]的方式）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}十七特征以[[vedanāttika@十七特征]]收尾：“*idaṃ nidānādivedanāttikapariyosānaṃ sattarasappakāraṃ lakkhaṇaṃ*”（这从因缘开始、到[[vedanāttika@十七特征]]结束的十七种特征）。{{para|id=207-1334|title=kaṅkhāvitaraṇī 1334|style=reference}}
 
 ## 根本律中的三种心
 
@@ -30,7 +30,7 @@ kusalattika 由 kusala（善）与 tika（三法）组成，指阿毗达摩“�
 
 ## 一心、二心、三心
 
-《疑惑度脱》把上述分法简化为一、二、三心：“*Āpattiṃ āpajjamāno hi akusalacitto vā āpajjati kusalābyākatacitto vā*”（犯罪的人，或以不善心犯，或以善心、无记心犯）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}“*Evaṃ santepi sabbasikkhāpadesu akusalacittavasena ekaṃ cittaṃ, kusalābyākatacittavasena dve cittāni, sabbesaṃ vasena tīṇi cittāni*”（虽然如此，在一切学处中，依不善心是一心，依善心、无记心是二心，依全部是三心）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}
+《疑惑度脱》把上述分法简化为一、二、[[ticitta]]：“*Āpattiṃ āpajjamāno hi akusalacitto vā āpajjati kusalābyākatacitto vā*”（犯罪的人，或以不善心犯，或以善心、无记心犯）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}“*Evaṃ santepi sabbasikkhāpadesu akusalacittavasena ekaṃ cittaṃ, kusalābyākatacittavasena dve cittāni, sabbesaṃ vasena tīṇi cittāni*”（虽然如此，在一切学处中，依不善心是一心，依善心、无记心是[[dvicitta]]，依全部是[[ticitta]]）。{{para|id=207-1333|title=kaṅkhāvitaraṇī 1333|style=reference}}
 
 - **一心**：只以不善心犯。戒条写作“*akusalacittaṃ*”（不善心），不写 ekacitta。
 - **二心**：只以善心、无记心犯。
@@ -41,16 +41,16 @@ kusalattika 由 kusala（善）与 tika（三法）组成，指阿毗达摩“�
 《疑惑度脱》在每条学处末尾列出该罪的属性，善三法这一项排在“业”之后、“受”之前。
 
 - **一心**：第一巴拉基咖“*lokavajjaṃ, kāyakammaṃ, akusalacittaṃ, dvivedananti*”（世间罪，身业，不善心，二受）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}第三巴拉基咖亦作“*akusalacittaṃ, dukkhavedananti*”（不善心，苦受）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}
-- **二心**：只见于告实学处：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善心、无记心而为二心，依乐受、舍受而为二受）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
-- **三心**：第一卡提那学处“*paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, ticittaṃ, tivedananti*”（制定罪，身业，语业，三心，三受）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}媒嫁学处则展开来说：“*kusalādivasena cettha tīṇi cittāni, sukhādivasena tisso vedanāti*”（这里依善等而有三心，依乐等而有三受）。{{para|id=207-1393|title=kaṅkhāvitaraṇī 1393|style=reference}}
+- **二心**：只见于告实学处：“*kusalābyākatacittehi dvicittaṃ, sukhamajjhattavedanāhi dvivedananti*”（依善心、无记心而为[[dvicitta]]，依乐受、舍受而为[[dvivedana]]）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}
+- **三心**：第一卡提那学处“*paṇṇattivajjaṃ, kāyakammaṃ, vacīkammaṃ, ticittaṃ, tivedananti*”（制定罪，身业，语业，三心，三受）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}媒嫁学处则展开来说：“*kusalādivasena cettha tīṇi cittāni, sukhādivasena tisso vedanāti*”（这里依善等而有[[ticitta]]，依乐等而有[[tivedana]]）。{{para|id=207-1393|title=kaṅkhāvitaraṇī 1393|style=reference}}
 
 ## 复注：为何要列善三法
 
 《疑惑度脱旧复注（Kaṅkhāvitaraṇīpurāṇa-ṭīkā）》说明列出善三法的用意：“*Yaṃ panettha akiriyalakkhaṇaṃ kammaṃ, taṃ kusalattikavinimuttaṃ siyāti aniṭṭhappasaṅganivāraṇappayojanaṃ*”（这里以“未做”为特征的业，可能被认为不属于善三法；〔列出善三法〕是为了防止这种不当的推论）。{{para|id=212-86|title=kaṅkhāvitaraṇī 86|style=reference}}
 
-同书又指出，“三心”是就有心犯者立名，无心而犯的同样称为三心：“*Sikkhāpadañhi sacittakapuggalavasena ‘‘ticittaṃ tivedanan’’ti laddhavohāraṃ acittakenāpannampi ‘‘ticittaṃ tivedana’’miceva vuccati*”（学处依有心之人而得“三心、三受”之名，即使无心者所犯，也仍称为“三心、三受”）。{{para|id=212-86|title=kaṅkhāvitaraṇī 86|style=reference}}
+同书又指出，“[[ticitta]]”是就[[sacittaka@十七特征]]犯者立名，[[acittaka@十七特征]]而犯的同样称为[[ticitta]]：“*Sikkhāpadañhi sacittakapuggalavasena ‘‘ticittaṃ tivedanan’’ti laddhavohāraṃ acittakenāpannampi ‘‘ticittaṃ tivedana’’miceva vuccati*”（学处依[[sacittaka@十七特征]]之人而得“[[ticitta]]、[[tivedana]]”之名，即使[[acittaka@十七特征]]者所犯，也仍称为“[[ticitta]]、[[tivedana]]”）。{{para|id=212-86|title=kaṅkhāvitaraṇī 86|style=reference}}
 
-注意：《普端严》说“学处”是善、不善、无记的；{{para|id=138-1148|title=samantapāsādikā 1148|style=reference}}而《疑惑度脱》在第一巴拉基咖末尾强调：“*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*”（这些等起等属性是属于罪的，不是属于学处的）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}两者说法角度不同，前者以学处为单位举名，后者辨明归属。
+注意：《普端严》说“学处”是善、不善、无记的；{{para|id=138-1148|title=samantapāsādikā 1148|style=reference}}而《疑惑度脱》在第一[[pārājika]]末尾强调：“*imāni ca samuṭṭhānādīni nāma āpattiyā honti, na sikkhāpadassa*”（这些[[samuṭṭhāna@十七特征]]等属性是属于罪的，不是属于学处的）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}两者说法角度不同，前者以学处为单位举名，后者辨明归属。
 
 ## 参考文献
 
@@ -68,10 +68,10 @@ kusalattika 由 kusala（善）与 tika（三法）组成，指阿毗达摩“�
 
 ## 相关条目
 
-- [[vedanāttika@十七要素分析]]
-- [[citta@十七要素分析]]
-- [[sacittaka@十七要素分析]]
-- [[acittaka@十七要素分析]]
+- [[vedanāttika@十七特征]]
+- [[citta@十七特征]]
+- [[sacittaka@十七特征]]
+- [[acittaka@十七特征]]
 - [[akusalacitta]]
 - [[ticitta]]
 - [[dvicitta]]

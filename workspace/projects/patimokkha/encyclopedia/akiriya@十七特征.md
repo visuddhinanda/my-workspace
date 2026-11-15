@@ -1,5 +1,5 @@
 {{quality|pending}}
-未做（akiriya）是律学“十七要素分析”中第十一项“作（kiriyā）”的第二类，指身、语**应作而不作**所犯的罪；与“由做（kiriya）”“做及未做（kiriyākiriya）”相对。被判为未做的罪，不是因为作了什么，而是因为没有作该作的事而成立。
+未做（akiriya）是律学“十七特征”中第十一项“作（kiriyā）”的第二类，指身、语**应作而不作**所犯的罪；与“[[kiriya@十七特征]]”“[[kiriyākiriya]]”相对。被判为未做的罪，不是因为作了什么，而是因为没有作该作的事而成立。
 
 ## 目录
 
@@ -21,18 +21,18 @@ akiriya 由否定前缀 a- + kiriya（作为）构成，义为“不作为”。
 
 根本律《附随（Parivāra）》在《一法》中已列出这一类：“*Akiriyato samuṭṭhitā āpatti jānitabbā*”（应知由未做而生起之罪）。{{para|id=217-1936|title=vinayapitaka 1936|style=reference}}《普端严·附随注》举例：“*yaṃ akaronto āpajjati, cīvaraanadhiṭṭhānāpatti viya*”（不作某事而犯，如不受持衣的罪）。{{para|id=142-103|title=samantapāsādikā 103|style=reference}}
 
-《普端严（Samantapāsādikā）》把一切学处依“作”分为五类，未做是其中第二类：“*kiñci kiriyato samuṭṭhāti, kiñci akiriyato samuṭṭhāti*”（有的由做而生起，有的由未做而生起）。{{para|id=138-1145|title=samantapāsādikā 1145|style=reference}}另有第四类“有时由做、有时由未做”，见下文。
+《普端严（Samantapāsādikā）》把一切学处依“作”分为五类，未做是其中第二类：“*kiñci kiriyato samuṭṭhāti, kiñci akiriyato samuṭṭhāti*”（有的[[kiriya@十七特征]]而生起，有的由未做而生起）。{{para|id=138-1145|title=samantapāsādikā 1145|style=reference}}另有第四类“有时[[kiriya@十七特征]]、有时由未做”，见下文。
 
 两处所举例子不同：《附随注》举不受持衣，《疑惑度脱》《精髓义灯》举第一卡提那罪。
 
 ## 戒条中的套用
 
-在《疑惑度脱》各学处末尾的十七要素清单里，“未做”写作 *akiriyaṃ*，紧跟在等起之后。
+在《疑惑度脱》各学处末尾的十七特征清单里，“未做”写作 *akiriyaṃ*，紧跟在[[samuṭṭhāna@十七特征]]之后。
 
-- 卡提那学处：“*Kathinasamuṭṭhānaṃ, akiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（卡提那等起，未做，非由想得脱，无意，制定罪）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
-- 破僧学处：“*Samanubhāsanasamuṭṭhānaṃ, akiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ*”（劝谏等起，未做，由想得脱，故意，世间罪）。{{para|id=207-1412|title=kaṅkhāvitaraṇī 1412|style=reference}}此罪的支分之一正是“*appaṭinissajjanan*”（不舍弃），即经劝谏而不舍，属于不作为。{{para|id=207-1412|title=kaṅkhāvitaraṇī 1412|style=reference}}
-- 比库尼雨安居后不游行学处，用简写：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana akiriyaṃ, dukkhavedananti*”（等起等与第一巴拉基咖相同，但此条是未做、苦受）。{{para|id=207-2462|title=kaṅkhāvitaraṇī 2462|style=reference}}
-- 有时由做、有时由未做：金银学处“*siyā kiriyaṃ gahaṇena āpajjanato, siyā akiriyaṃ paṭikkhepassa akaraṇato*”（因受取而犯，故有时由做；因不拒绝而犯，故有时未做）。{{para|id=207-1536|title=kaṅkhāvitaraṇī 1536|style=reference}}
+- 卡提那学处：“*Kathinasamuṭṭhānaṃ, akiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ*”（[[kathinasamuṭṭhāna]]，未做，[[nosaññāvimokkha]]，无意，[[paṇṇattivajja]]）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
+- 破僧学处：“*Samanubhāsanasamuṭṭhānaṃ, akiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, lokavajjaṃ*”（[[samanubhāsanasamuṭṭhāna]]，未做，[[saññāvimokkha]]，故意，[[lokavajja]]）。{{para|id=207-1412|title=kaṅkhāvitaraṇī 1412|style=reference}}此罪的[[aṅga@十七特征]]之一正是“*appaṭinissajjanan*”（不舍弃），即经劝谏而不舍，属于不作为。{{para|id=207-1412|title=kaṅkhāvitaraṇī 1412|style=reference}}
+- [[bhikkhunī]]雨安居后不游行学处，用简写：“*Samuṭṭhānādīni paṭhamapārājikasadisāni, idaṃ pana akiriyaṃ, dukkhavedananti*”（[[samuṭṭhāna@十七特征]]等与第一[[pārājika]]相同，但此条是未做、苦受）。{{para|id=207-2462|title=kaṅkhāvitaraṇī 2462|style=reference}}
+- 有时[[kiriya@十七特征]]、有时由未做：金银学处“*siyā kiriyaṃ gahaṇena āpajjanato, siyā akiriyaṃ paṭikkhepassa akaraṇato*”（因受取而犯，故有时[[kiriya@十七特征]]；因不拒绝而犯，故有时未做）。{{para|id=207-1536|title=kaṅkhāvitaraṇī 1536|style=reference}}
 
 ## 参考文献
 
@@ -49,10 +49,10 @@ akiriya 由否定前缀 a- + kiriya（作为）构成，义为“不作为”。
 
 ## 相关条目
 
-- [[kiriyā@十七要素分析]]
-- [[kiriya@十七要素分析]]
+- [[kiriyā@十七特征]]
+- [[kiriya@十七特征]]
 - [[kiriyākiriya]]
-- [[samuṭṭhāna@十七要素分析]]
+- [[samuṭṭhāna@十七特征]]
 
 # 分类标签
 

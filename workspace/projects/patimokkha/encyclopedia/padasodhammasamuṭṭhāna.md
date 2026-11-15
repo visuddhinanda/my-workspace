@@ -1,5 +1,5 @@
 {{quality|pending}}
-句法等起（padasodhammasamuṭṭhāna）是十三种等起名之一，指由“语”与“语心”两种等起生起的罪，以巴吉帝亚第四条句法学处（与未受达上者逐句同诵法）命名。属于此等起的学处，只能以语犯，不能以身犯，有心无心皆可。
+句法等起（padasodhammasamuṭṭhāna）是十三种[[samuṭṭhāna@十七特征]]名之一，指由“语”与“语心”两种[[samuṭṭhāna@十七特征]]生起的罪，以[[pācittiya]]第四条句法学处（与未受[[upasampadā]]者逐句同诵法）命名。属于此[[samuṭṭhāna@十七特征]]的学处，只能以语犯，不能以身犯，[[sacittaka@十七特征]][[acittaka@十七特征]]皆可。
 
 ## 目录
 
@@ -16,9 +16,9 @@
 
 ## 生起方式
 
-第二种等起是语，第五种是语心。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}二等起的五种组合中，句法等起是“第二与第五”：“*Dvisamuṭṭhānā nāma paṭhamacatutthehi ca dutiyapañcamehi ca tatiyachaṭṭhehi ca catutthachaṭṭhehi ca pañcamachaṭṭhehi ca samuṭṭhānehi, samuṭṭhāti, na aññehi*”（二等起，是由第一与第四、第二与第五、第三与第六、第四与第六、或第五与第六种等起生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}
+第二种[[samuṭṭhāna@十七特征]]是语，第五种是语心。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}二[[samuṭṭhāna@十七特征]]的五种组合中，句法等起是“第二与第五”：“*Dvisamuṭṭhānā nāma paṭhamacatutthehi ca dutiyapañcamehi ca tatiyachaṭṭhehi ca catutthachaṭṭhehi ca pañcamachaṭṭhehi ca samuṭṭhānehi, samuṭṭhāti, na aññehi*”（二[[samuṭṭhāna@十七特征]]，是由第一与第四、第二与第五、第三与第六、第四与第六、或第五与第六种[[samuṭṭhāna@十七特征]]生起，不由其他）。{{para|id=207-1325|title=kaṅkhāvitaraṇī 1325|style=reference}}
 
-《附随（Parivāra）》的偈颂说：“*Vācācittena jāyanti, na tu kāyena jāyare*”（由语心生起，但不由身生起）{{para|id=217-1453|title=vinayapitaka 1453|style=reference}}；“*Dvisamuṭṭhānikā sabbe, padasodhammasadisā*”（都是二等起，与句法相同）。{{para|id=217-1454|title=vinayapitaka 1454|style=reference}}
+《附随（Parivāra）》的偈颂说：“*Vācācittena jāyanti, na tu kāyena jāyare*”（由语心生起，但不由身生起）{{para|id=217-1453|title=vinayapitaka 1453|style=reference}}；“*Dvisamuṭṭhānikā sabbe, padasodhammasadisā*”（都是二[[samuṭṭhāna@十七特征]]，与句法相同）。{{para|id=217-1454|title=vinayapitaka 1454|style=reference}}
 
 ## 所属学处
 
@@ -26,9 +26,9 @@
 
 ## 《疑惑度脱》中的套用
 
-句法学处本身：“*Padasodhammasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti*”（句法等起、由做、非由想得脱、无心、制定罪、语业、三心、三受）。{{para|id=207-1610|title=kaṅkhāvitaraṇī 1610|style=reference}}因为只由语门生起，业的一项只有语业。
+句法学处本身：“*Padasodhammasamuṭṭhānaṃ, kiriyaṃ, nosaññāvimokkhaṃ, acittakaṃ, paṇṇattivajjaṃ, vacīkammaṃ, ticittaṃ, tivedananti*”（句法等起、[[kiriya@十七特征]]、[[nosaññāvimokkha]]、[[acittaka@十七特征]]、[[paṇṇattivajja]]、[[vacīkamma@十七特征]]、[[ticitta]]、[[tivedana]]）。{{para|id=207-1610|title=kaṅkhāvitaraṇī 1610|style=reference}}因为只由语门生起，业的一项只有[[vacīkamma@十七特征]]。
 
-比库尼问难学处用简写：“*Samuṭṭhānādīni padasodhammasadisāni, idaṃ pana kiriyākiriyanti*”（等起等与句法相同，但此条是做及未做）。{{para|id=207-2661|title=kaṅkhāvitaraṇī 2661|style=reference}}
+[[bhikkhunī]]问难学处用简写：“*Samuṭṭhānādīni padasodhammasadisāni, idaṃ pana kiriyākiriyanti*”（[[samuṭṭhāna@十七特征]]等与句法相同，但此条是[[kiriyākiriya]]）。{{para|id=207-2661|title=kaṅkhāvitaraṇī 2661|style=reference}}
 
 ## 参考文献
 
@@ -39,12 +39,12 @@
 
 ## 相关条目
 
-- [[samuṭṭhāna@十七要素分析]]
-- [[samuṭṭhānavidhi@十七要素分析]]
+- [[samuṭṭhāna@十七特征]]
+- [[samuṭṭhānavidhi@十七特征]]
 - [[dvisamuṭṭhāna]]
 - [[kathinasamuṭṭhāna]]
 - [[eḷakalomasamuṭṭhāna]]
-- [[vacīkamma@十七要素分析]]
+- [[vacīkamma@十七特征]]
 
 # 分类标签
 

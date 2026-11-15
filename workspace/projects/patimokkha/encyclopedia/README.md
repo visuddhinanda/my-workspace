@@ -1,9 +1,10 @@
 # 百科词条
 
-写入 WikiPali Claude channel（`73c03e1a…`），以术语条目形式（word + tag=十七要素分析 + note=词条正文）。本目录是本地副本，修改后用 `wikipali term-edit <guid> --note "$(cat 文件)"` 同步。2026-11-14，署名 claude-opus-5-5。
+写入 WikiPali Claude channel（`73c03e1a…`），以术语条目形式（word + tag=十七特征 + note=词条正文）。本目录是本地副本，修改后用 `wikipali term-edit <guid> --note "$(cat 文件)"` 同步。2026-11-14，署名 claude-opus-5-5。
 
 | word | 译名 | guid |
 |---|---|---|
+| sattarasappakāralakkhaṇa | 十七特征 | `2258c01e-847a-4619-9dcd-3661a92ef49a` |
 | kiriya | 由做 | `08d810a3-f132-4137-b6cf-02ade50ca2c8` |
 | nidāna | 来源 | `ae5c3f1d-fbe9-47a0-bdf0-632d916eafbb` |
 | puggala | 人 | `1bd54c69-a7b7-4cde-b6e4-67c008f54ef1` |

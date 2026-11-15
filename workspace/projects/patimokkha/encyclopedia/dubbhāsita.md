@@ -1,5 +1,5 @@
 {{quality|pending}}
-恶说（dubbhāsita）是律藏七罪聚中的第七聚，也是最轻的一聚，指“说得不好的话”。最典型的情形是比库不以辱骂为目的、仅为开玩笑而以出身等事说他人。
+恶说（dubbhāsita）是律藏七罪聚中的第七聚，也是最轻的一聚，指“说得不好的话”。最典型的情形是[[bhikkhu]]不以辱骂为目的、仅为开玩笑而以出身等事说他人。
 
 ## 目录
 
@@ -17,9 +17,9 @@
 
 ## 在罪聚中的位置
 
-恶说是行失坏的最后一类。《大品》说：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、应悔过、恶作、恶说，这是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}律文在列举七罪聚时也以它收尾，例如骂詈学处的句分别：“*pārājikaṃ ajjhāpannosi, saṅghādisesaṃ ajjhāpannosi, thullaccayaṃ ajjhāpannosi, pācittiyaṃ ajjhāpannosi, pāṭidesanīyaṃ ajjhāpannosi, dukkaṭaṃ ajjhāpannosi, dubbhāsitaṃ ajjhāpannosī*”（“你犯了巴拉基咖、僧始终、图拉加亚、巴吉帝亚、应悔过、恶作、恶说”）。{{para|id=214-87|title=vinayapitaka 87|style=reference}}
+恶说是[[ācāravipatti]]的最后一类。《大品》说：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（[[thullaccaya]]、[[pācittiya]]、[[pāṭidesanīya]]、[[dukkaṭa]]、恶说，这是[[ācāravipatti]]）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}律文在列举七罪聚时也以它收尾，例如骂詈学处的句分别：“*pārājikaṃ ajjhāpannosi, saṅghādisesaṃ ajjhāpannosi, thullaccayaṃ ajjhāpannosi, pācittiyaṃ ajjhāpannosi, pāṭidesanīyaṃ ajjhāpannosi, dukkaṭaṃ ajjhāpannosi, dubbhāsitaṃ ajjhāpannosī*”（“你犯了[[pārājika]]、[[saṅghādisesa]]、[[thullaccaya]]、[[pācittiya]]、[[pāṭidesanīya]]、[[dukkaṭa]]、恶说”）。{{para|id=214-87|title=vinayapitaka 87|style=reference}}
 
-《疑惑度脱》在讨论以邪命为缘制定的罪时，特别把恶说排除在外：“*Ājīvavipattipaccayā pana ṭhapetvā dubbhāsitaṃ cha āpattikkhandhā paññattā*”（以命失坏为缘，除恶说以外，制定了六种罪聚）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
+《疑惑度脱》在讨论以邪命为缘制定的罪时，特别把恶说排除在外：“*Ājīvavipattipaccayā pana ṭhapetvā dubbhāsitaṃ cha āpattikkhandhā paññattā*”（以[[ājīvavipatti]]为缘，除恶说以外，制定了六种罪聚）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
 
 ## 《疑惑度脱》中的用法
 
@@ -42,7 +42,7 @@
 - [[dukkaṭa]]
 - [[lahukāpatti]]
 - [[ācāravipatti]]
-- [[āpatti@十七要素分析]]
+- [[āpatti@十七特征]]
 
 # 分类标签
 

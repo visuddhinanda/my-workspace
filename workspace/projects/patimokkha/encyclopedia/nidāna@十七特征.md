@@ -1,5 +1,5 @@
 {{quality|pending}}
-因缘（nidāna）是律学“十七要素分析”的第一项，指一条学处**在何处制定**，即佛陀制戒的地点。注释书把一切学处的制戒地归纳为七处，分析每条学处时首先说明它是在哪一处制定的。
+因缘（nidāna）是律学“十七特征”的第一项，指一条学处**在何处制定**，即佛陀制戒的地点。注释书把一切学处的制戒地归纳为七处，分析每条学处时首先说明它是在哪一处制定的。
 
 ## 目录
 
@@ -13,9 +13,9 @@
 
 ## 词源与定义
 
-nidāna 一般义为“因缘、来源、缘起”。《疑惑度脱新复注（Kaṅkhāvitaraṇī-abhinavaṭīkā）》从词源解释：“*Nidadāti desanaṃ desavasena aviditaṃ viditaṃ katvā nidassetīti nidānaṃ*”（以地点使说法由未知成为已知、加以指示，故名因缘）。{{para|id=212-898|title=kaṅkhāvitaraṇī 898|style=reference}}可见在十七要素中，nidāna 专指“以地点来交代学处”，与一般意义的因缘不同。
+nidāna 一般义为“因缘、来源、缘起”。《疑惑度脱新复注（Kaṅkhāvitaraṇī-abhinavaṭīkā）》从词源解释：“*Nidadāti desanaṃ desavasena aviditaṃ viditaṃ katvā nidassetīti nidānaṃ*”（以地点使说法由未知成为已知、加以指示，故名因缘）。{{para|id=212-898|title=kaṅkhāvitaraṇī 898|style=reference}}可见在十七特征中，nidāna 专指“以地点来交代学处”，与一般意义的因缘不同。
 
-《疑惑度脱（Kaṅkhāvitaraṇī）》在《第一巴拉基咖释》的论母中，把因缘列为十七要素之首：“*Nidānaṃ puggalaṃ vatthuṃ, paññattividhimeva ca*”（因缘、人、事，以及制戒方式）。{{para|id=207-1318|title=kaṅkhāvitaraṇī 1318|style=reference}}《上抉择（Uttaravinicchaya）》的论母同样以因缘开头：“*Nidānaṃ puggalo vatthu, paññattividhimeva ca*”。{{para|id=200-12852|title=uttaravinicchayo 12852|style=reference}}
+《疑惑度脱（Kaṅkhāvitaraṇī）》在《第一巴拉基咖释》的论母中，把因缘列为十七特征之首：“*Nidānaṃ puggalaṃ vatthuṃ, paññattividhimeva ca*”（因缘、人、事，以及[[paññattividhi@十七特征]]）。{{para|id=207-1318|title=kaṅkhāvitaraṇī 1318|style=reference}}《上抉择（Uttaravinicchaya）》的论母同样以因缘开头：“*Nidānaṃ puggalo vatthu, paññattividhimeva ca*”。{{para|id=200-12852|title=uttaravinicchayo 12852|style=reference}}
 
 ## 七处制戒地
 
@@ -25,7 +25,7 @@ nidāna 一般义为“因缘、来源、缘起”。《疑惑度脱新复注（
 
 ## 根本律中的来源
 
-这一分析源自根本律《附随（Parivāra）》。《附随》的《何处制定品》对每条学处先问制定地点：“*paṭhamaṃ pārājikaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ*”（第一巴拉基咖在何处制定？在毗舍离制定）。{{para|id=217-9|title=vinayapitaka 9|style=reference}}
+这一分析源自根本律《附随（Parivāra）》。《附随》的《何处制定品》对每条学处先问制定地点：“*paṭhamaṃ pārājikaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ*”（第一[[pārājika]]在何处制定？在毗舍离制定）。{{para|id=217-9|title=vinayapitaka 9|style=reference}}
 
 《附随》又以偈颂总结七处：“*Sattasu nagaresu paññattā*”（在七座城中制定）。{{para|id=217-2215|title=vinayapitaka 2215|style=reference}}“*Vesāliyaṃ rājagahe, sāvatthiyañca āḷaviyaṃ*”（毗舍离、王舍城、舍卫城、阿拉威）{{para|id=217-2220|title=vinayapitaka 2220|style=reference}}，“*Kosambiyañca sakkesu, bhaggesu ceva paññattā*”（憍赏弥、释迦族地、婆祇国中制定）。{{para|id=217-2221|title=vinayapitaka 2221|style=reference}}
 
@@ -33,7 +33,7 @@ nidāna 一般义为“因缘、来源、缘起”。《疑惑度脱新复注（
 
 ## 戒条中的套用
 
-《疑惑度脱》在每条学处的分析开头，先说制戒地点，再说人与事。如第一巴拉基咖：“*idaṃ vesāliyaṃ sudinnattheraṃ ārabbha methunavītikkamavatthusmiṃ paññattaṃ*”（此学处是在毗舍离，针对苏迪纳长老，于行淫违犯一事中制定的）。{{para|id=207-1335|title=kaṅkhāvitaraṇī 1335|style=reference}}第三巴拉基咖：“*Vesāliyaṃ sambahule bhikkhū ārabbha aññamaññaṃ jīvitā voropanavatthusmiṃ paññattaṃ*”（在毗舍离，针对多位比库，于互相夺命一事中制定）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}句首的地名（*vesāliyaṃ*）就是该学处的因缘。
+《疑惑度脱》在每条学处的分析开头，先说制戒地点，再说人与事。如第一[[pārājika]]：“*idaṃ vesāliyaṃ sudinnattheraṃ ārabbha methunavītikkamavatthusmiṃ paññattaṃ*”（此学处是在毗舍离，针对苏迪纳长老，于行淫违犯一事中制定的）。{{para|id=207-1335|title=kaṅkhāvitaraṇī 1335|style=reference}}第三[[pārājika]]：“*Vesāliyaṃ sambahule bhikkhū ārabbha aññamaññaṃ jīvitā voropanavatthusmiṃ paññattaṃ*”（在毗舍离，针对多位[[bhikkhu]]，于互相夺命一事中制定）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}句首的地名（*vesāliyaṃ*）就是该学处的因缘。
 
 ## 异读：sagga 与 sakkesu
 
@@ -56,9 +56,9 @@ nidāna 一般义为“因缘、来源、缘起”。《疑惑度脱新复注（
 
 ## 相关条目
 
-- [[puggala@十七要素分析]]
-- [[vatthu@十七要素分析]]
-- [[paññattividhi@十七要素分析]]
+- [[puggala@十七特征]]
+- [[vatthu@十七特征]]
+- [[paññattividhi@十七特征]]
 - [[vesāli]]
 - [[rājagaha]]
 - [[sāvatthi]]

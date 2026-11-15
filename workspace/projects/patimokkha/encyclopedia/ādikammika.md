@@ -1,5 +1,5 @@
 {{quality|pending}}
-始作俑者（ādikammika，最初犯者）指在某一事上最先作出该行为、因而导致佛陀制定学处的人。律中规定始作俑者不犯该学处，所以它是“不犯（anāpatti）”的固定情形之一；而他本人也就是十七要素中“人（puggala）”一项所指的对象。
+始作俑者（ādikammika，最初犯者）指在某一事上最先作出该行为、因而导致佛陀制定学处的人。律中规定始作俑者[[anāpatti@十七特征]]该学处，所以它是“[[anāpatti@十七特征]]”的固定情形之一；而他本人也就是十七特征中“[[puggala@十七特征]]”一项所指的对象。
 
 ## 目录
 
@@ -18,13 +18,13 @@
 
 ## 不犯的理由
 
-学处是因始作俑者的行为才制定的，制定之前没有学处可犯。所以在不犯的名单里，始作俑者与疯狂者等并列。第一巴拉基咖：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者以及始作俑者，不犯）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告实学处也说：“*ādikammikassa ca anāpatti*”（始作俑者不犯）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}根本律中，连众学法每一条之后都附有“*Ādikammikassāti*”（〔不犯：〕始作俑者）。{{para|id=214-1731|title=vinayapitaka 1731|style=reference}}
+学处是因始作俑者的行为才制定的，制定之前没有学处可犯。所以在[[anāpatti@十七特征]]的名单里，始作俑者与疯狂者等并列。第一[[pārājika]]：“*Ajānantassa asādiyantassa ummattakassa khittacittassa vedanāṭṭassa ādikammikānañca anāpatti*”（不知者、不乐意接受者、疯狂者、心被干扰者、为苦受所逼迫者以及始作俑者，[[anāpatti@十七特征]]）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}告实学处也说：“*ādikammikassa ca anāpatti*”（始作俑者[[anāpatti@十七特征]]）。{{para|id=207-1626|title=kaṅkhāvitaraṇī 1626|style=reference}}根本律中，连众学法每一条之后都附有“*Ādikammikassāti*”（〔[[anāpatti@十七特征]]：〕始作俑者）。{{para|id=214-1731|title=vinayapitaka 1731|style=reference}}
 
-不犯只限于始作俑者本人。《普端严》说：“*Avasesānaṃ makkaṭīsamaṇavajjiputtakādīnaṃ āpattiyevāti*”（其余如与母猴行淫的沙门、跋耆子等，仍然犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}
+[[anāpatti@十七特征]]只限于始作俑者本人。《普端严》说：“*Avasesānaṃ makkaṭīsamaṇavajjiputtakādīnaṃ āpattiyevāti*”（其余如与母猴行淫的沙门、跋耆子等，仍然犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}
 
 ## 各学处的始作俑者
 
-《普端严》：“*Idha pana sudinnatthero ādikammiko, tassa anāpatti*”（此处苏迪纳长老是始作俑者，他不犯）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}第二巴拉基咖，《疑惑度脱新复注》说：“*Ādikammiko panettha dhaniyo*”（此处的始作俑者是达尼亚）。{{para|id=212-968|title=kaṅkhāvitaraṇī 968|style=reference}}身体接触学处：“*Idha pana udāyitthero ādikammiko*”（此处的始作俑者是伍达夷长老）。{{para|id=212-1032|title=kaṅkhāvitaraṇī 1032|style=reference}}
+《普端严》：“*Idha pana sudinnatthero ādikammiko, tassa anāpatti*”（此处苏迪纳长老是始作俑者，他[[anāpatti@十七特征]]）。{{para|id=138-1138|title=samantapāsādikā 1138|style=reference}}第二[[pārājika]]，《疑惑度脱新复注》说：“*Ādikammiko panettha dhaniyo*”（此处的始作俑者是达尼亚）。{{para|id=212-968|title=kaṅkhāvitaraṇī 968|style=reference}}身体接触学处：“*Idha pana udāyitthero ādikammiko*”（此处的始作俑者是伍达夷长老）。{{para|id=212-1032|title=kaṅkhāvitaraṇī 1032|style=reference}}
 
 ## 特例：提婆达多
 
@@ -43,8 +43,8 @@
 
 ## 相关条目
 
-- [[anāpatti@十七要素分析]]
-- [[puggala@十七要素分析]]
+- [[anāpatti@十七特征]]
+- [[puggala@十七特征]]
 - [[ummattaka]]
 - [[sudinnatthera]]
 - [[devadatta]]

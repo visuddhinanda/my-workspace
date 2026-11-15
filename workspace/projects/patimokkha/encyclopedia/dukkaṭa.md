@@ -1,5 +1,5 @@
 {{quality|pending}}
-恶作（dukkaṭa）是律藏七罪聚中的第六聚，字面义为“做得不好的”，是适用很广的轻罪：众学法全部以恶作论，许多学处的预备行为、对象不足或认知有误的情形，也都判为恶作。
+恶作（dukkaṭa）是律藏七罪聚中的第六聚，字面义为“做得不好的”，是适用很广的[[lahukāpatti]]：众学法全部以恶作论，许多学处的预备行为、对象不足或认知有误的情形，也都判为恶作。
 
 ## 目录
 
@@ -17,17 +17,17 @@
 
 ## 在罪聚中的位置
 
-恶作属于行失坏。《大品》说：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（图拉加亚、巴吉帝亚、应悔过、恶作、恶说，这是行失坏）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}
+恶作属于[[ācāravipatti]]。《大品》说：“*thullaccayaṃ, pācittiyaṃ, pāṭidesanīyaṃ, dukkaṭaṃ, dubbhāsitaṃ, ayaṃ ācāravipatti*”（[[thullaccaya]]、[[pācittiya]]、[[pāṭidesanīya]]、恶作、[[dubbhāsita]]，这是[[ācāravipatti]]）。{{para|id=215-1413|title=vinayapitaka 1413|style=reference}}
 
 ## 《疑惑度脱》中的用法
 
-**众学法。** 众学法的条文只说“应当学”（sikkhā karaṇīyā），不写罪名。《疑惑度脱》解释其中的缘故，并确定其罪为恶作：“*Cārittavinayadassanatthañca yo pana bhikkhu olambento nivāseyya, dukkaṭan ti evaṃ āpattināmena avatvā sikkhā karaṇīyā ti evaṃ sabbasikkhāpadesu pāḷi āropitā, padabhājane pana āpatti dukkaṭassā ti vuttattā sabbattha anādariyakaraṇe dukkaṭaṃ veditabbaṃ*”（为了显示这是行为规范之律，各学处的律文不说“若比库垂下着内衣，犯恶作”这样的罪名，而说“应当学”；但在句分别中说“犯恶作”，所以一切不恭敬而作的情形，都应知为恶作）。{{para|id=207-2026|title=kaṅkhāvitaraṇī 2026|style=reference}}
+**众学法。** 众学法的条文只说“应当学”（sikkhā karaṇīyā），不写罪名。《疑惑度脱》解释其中的缘故，并确定其罪为恶作：“*Cārittavinayadassanatthañca yo pana bhikkhu olambento nivāseyya, dukkaṭan ti evaṃ āpattināmena avatvā sikkhā karaṇīyā ti evaṃ sabbasikkhāpadesu pāḷi āropitā, padabhājane pana āpatti dukkaṭassā ti vuttattā sabbattha anādariyakaraṇe dukkaṭaṃ veditabbaṃ*”（为了显示这是行为规范之律，各学处的律文不说“若[[bhikkhu]]垂下着内衣，犯恶作”这样的罪名，而说“应当学”；但在句分别中说“犯恶作”，所以一切不恭敬而作的情形，都应知为恶作）。{{para|id=207-2026|title=kaṅkhāvitaraṇī 2026|style=reference}}
 
-**预备阶段的恶作。** 重罪在未完成前，其预备行为常判恶作。第三巴拉基咖：“*māraṇatthāya opātakkhaṇanādīsu dukkaṭaṃ, anodissa khate opāte yassa kassaci patanepi dukkaṭaṃ*”（为杀而挖陷阱等，犯恶作；不指定对象所挖的陷阱，任何人掉入也犯恶作）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}应悔过学处也是：“*paṭiggahaṇe dukkaṭaṃ, ajjhohāre ajjhohāre pāṭidesanīyaṃ*”（接受时犯恶作，每吞咽一口犯一应悔过）。{{para|id=207-2007|title=kaṅkhāvitaraṇī 2007|style=reference}}
+**预备阶段的恶作。** 重罪在未完成前，其预备行为常判恶作。第三巴拉基咖：“*māraṇatthāya opātakkhaṇanādīsu dukkaṭaṃ, anodissa khate opāte yassa kassaci patanepi dukkaṭaṃ*”（为杀而挖陷阱等，犯恶作；不指定对象所挖的陷阱，任何人掉入也犯恶作）。{{para|id=207-1362|title=kaṅkhāvitaraṇī 1362|style=reference}}应悔过学处也是：“*paṭiggahaṇe dukkaṭaṃ, ajjhohāre ajjhohāre pāṭidesanīyaṃ*”（接受时犯恶作，每吞咽一口犯一[[pāṭidesanīya]]）。{{para|id=207-2007|title=kaṅkhāvitaraṇī 2007|style=reference}}
 
 **对象或部位不足的恶作。** 第一巴拉基咖的罪的区分里，许多情形都降为恶作：“*Kuthite dukkaṭaṃ, tathā vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ pavesentassa dukkaṭaṃ*”（腐烂者犯恶作；同样，在张开的口中不接触而插入，犯恶作）。{{para|id=207-1335|title=kaṅkhāvitaraṇī 1335|style=reference}}
 
-**二想恶作。** 认知上的情形也用恶作来区分。比库尼乞酥学处：“*tikapāṭidesanīyaṃ, gilānāya dvikadukkaṭaṃ*”（三想皆应悔过；对生病者，二想恶作）。{{para|id=207-2680|title=kaṅkhāvitaraṇī 2680|style=reference}}
+**二想恶作。** 认知上的情形也用恶作来区分。比库尼乞酥学处：“*tikapāṭidesanīyaṃ, gilānāya dvikadukkaṭaṃ*”（三想皆[[pāṭidesanīya]]；对生病者，[[dvikadukkaṭa]]）。{{para|id=207-2680|title=kaṅkhāvitaraṇī 2680|style=reference}}
 
 ## 参考文献
 
@@ -49,7 +49,7 @@
 - [[āpattibheda]]
 - [[lahukāpatti]]
 - [[pācittiya]]
-- [[āpatti@十七要素分析]]
+- [[āpatti@十七特征]]
 
 # 分类标签
 

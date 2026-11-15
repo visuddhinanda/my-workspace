@@ -1,5 +1,5 @@
 {{quality|pending}}
-自作加行（sahapayoga）是与事先的准备（pubbapayoga，前加行）相对的加行术语，指与罪行本身同时进行的加行。它有两种用法：在第二巴拉基咖的“前加行五法”中，指亲手移动财物或侵占田地等而成立的偷盗；在罪种分类中，指预备阶段结束、正式施工之后的各个加行。
+自作加行（sahapayoga）是与[[pubbapayoga]]（pubbapayoga，前加行）相对的加行术语，指与罪行本身同时进行的加行。它有两种用法：在第二[[pārājika]]的“前加行五法”中，指亲手移动财物或侵占田地等而成立的偷盗；在[[āpattibheda]]中，指预备阶段结束、正式施工之后的各个加行。
 
 ## 目录
 
@@ -16,17 +16,17 @@
 
 ## 前加行五法中的自作加行
 
-《疑惑度脱（Kaṅkhāvitaraṇī）》在第二巴拉基咖中列出五法：“*Pubbapayogo sahapayogo saṃvidhāvahāro saṅketakammaṃ nimittakammanti*”（前加行、自作加行、合谋偷取、约定行为、暗号行为），并说：“*Ṭhānā cāvanavasena, khilādīni saṅkāmetvā khettādiggahaṇavasena ca sahapayogo veditabbo*”（自作加行应理解为依使物离开原处，以及移动界桩等而占取田地等而成）。{{para|id=207-1347|title=kaṅkhāvitaraṇī 1347|style=reference}}
+《疑惑度脱（Kaṅkhāvitaraṇī）》在第二[[pārājika]]中列出五法：“*Pubbapayogo sahapayogo saṃvidhāvahāro saṅketakammaṃ nimittakammanti*”（前加行、自作加行、合谋偷取、约定行为、暗号行为），并说：“*Ṭhānā cāvanavasena, khilādīni saṅkāmetvā khettādiggahaṇavasena ca sahapayogo veditabbo*”（自作加行应理解为依使物离开原处，以及移动界桩等而占取田地等而成）。{{para|id=207-1347|title=kaṅkhāvitaraṇī 1347|style=reference}}
 
 复注指出，“使物离开原处”只是举例。《除疑（Vimativinodanī-ṭīkā）》说：“*idañca nidassanamattaṃ khīlasaṅkamanādīsupi asati ṭhānācāvane sahapayogattā*”（这只是举例，因为在移动界桩等情形，即使没有使物离开原处，也是自作加行）。{{para|id=210-486|title=vimativinodanī-ṭīkā 486|style=reference}}《精髓义灯（Sāratthadīpanī-ṭīkā）》所说全同。{{para|id=205-477|title=sāratthadīpanī-ṭīkā 477|style=reference}}
 
 ## 自作加行与放弃努力
 
-侵占田地时，罪在哪一刻成立，取决于自作加行与物主“放弃努力（dhuranikkhepa）”的先后。《精髓义灯》说：“*Ettha ca khīlasaṅkamanādīsu ubhayaṃ sambhavati sahapayogo dhuranikkhepo ca*”（在移动界桩等情形中，自作加行与放弃努力两者都可能发生）。若物主先已放弃，“*khīlasaṅkamanādisahapayogaṃ vinā na hotīti sahapayogeneva pārājikaṃ*”（没有移动界桩等自作加行就不成立，所以以自作加行而犯巴拉基咖）；若只移动了界桩而物主尚未放弃，“*dhuranikkhepeneva pārājikaṃ*”（以放弃努力而犯巴拉基咖）。{{para|id=205-547|title=sāratthadīpanī-ṭīkā 547|style=reference}}
+侵占田地时，罪在哪一刻成立，取决于自作加行与物主“放弃努力（dhuranikkhepa）”的先后。《精髓义灯》说：“*Ettha ca khīlasaṅkamanādīsu ubhayaṃ sambhavati sahapayogo dhuranikkhepo ca*”（在移动界桩等情形中，自作加行与放弃努力两者都可能发生）。若物主先已放弃，“*khīlasaṅkamanādisahapayogaṃ vinā na hotīti sahapayogeneva pārājikaṃ*”（没有移动界桩等自作加行就不成立，所以以自作加行而犯[[pārājika]]）；若只移动了界桩而物主尚未放弃，“*dhuranikkhepeneva pārājikaṃ*”（以放弃努力而犯[[pārājika]]）。{{para|id=205-547|title=sāratthadīpanī-ṭīkā 547|style=reference}}
 
 ## 造小屋学处中的自作加行
 
-在罪种分类的用法里，自作加行指预备阶段之后的施工。《普端严（Samantapāsādikā）》说，砌好基座之前是前加行，“*tato paṭṭhāya sahapayogo nāma*”（从此以后叫作自作加行）；此后“*Evaṃ yaṃ yaṃ upakaraṇaṃ yojeti, sabbattha payoge payoge dukkaṭaṃ*”（如此每安装一件材料，处处每一加行都犯恶作）。{{para|id=138-2276|title=samantapāsādikā 2276|style=reference}}
+在[[āpattibheda]]的用法里，自作加行指预备阶段之后的施工。《普端严（Samantapāsādikā）》说，砌好基座之前是前加行，“*tato paṭṭhāya sahapayogo nāma*”（从此以后叫作自作加行）；此后“*Evaṃ yaṃ yaṃ upakaraṇaṃ yojeti, sabbattha payoge payoge dukkaṭaṃ*”（如此每安装一件材料，处处每一加行都犯[[dukkaṭa]]）。{{para|id=138-2276|title=samantapāsādikā 2276|style=reference}}
 
 ## 参考文献
 

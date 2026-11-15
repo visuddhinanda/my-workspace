@@ -1,5 +1,5 @@
 {{quality|pending}}
-支分（aṅga）是律学“十七要素分析”的第九项，指构成某一罪的必要条件。《疑惑度脱》在每条学处末尾列出若干支分，所有支分都具备时才犯该学处的罪，缺任何一支就不成立该罪。
+支分（aṅga）是律学“十七特征”的第九项，指构成某一罪的必要条件。《疑惑度脱》在每条学处末尾列出若干支分，所有支分都具备时才犯该学处的罪，缺任何一支就不成立该罪。
 
 ## 目录
 
@@ -21,18 +21,18 @@ aṅga 本义为“肢体、部分”，引申为“成分、因素”。
 
 ## 戒条中的套用
 
-《疑惑度脱》在每条学处中，于失坏之后列出支分，并以 *imānettha … aṅgāni*（这里有这……个支分）收尾。
+《疑惑度脱》在每条学处中，于[[vipatti@十七特征]]之后列出支分，并以 *imānettha … aṅgāni*（这里有这……个支分）收尾。
 
-- 第一巴拉基咖：“*Tassā dve aṅgāni sevanacittañca maggena maggapaṭipādanañcāti*”（它有两个支分：行淫之心，以及以道入道）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}
-- 僧始终第一条（泄精学处）：“*Sīlavipatti, cetanā, upakkamo, muccananti imānettha tīṇi aṅgāni*”（戒失坏；故意、加行、泄出，这里有这三个支分）。{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}
-- 尼萨耆巴吉帝亚第一条（卡提那学处）：“*Jātippamāṇasampannassa cīvarassa attano santakatā, gaṇanupagatā, chinnapalibodhabhāvo, atirekacīvaratā, dasāhātikkamoti imānettha pañca aṅgāni*”（具足种类与尺寸的衣属于自己、计入数量、障碍已断、是长衣、超过十天，这里有这五个支分）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
-- 巴吉帝亚掘地学处：“*Jātapathavī, pathavisaññitā, khaṇanakhaṇāpanānaṃ aññataranti imānettha tīṇi aṅgāni*”（是生地、作地想、亲自挖掘或令人挖掘之一，这里有这三个支分）。{{para|id=207-1634|title=kaṅkhāvitaraṇī 1634|style=reference}}
+- 第一[[pārājika]]：“*Tassā dve aṅgāni sevanacittañca maggena maggapaṭipādanañcāti*”（它有两个支分：行淫之心，以及以道入道）。{{para|id=207-1336|title=kaṅkhāvitaraṇī 1336|style=reference}}
+- [[saṅghādisesa]]第一条（泄精学处）：“*Sīlavipatti, cetanā, upakkamo, muccananti imānettha tīṇi aṅgāni*”（[[sīlavipatti]]；故意、加行、泄出，这里有这三个支分）。{{para|id=207-1375|title=kaṅkhāvitaraṇī 1375|style=reference}}
+- [[nissaggiyapācittiya]]第一条（卡提那学处）：“*Jātippamāṇasampannassa cīvarassa attano santakatā, gaṇanupagatā, chinnapalibodhabhāvo, atirekacīvaratā, dasāhātikkamoti imānettha pañca aṅgāni*”（具足种类与尺寸的衣属于自己、计入数量、障碍已断、是长衣、超过十天，这里有这五个支分）。{{para|id=207-1455|title=kaṅkhāvitaraṇī 1455|style=reference}}
+- [[pācittiya]]掘地学处：“*Jātapathavī, pathavisaññitā, khaṇanakhaṇāpanānaṃ aññataranti imānettha tīṇi aṅgāni*”（是生地、作地想、亲自挖掘或令人挖掘之一，这里有这三个支分）。{{para|id=207-1634|title=kaṅkhāvitaraṇī 1634|style=reference}}
 
 ## 支分与不犯、失坏
 
 支分要按实际所犯的罪来判定。不定法第一条可能导致多种罪，所以说：“*Yaṃ pana āpattiṃ paṭijānāti, tassā vasena aṅgabhedo ñātabbo*”（按当事人承认所犯的那一罪，来了知支分的差别）。{{para|id=207-1438|title=kaṅkhāvitaraṇī 1438|style=reference}}
 
-众学法各条的其他要素多半相同，《疑惑度脱》统一交代，只有不犯与支分须逐条说明：“*Anāpattimattaṃ pana aṅgañca sabbattha vattabbaṃ*”（但不犯与支分须在每一处说明）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}
+众学法各条的其他要素多半相同，《疑惑度脱》统一交代，只有[[anāpatti@十七特征]]与支分须逐条说明：“*Anāpattimattaṃ pana aṅgañca sabbattha vattabbaṃ*”（但[[anāpatti@十七特征]]与支分须在每一处说明）。{{para|id=207-2030|title=kaṅkhāvitaraṇī 2030|style=reference}}
 
 ## 参考文献
 
@@ -48,10 +48,10 @@ aṅga 本义为“肢体、部分”，引申为“成分、因素”。
 
 ## 相关条目
 
-- [[vipatti@十七要素分析]]
-- [[anāpatti@十七要素分析]]
-- [[āpatti@十七要素分析]]
-- [[samuṭṭhānavidhi@十七要素分析]]
+- [[vipatti@十七特征]]
+- [[anāpatti@十七特征]]
+- [[āpatti@十七特征]]
+- [[samuṭṭhānavidhi@十七特征]]
 
 # 分类标签
 

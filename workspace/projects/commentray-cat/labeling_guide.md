@@ -16,29 +16,38 @@
 
 ## 分类代码（主类只能取一个；副标签可多个，逗号分隔）
 
-| 代码 | 类 | 典型句式 / 判断要点 |
-|---|---|---|
-| L1 | 同义替换 | X ti Y，Y 为一两个词的同义词 |
-| L2 | 指称／范围限定 | X 具体指什么（代词所指、ādi 所含、"其余"是哪些）；khattiyādi… |
-| L3 | 多义辨析 | X-saddo A-B-C-esu vattati … idha A；列举词义并定此处义 |
-| L4 | 实质定义 | atthato／lakkhaṇato／sabhāvato pana …；说明法的本质（如 = cetanā） |
-| G1 | 词源／构词（nirutti, vigraha） | …tīti X；…assāti X；X 的拆解与命名理由 |
-| G2 | 格位、性数、虚词作用 | karaṇe sāmivacanaṃ；upayogatthe；api/ca/vā-saddena；nipāta |
-| G3 | 分词、复合词形、异读 | padacchedo；majjhepadalopa；paranipāta；…tipi pāṭho；sandhi |
-| D1 | 法义展开 | 支分、轻重、加行、哪一道断何烦恼、缘起关系等教义阐述 |
-| D2 | 譬喻 | yathā hi … evaṃ …；upamā |
-| D3 | 判定／抉择（vinicchaya）【新增】 | 律：sace…āpatti/anāpatti/dukkaṭa…；何种情形如何判；论：何者是/不是某法的判定 |
-| D4 | 分类摄属（saṅgaha）【新增】 | 把法按类计数、归属：kusalato cattāro, kiriyato…；"此中几种是…" |
-| C1 | 意图、动机 | adhippāyo；maññamāno；sampassamāno；为何说（就说话者而言） |
-| C2 | 叙事衔接 | 交代情节、谁对谁说、引出下文：tiādimāha；atha… |
-| C3 | 整句释意 | evamattho daṭṭhabbo；kiṃ vuttaṃ hoti；…ti attho（对整句/整段意译） |
-| A1 | 设问解答 | kasmā／kiṃ pana …? … vuccate／na；codanā-parihāra |
-| A2 | 评破他说、转述异说 | keci／vadanti／aparo nayo；"X 中说…，那不对"；引某师、某注之说 |
-| M1 | 说明上一层注释措辞的理由 | …ti āha ‘X’ti；tena vuttaṃ ‘X’ti；sarūpato dassento āha |
-| M2 | 指出语句的作用 | etena … dassito／dasseti／nivattetī（此语用来显示/排除什么） |
-| M3 | 方法指引 | vuttanayeneva；eseva nayo；heṭṭhā vuttanayena；imināva nayena |
-| R | 引证 | 主要功能是引别处经文/出处（ti vuttaṃ (ma.ni.…)）；一般作副标签，只有整片几乎就是引文时才作主类 |
-| X | 切片残片 | 切分碎片，本身无独立解释功能 |
+判断以“判断要点”（这一片的目的、功能）为准。“典型句式”只是常见的表达方式，供参考：同一功能可以有完全不同的说法。比如转述异说，也可能写成“某长老这样说，某长老那样说”，并不一定出现 keci、vadanti。
+
+| 代码 | 类 | 判断要点（目的、功能） | 典型句式（举例，不限于此） |
+|---|---|---|---|
+| **L 词义** | | | |
+| L1 | 同义替换 | 用意义相同或相近的词替换被解释词，让读者懂这个词 | X ti Y（Y 为一两个词）；X ti Y, Z |
+| L2 | 指称／范围限定 | 说明被解释词具体指哪个、哪些，或包括到哪里为止：代词所指、ādi 所含、“其余”是哪些、物件和处所的界限 | X ti khattiyādi…；ādi-saddena … saṅgaṇhāti；sesā nāma …；ettha / tena / so ti …；… tathārūpassa … adhivacanaṃ |
+| L3 | 多义辨析 | 列出一个词的几种意义，并确定此处取哪一义 | X-saddo A-B-C-esu vattati … idha A-yaṃ；… ādīsu … attho |
+| L4 | 实质定义 | 说明所指之法的本质、特相，或戒律术语的技术定义，而不只是换一个词 | atthato / lakkhaṇato / sabhāvato pana …；X nāma …；… cetanā veditabbā |
+| **G 语法** | | | |
+| G1 | 词源／构词（nirutti, vigraha） | 通过拆解词形、给出构词理由来解释词义 | …tīti X；…assāti X；…aṭṭhena X；X-ssa Y X-Y |
+| G2 | 格位、性数、虚词作用 | 说明某个词的语法功能：格、性数、虚词或不变词的作用 | karaṇe sāmivacanaṃ；upayogatthe；api / ca / vā-saddena …；nipāto |
+| G3 | 分词、复合词形、异读 | 说明词怎么切分、复合词怎么构成、连声怎么变，或文本有哪些异读 | padacchedo；majjhepadalopa；paranipāta；…tipi pāṭho；sandhivasena |
+| **D 义理** | | | |
+| D1 | 法义展开 | 超出词义，展开教义内容：支分、轻重、加行、哪一道断何烦恼、因缘关系等 | tassa pañca sambhārā；appasāvajjo … mahāsāvajjo；… maggena pahīyati |
+| D2 | 譬喻 | 借喻体来说明所喻之法 | yathā hi … evaṃ …；seyyathāpi；X viya Y daṭṭhabbo；upamā |
+| D3 | 判定／抉择（vinicchaya）【新增】 | 对具体情形作出判定：律是犯罪与否、犯何罪；论是某法是否属于某类、能否为某所缘 | sace … āpatti / anāpatti / dukkaṭaṃ；… vaṭṭati / na vaṭṭati；ayamettha vinicchayo |
+| D4 | 分类摄属（saṅgaha）【新增】 | 把法按类归属、计数，说明某类包括几种、哪些 | kusalato cattāro, kiriyato …；… saṅgahitā；ettha katī … |
+| **C 语境** | | | |
+| C1 | 意图、动机 | 说明说话者、行事者心里想什么，为什么这样说、这样做 | adhippāyo；maññamāno；sampassamāno；sandhāya vadati |
+| C2 | 叙事衔接 | 交代情节、场景、人物，或引出下文 | atha …；tiādimāha；evaṃ vutte … āha |
+| C3 | 整句释意 | 把整句或整段的意思换个说法讲清楚 | evamattho daṭṭhabbo；kiṃ vuttaṃ hoti；…ti attho；idaṃ vuttaṃ hoti |
+| **A 论辩** | | | |
+| A1 | 设问解答 | 预先提出疑问或反驳，再给出回答 | kasmā / kiṃ pana …? … vuccate；nanu …；codanā-parihāra |
+| A2 | 评破他说、转述异说 | 转述别人的不同理解（可以只是并列），或对它们加以评判、驳斥 | keci / eke vadanti；aparo nayo；某长老说…，某长老说…；X-aṭṭhakathāyaṃ vuttaṃ, taṃ na yuttaṃ |
+| **M 元注释** | | | |
+| M1 | 说明措辞的理由 | 解释上一层（被注文本）为什么这样措辞、为什么用这个词或说这句话 | …ti āha ‘X’ti；tena vuttaṃ ‘X’ti；sarūpato dassento āha；…bhāsitattā |
+| M2 | 指出语句的作用 | 指出某句话在文中起什么作用：显示什么、排除什么、属于哪种问或答 | etena … dasseti / dassito；nivattanatthaṃ；… pucchā |
+| M3 | 方法指引 | 不直接解释，而是让读者按前面或别处的方法类推、参照 | vuttanayeneva；eseva nayo；heṭṭhā vuttanayena；visuddhimagge vuttaṃ |
+| **其他** | | | |
+| R | 引证 | 主要功能是引用别处经文或出处作为依据；一般作副标签，整片几乎就是引文时才作主类 | ti vuttaṃ (ma. ni. …)；yathāha … |
+| X | 切片残片 | 切分产生的碎片，本身没有独立的解释功能 | 只有段号的句子；孤立的引语尾巴 |
 
 判断原则：
 - 主类按**这片主要在干什么**（篇幅最大或最核心的功能），其余功能放副标签。

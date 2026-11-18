@@ -1,0 +1,3073 @@
+[
+ {
+  "cs_para": 3,
+  "paras": {
+   "138": [
+    627,
+    628,
+    629,
+    630
+   ],
+   "204": [
+    1315,
+    1316,
+    1317,
+    1318,
+    1319
+   ],
+   "210": [
+    204,
+    205
+   ],
+   "213": [
+    8
+   ]
+  },
+  "mula": [
+   {
+    "id": "213-8-2-14",
+    "book": 213,
+    "para": 8,
+    "ws": 2,
+    "we": 14,
+    "text": "3.‘‘Arasarūpo bhavaṃ gotamo’’ ti?",
+    "heads": []
+   },
+   {
+    "id": "213-8-15-30",
+    "book": 213,
+    "para": 8,
+    "ws": 15,
+    "we": 30,
+    "text": "‘‘Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-8-31-37",
+    "book": 213,
+    "para": 8,
+    "ws": 31,
+    "we": 37,
+    "text": "‘arasarūpo samaṇo gotamo’ ti.",
+    "heads": []
+   },
+   {
+    "id": "213-8-38-68",
+    "book": 213,
+    "para": 8,
+    "ws": 38,
+    "we": 68,
+    "text": "Ye te, brāhmaṇa, rūparasā saddarasā gandharasā rasarasā phoṭṭhabbarasā te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā [ anabhāvakatā ( sī.) anabhāvaṃgatā ( syā.)] āyatiṃ anuppādadhammā.",
+    "heads": []
+   },
+   {
+    "id": "213-8-69-81",
+    "book": 213,
+    "para": 8,
+    "ws": 69,
+    "we": 81,
+    "text": "Ayaṃ kho, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-8-82-99",
+    "book": 213,
+    "para": 8,
+    "ws": 82,
+    "we": 99,
+    "text": "‘arasarūpo samaṇo gotamo’ ti, no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti.",
+    "heads": []
+   }
+  ],
+  "commentary": {
+   "samantapāsādikā": [
+    {
+     "heads": [],
+     "id": "138-627-2-18",
+     "text": "3. Evaṃ vuttepi brāhmaṇo duppaññatāya tathāgatassa loke jeṭṭhabhāvaṃ asallakkhento kevalaṃ taṃ vacanaṃ asahamāno āha –",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-627-2-18"
+     ],
+     "anchors": []
+    },
+    {
+     "heads": [
+      "arasarūpo bhavaṃ gotamo"
+     ],
+     "id": "138-627-19~627-56",
+     "text": "‘‘arasarūpo bhavaṃ gotamo’’ ti. Ayaṃ kirassa adhippāyo – yaṃ loke abhivādanapaccuṭṭhānaañjalikammasāmīcikammaṃ ‘‘sāmaggiraso’’ ti vuccati, taṃ bhoto gotamassa natthi, tasmā arasarūpo bhavaṃ gotamo, arasajātiko arasasabhāvoti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-627-19-27",
+      "138-627-28-56"
+     ],
+     "anchors": [
+      {
+       "head": "arasarūpo bhavaṃ gotamo",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-2-14",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "atthi khvesa brāhmaṇa pariyāyo"
+     ],
+     "id": "138-627-57-76",
+     "text": "Athassa bhagavā cittamudubhāvajananatthaṃ ujuvipaccanīkabhāvaṃ pariharanto aññathā tassa vacanassatthaṃ attani sandassento ‘‘atthi khvesa brāhmaṇa pariyāyo’’ tiādimāha.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-627-57-76"
+     ],
+     "anchors": [
+      {
+       "head": "atthi khvesa brāhmaṇa pariyāyo",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-8-15-30",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pariyāyo"
+     ],
+     "id": "138-628-2~628-191",
+     "text": "Tattha pariyāyoti kāraṇaṃ; ayañhi pariyāyasaddo desanā-vāra-kāraṇesu vattati. ‘‘Madhupiṇḍikapariyāyotveva naṃ dhārehī’’ tiādīsu ( ma. ni.1.205) hi esa desanāyaṃ vattati. ‘‘Kassa nu kho, ānanda, ajja pariyāyo bhikkhuniyo ovaditun’’ tiādīsu ( ma. ni.3.398) vāre. ‘‘Sādhu, bhante, bhagavā aññaṃ pariyāyaṃ ācikkhatu, yathāyaṃ bhikkhusaṅgho aññāya saṇṭhaheyyā’’ tiādīsu ( pārā.164) kāraṇe. Svāyamidha kāraṇe vattati. Tasmā ettha evamattho daṭṭhabbo – atthi kho, brāhmaṇa, etaṃ kāraṇaṃ; yena kāraṇena maṃ ‘‘arasarūpo bhavaṃ gotamo’’ ti vadamāno puggalo sammā vadeyya, avitathavādīti saṅkhyaṃ gaccheyya. Katamo pana soti? Ye te brāhmaṇa rūparasā … pe … phoṭṭhabbarasā te tathāgatassa pahīnāti. Kiṃ vuttaṃ hoti? Ye te jātivasena vā upapattivasena vā seṭṭhasammatānampi puthujjanānaṃ rūpārammaṇādīni assādentānaṃ abhinandantānaṃ rajjantānaṃ uppajjanti kāmasukhassādasaṅkhātā rūparasasaddagandharasaphoṭṭhabbarasā, ye imaṃ lokaṃ gīvāya bandhitvā viya āviñchanti, vatthārammaṇādisāmaggiyañca uppannattā sāmaggirasāti vuccanti, te sabbepi tathāgatassa pahīnāti. Mayhaṃ pahīnāti vattabbepi mamākārena attānaṃ anukkhipanto dhammaṃ deseti. Desanāvilāso vā esa bhagavato.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-628-2-6",
+      "138-628-7-11",
+      "138-628-12-33",
+      "138-628-34-59",
+      "138-628-60-84",
+      "138-628-85-89",
+      "138-628-90-102",
+      "138-628-103-123",
+      "138-628-124-127",
+      "138-628-128-139",
+      "138-628-140-143",
+      "138-628-144-177",
+      "138-628-178-186",
+      "138-628-187-191"
+     ],
+     "anchors": [
+      {
+       "head": "pariyāyo",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-15-30",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pahīnā"
+     ],
+     "id": "138-629-2~629-15",
+     "text": "Tattha pahīnāti cittasantānato vigatā jahitā vā. Etasmiṃ panatthe karaṇe sāmivacanaṃ daṭṭhabbaṃ.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-2-9",
+      "138-629-10-15"
+     ],
+     "anchors": [
+      {
+       "head": "pahīnā",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "ucchinnamūlā"
+     ],
+     "id": "138-629-16-21",
+     "text": "Ariyamaggasatthena ucchinnaṃ taṇhāvijjāmayaṃ mūlametesanti ucchinnamūlā.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-16-21"
+     ],
+     "anchors": [
+      {
+       "head": "ucchinnamūlā",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "tālāvatthukatā"
+     ],
+     "id": "138-629-22~629-94",
+     "text": "Tālavatthu viya nesaṃ vatthu katanti tālāvatthukatā. Yathā hi tālarukkhaṃ samūlaṃ uddharitvā tassa vatthumatte tasmiṃ padese kate na puna tassa tālassa uppatti paññāyati; evaṃ ariyamaggasatthena samūle rūpādirase uddharitvā tesaṃ pubbe uppannapubbabhāvena vatthumatte cittasantāne kate sabbepi te ‘‘tālāvatthukatā’’ ti vuccanti. Avirūḷhidhammattā vā matthakacchinnatālo viya katāti tālāvatthukatā. Yasmā pana evaṃ tālāvatthukatā anabhāvaṃkatā honti, yathā nesaṃ pacchābhāvo na hoti, tathā katā honti; tasmā āha –",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-22-28",
+      "138-629-29-46",
+      "138-629-47-67",
+      "138-629-68-74",
+      "138-629-75-91",
+      "138-629-92-94"
+     ],
+     "anchors": [
+      {
+       "head": "tālāvatthukatā",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "anabhāvaṃkatā"
+     ],
+     "id": "138-629-95-101",
+     "text": "‘‘anabhāvaṃkatā’’ ti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-95-101"
+     ],
+     "anchors": [
+      {
+       "head": "anabhāvaṃkatā",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "anabhāvaṃkatā"
+     ],
+     "id": "138-629-102~629-134",
+     "text": "Ayañhettha padacchedo – anuabhāvaṃ katā anabhāvaṃkatāti. ‘‘Anabhāvaṃ gatā’’ tipi pāṭho, tassa anuabhāvaṃ gatāti attho. Tattha padacchedo anuabhāvaṃ gatā anabhāvaṃ gatāti, yathā anuacchariyā anacchariyāti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-102-109",
+      "138-629-110-123",
+      "138-629-124-134"
+     ],
+     "anchors": [
+      {
+       "head": "anabhāvaṃkatā",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Āyatiṃ anuppādadhammā"
+     ],
+     "id": "138-629-135~629-162",
+     "text": "Āyatiṃ anuppādadhammāti anāgate anuppajjanakasabhāvā. Ye hi abhāvaṃ gatā, te puna kathaṃ uppajjissanti? Tenāha – ‘‘anabhāvaṃ gatā āyatiṃ anuppādadhammā’’ ti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-629-135-140",
+      "138-629-141-150",
+      "138-629-151-152",
+      "138-629-153-162"
+     ],
+     "anchors": [
+      {
+       "head": "Āyatiṃ anuppādadhammā",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-38-68",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Ayaṃ kho brāhmaṇa pariyāyo"
+     ],
+     "id": "138-630-2-26",
+     "text": "Ayaṃ kho brāhmaṇa pariyāyoti idaṃ kho, brāhmaṇa, kāraṇaṃ yena maṃ sammā vadamāno vadeyya ‘‘arasarūpo samaṇo gotamo’’ ti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-630-2-26"
+     ],
+     "anchors": [
+      {
+       "head": "Ayaṃ kho brāhmaṇa pariyāyo",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-69-81",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "No ca kho yaṃ tvaṃ sandhāya vadesī"
+     ],
+     "id": "138-630-27~630-129",
+     "text": "No ca kho yaṃ tvaṃ sandhāya vadesīti yañca kho tvaṃ sandhāya vadesi, so pariyāyo na hoti. Kasmā pana bhagavā evamāha? Nanu evaṃ vutte yo brāhmaṇena vutto sāmaggiraso tassa attani vijjamānatā anuññātā hotīti. Vuccate, na hoti. Yo hi taṃ sāmaggirasaṃ kātuṃ bhabbo hutvā na karoti, so tadabhāvena arasarūpoti vattabbo bhaveyya. Bhagavā pana abhabbova etaṃ kātuṃ, tenassa karaṇe abhabbataṃ pakāsento āha – ‘‘no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti. Yaṃ pariyāyaṃ sandhāya tvaṃ maṃ ‘‘arasarūpo’’ ti vadesi, so amhesu neva vattabboti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-630-27-45",
+      "138-630-46-50",
+      "138-630-51-64",
+      "138-630-65-69",
+      "138-630-70-85",
+      "138-630-86-98",
+      "138-630-99-111",
+      "138-630-112-129"
+     ],
+     "anchors": [
+      {
+       "head": "No ca kho yaṃ tvaṃ sandhāya vadesī",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-8-82-99",
+       "trim": 0
+      }
+     ]
+    }
+   ],
+   "sāratthadīpanī-ṭīkā": [
+    {
+     "heads": [
+      "Taṃ vacanan"
+     ],
+     "id": "204-1315-2~1315-32",
+     "text": "3. Taṃ vacanan ti ‘‘nāhaṃ taṃ brāhmaṇā’’ tiādivacanaṃ. ‘‘Nāhaṃ arasarūpo, mādisā vā arasarūpā’’ ti vutte brāhmaṇo thaddho bhaveyya.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-2-16",
+      "204-1315-17-32"
+     ],
+     "anchors": [
+      {
+       "head": "Taṃ vacanan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-627-2-18",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "cittamudubhāvajananatthan"
+     ],
+     "id": "204-1315-33-41",
+     "text": "Tena vuttaṃ ‘‘cittamudubhāvajananatthan’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-33-41"
+     ],
+     "anchors": [
+      {
+       "head": "cittamudubhāvajananatthan",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-627-57-76",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Ayañhi pariyāyasaddo desanāvārakāraṇesu vattatī",
+      "pariyāyo"
+     ],
+     "id": "204-1315-42-55",
+     "text": "Ayañhi pariyāyasaddo desanāvārakāraṇesu vattatīti ettha pariyāyeti desetabbamatthaṃ avagameti bodhetīti pariyāyo, desanā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-42-55"
+     ],
+     "anchors": [
+      {
+       "head": "Ayañhi pariyāyasaddo desanāvārakāraṇesu vattatī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-7-11",
+       "trim": 1
+      },
+      {
+       "head": "pariyāyo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-2-6",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pariyāyo"
+     ],
+     "id": "204-1315-56-63",
+     "text": "Pariyāyati aparāparaṃ parivattetīti pariyāyo, vāro.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-56-63"
+     ],
+     "anchors": [
+      {
+       "head": "pariyāyo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-2-6",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pariyāyo"
+     ],
+     "id": "204-1315-64-82",
+     "text": "Pariyāyati attano phalaṃ pariggahetvā vattati, tassa vā kāraṇabhāvaṃ gacchatīti pariyāyo, kāraṇanti evaṃ pariyāyasaddassa desanāvārakāraṇesu pavatti veditabbā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-64-82"
+     ],
+     "anchors": [
+      {
+       "head": "pariyāyo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-2-6",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Aññāya saṇṭhaheyyā"
+     ],
+     "id": "204-1315-83-88",
+     "text": "Aññāya saṇṭhaheyyāti arahatte patiṭṭhaheyya.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-83-88"
+     ],
+     "anchors": [
+      {
+       "head": "Aññāya saṇṭhaheyyā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-60-84",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Katamo pana so"
+     ],
+     "id": "204-1315-89-100",
+     "text": "Katamo pana soti pariyāyāpekkho pulliṅganiddeso, katamo so pariyāyoti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-89-100"
+     ],
+     "anchors": [
+      {
+       "head": "Katamo pana so",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-124-127",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Jātivasenā"
+     ],
+     "id": "204-1315-101-104",
+     "text": "Jātivasenāti khattiyādijātivasena.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-101-104"
+     ],
+     "anchors": [
+      {
+       "head": "Jātivasenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Upapattivasenā"
+     ],
+     "id": "204-1315-105-109",
+     "text": "Upapattivasenāti devesu upapattivasena.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-105-109"
+     ],
+     "anchors": [
+      {
+       "head": "Upapattivasenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Seṭṭhasammatānampī",
+      "api"
+     ],
+     "id": "204-1315-110-117",
+     "text": "Seṭṭhasammatānampīti api -saddena pageva aseṭṭhasammatānanti dasseti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-110-117"
+     ],
+     "anchors": [
+      {
+       "head": "Seṭṭhasammatānampī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      },
+      {
+       "head": "api",
+       "role": "inner",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Abhinandantānan"
+     ],
+     "id": "204-1315-118-122",
+     "text": "Abhinandantānan ti sappītikataṇhāvasena pamodamānānaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-118-122"
+     ],
+     "anchors": [
+      {
+       "head": "Abhinandantānan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Rajjantānan"
+     ],
+     "id": "204-1315-123-127",
+     "text": "Rajjantānan ti balavarāgavasena rajjantānaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-123-127"
+     ],
+     "anchors": [
+      {
+       "head": "Rajjantānan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "rūparasā"
+     ],
+     "id": "204-1315-128-142",
+     "text": "Rūpādiparibhogena uppannataṇhāyuttasomanassavedanā rūpato nibbattitvā hadayatappanato ambarasādayo viya ‘‘rūparasā’’ ti vuccanti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-128-142"
+     ],
+     "anchors": [
+      {
+       "head": "rūparasā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-628-128-139",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Āviñchantī"
+     ],
+     "id": "204-1315-143-146",
+     "text": "Āviñchantīti ākaḍḍhanti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-143-146"
+     ],
+     "anchors": [
+      {
+       "head": "Āviñchantī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Vatthārammaṇādisāmaggiyan"
+     ],
+     "id": "204-1315-147-150",
+     "text": "Vatthārammaṇādisāmaggiyan ti vatthuārammaṇādikāraṇasāmaggiyaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-147-150"
+     ],
+     "anchors": [
+      {
+       "head": "Vatthārammaṇādisāmaggiyan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anukkhipanto"
+     ],
+     "id": "204-1315-151-160",
+     "text": "Anukkhipantoti attukkaṃsanavasena kathite brāhmaṇassa asappāyabhāvato attānaṃ anukkhipanto anukkaṃsento.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1315-151-160"
+     ],
+     "anchors": [
+      {
+       "head": "Anukkhipanto",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-178-186",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Etasmiṃ panatthe karaṇe sāmivacanan"
+     ],
+     "id": "204-1316-2-15",
+     "text": "Etasmiṃ panatthe karaṇe sāmivacanan ti ‘‘jahitā’’ ti etasmiṃ atthe.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-2-15"
+     ],
+     "anchors": [
+      {
+       "head": "Etasmiṃ panatthe karaṇe sāmivacanan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-10-15",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Tathāgatassā"
+     ],
+     "id": "204-1316-16-24",
+     "text": "Tathāgatassāti karaṇe sāmivacanaṃ, tathāgatena jahitāti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-16-24"
+     ],
+     "anchors": [
+      {
+       "head": "Tathāgatassā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Mūlan"
+     ],
+     "id": "204-1316-25-28",
+     "text": "Mūlan ti bhavamūlaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-25-28"
+     ],
+     "anchors": [
+      {
+       "head": "Mūlan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-16-21",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "tālavatthu viya nesaṃ vatthu katanti tālāvatthukatā"
+     ],
+     "id": "204-1316-29~1316-104",
+     "text": "‘‘Tālavatthuvatthukatā’’ ti vattabbe ‘‘oṭṭhamukho’’ tiādīsu viya majjhepadalopaṃ katvā akārañca dīghaṃ katvā ‘‘tālāvatthukatā’’ ti vuttanti āha ‘‘tālavatthu viya nesaṃ vatthu katanti tālāvatthukatā’’ ti. Tattha tālassa vatthu tālavatthu. Yathā ārāmassa vatthubhūtapubbo padeso ārāmassa abhāve ‘‘ārāmavatthū’’ ti vuccati, evaṃ tālassa patiṭṭhitokāso samūlaṃ uddharite tāle padesamatte ṭhite tālassa vatthubhūtapubbattā ‘‘tālavatthū’’ ti vuccati.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-29-67",
+      "204-1316-68-72",
+      "204-1316-73-104"
+     ],
+     "anchors": [
+      {
+       "head": "tālavatthu viya nesaṃ vatthu katanti tālāvatthukatā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-22-28",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Nesan"
+     ],
+     "id": "204-1316-105-108",
+     "text": "Nesan ti rūparasādīnaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-105-108"
+     ],
+     "anchors": [
+      {
+       "head": "Nesan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-22-28",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "yathā hī"
+     ],
+     "id": "204-1316-109-124",
+     "text": "Kathaṃ pana tālavatthu viya nesaṃ vatthu katanti āha ‘‘yathā hī’’ tiādi.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-109-124"
+     ],
+     "anchors": [
+      {
+       "head": "yathā hī",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-629-29-46",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "tesaṃ pubbe uppannapubbabhāvena vatthumatte cittasantāne kate"
+     ],
+     "id": "204-1316-125-141",
+     "text": "Rūpādiparibhogena uppannataṇhāyuttasomanassavedanāsaṅkhātarūparasādīnaṃ cittasantānassa adhiṭṭhānabhāvato vuttaṃ ‘‘tesaṃ pubbe uppannapubbabhāvena vatthumatte cittasantāne kate’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-125-141"
+     ],
+     "anchors": [
+      {
+       "head": "tesaṃ pubbe uppannapubbabhāvena vatthumatte cittasantāne kate",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-629-47-67",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pubbe"
+     ],
+     "id": "204-1316-142-150",
+     "text": "Tattha pubbeti pure, sarāgakāleti vuttaṃ hoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-142-150"
+     ],
+     "anchors": [
+      {
+       "head": "pubbe",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-47-67",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Tālāvatthukatāti vuccantī"
+     ],
+     "id": "204-1316-151~1316-174",
+     "text": "Tālāvatthukatāti vuccantīti tālavatthu viya attano vatthussa katattā rūparasādayo ‘‘tālāvatthukatā’’ ti vuccanti. Etena pahīnakilesānaṃ puna uppattiyā abhāvo dassito.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1316-151-167",
+      "204-1316-168-174"
+     ],
+     "anchors": [
+      {
+       "head": "Tālāvatthukatāti vuccantī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-47-67",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Aviruḷhidhammattā"
+     ],
+     "id": "204-1317-2-7",
+     "text": "Aviruḷhidhammattāti aviruḷhisabhāvatāya.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1317-2-7"
+     ],
+     "anchors": [
+      {
+       "head": "Aviruḷhidhammattā",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "matthakacchinnatālo viya katā"
+     ],
+     "id": "204-1317-8~1317-104",
+     "text": "Matthakacchinno tālo pattaphalādīnaṃ avatthubhūto tālāvatthūti āha ‘‘matthakacchinnatālo viya katā’’ ti. Etena ‘‘tālāvatthu viya katāti tālāvatthukatā’’ ti ayaṃ viggaho dassito. Ettha pana avatthubhūto tālo viya katāti avatthutālākatāti vattabbe visesanassa padassa paranipātaṃ katvā ‘‘tālāvatthukatā’’ ti vuttanti daṭṭhabbaṃ. Iminā panatthena idaṃ dasseti – rūparasādivacanena vipākadhammadhammā hutvā pubbe uppannā kusalākusaladhammā gahitā, te uppannāpi matthakasadisānaṃ taṇhāvijjānaṃ maggasatthena chinnattā āyatiṃ tālapattasadise vipākakkhandhe nibbattetuṃ asamatthā jātā, tasmā tālāvatthu viya katāti tālāvatthukatā rūparasādayoti. Imasmiñhi atthe ‘‘abhinandantānan’’ ti iminā padena kusalasomanassampi saṅgahitanti vadanti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1317-8-22",
+      "204-1317-23-36",
+      "204-1317-37-57",
+      "204-1317-58-90",
+      "204-1317-91-104"
+     ],
+     "anchors": [
+      {
+       "head": "matthakacchinnatālo viya katā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-68-74",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anabhāvaṃkatā",
+      "anu",
+      "yathā nesaṃ pacchābhāvo na hotī"
+     ],
+     "id": "204-1318-2-20",
+     "text": "Anabhāvaṃkatāti ettha anu -saddo pacchā-saddena samānatthoti āha ‘‘yathā nesaṃ pacchābhāvo na hotī’’ tiādi.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1318-2-20"
+     ],
+     "anchors": [
+      {
+       "head": "Anabhāvaṃkatā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-95-101",
+       "trim": 0
+      },
+      {
+       "head": "anu",
+       "role": "quoted",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      },
+      {
+       "head": "yathā nesaṃ pacchābhāvo na hotī",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-629-75-91",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anuabhāvaṃ gatā"
+     ],
+     "id": "204-1318-21-32",
+     "text": "Anuabhāvaṃ gatāti pacchā anuppattidhammatāvasena abhāvaṃ gatā vināsamupagatā, pahīnāti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1318-21-32"
+     ],
+     "anchors": [
+      {
+       "head": "Anuabhāvaṃ gatā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-110-123",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "yathā anuacchariyā anacchariyā"
+     ],
+     "id": "204-1318-33-62",
+     "text": "‘‘Imā anacchariyā gāthāyo paṭibhaṃsū’’ ti ( mahāva.7,8) ettha anacchariyasaddaṃ udāharaṇavasena dassento āha ‘‘yathā anuacchariyā anacchariyā’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1318-33-62"
+     ],
+     "anchors": [
+      {
+       "head": "yathā anuacchariyā anacchariyā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-629-124-134",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "anuacchariyā"
+     ],
+     "id": "204-1318-63-70",
+     "text": "Tattha anuacchariyāti savanakāle uparūpari vimhayakarāti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1318-63-70"
+     ],
+     "anchors": [
+      {
+       "head": "anuacchariyā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-124-134",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Yañca kho tvaṃ vadesi so pariyāyo na hotī"
+     ],
+     "id": "204-1319-2-26",
+     "text": "Yañca kho tvaṃ vadesi, so pariyāyo na hotīti yaṃ vandanādisāmaggirasābhāvasaṅkhātaṃ kāraṇaṃ arasarūpatāya vadesi, taṃ kāraṇaṃ na hoti, na vijjatīti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1319-2-26"
+     ],
+     "anchors": [
+      {
+       "head": "Yañca kho tvaṃ vadesi so pariyāyo na hotī",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "kasmā pana bhagavā evamāhā"
+     ],
+     "id": "204-1319-27-65",
+     "text": "Nanu ca brāhmaṇo yaṃ vandanādisāmaggirasābhāvasaṅkhātaṃ pariyāyaṃ sandhāya ‘‘arasarūpo bhavaṃ gotamo’’ ti āha, so pariyāyo natthīti vutte vandanādīni bhagavā karotīti āpajjatīti imaṃ aniṭṭhappasaṅgaṃ dassento āha ‘‘kasmā pana bhagavā evamāhā’’ tiādi.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1319-27-65"
+     ],
+     "anchors": [
+      {
+       "head": "kasmā pana bhagavā evamāhā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-630-46-50",
+       "trim": 1
+      }
+     ]
+    }
+   ],
+   "vimativinodanī-ṭīkā": [
+    {
+     "heads": [
+      "Taṃ vacanan"
+     ],
+     "id": "210-204-2-11",
+     "text": "3. Taṃ vacanan ti nāhaṃ taṃ brāhmaṇātiādivacanaṃ.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-2-11"
+     ],
+     "anchors": [
+      {
+       "head": "Taṃ vacanan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-627-2-18",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Aññāya saṇṭhaheyyā"
+     ],
+     "id": "210-204-12-17",
+     "text": "Aññāya saṇṭhaheyyāti arahatte patiṭṭhaheyya.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-12-17"
+     ],
+     "anchors": [
+      {
+       "head": "Aññāya saṇṭhaheyyā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-60-84",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Jātivasenā"
+     ],
+     "id": "210-204-18-21",
+     "text": "Jātivasenāti khattiyādijātivasena.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-18-21"
+     ],
+     "anchors": [
+      {
+       "head": "Jātivasenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Upapattivasenā"
+     ],
+     "id": "210-204-22-26",
+     "text": "Upapattivasenāti devesu upapattivasena.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-22-26"
+     ],
+     "anchors": [
+      {
+       "head": "Upapattivasenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Āviñchantī"
+     ],
+     "id": "210-204-27-31",
+     "text": "Āviñchantīti ākaḍḍhanti.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-27-31"
+     ],
+     "anchors": [
+      {
+       "head": "Āviñchantī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "vatthārammaṇādī"
+     ],
+     "id": "210-204-32-66",
+     "text": "Yassa abhivādādikaraṇasaṅkhātassa sāmaggirasassa bhagavati abhāvaṃ maññamāno brāhmaṇo ‘‘arasarūpo’’ ti āha, tabbidhurassa rūpataṇhādikasseva sāmaggirasassa abhāvena bhagavā ‘‘arasarūpo’’ ti dassetuṃ sāmaggirasasaddassa rūparasādīsu vattanappakāraṃ dassento āha vatthārammaṇādītiādi.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-204-32-66"
+     ],
+     "anchors": [
+      {
+       "head": "vatthārammaṇādī",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-628-144-177",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Tālāvatthukatā",
+      "tālavatthu viyā"
+     ],
+     "id": "210-205-2~205-93",
+     "text": "Tālāvatthukatāti ucchinnamūlānaṃ tālānaṃ vatthu viya nesaṃ rūparasādīnaṃ vatthu cittasantānaṃ katanti imasmiṃ atthe majjhepadalopaṃ dīghañca katvā niddesoti āha tālavatthu viyātiādi. Tālavatthu viya yesaṃ vatthu kataṃ te tālāvatthukatāti visesanassa paranipāto daṭṭhabbo, katatālavatthukāti attho. Matthakacchinnatāloyeva pattaphalādīnaṃ akāraṇatāya avatthūti tālāvatthu, taṃ viya yesaṃ vatthu kataṃ te rūparasādayo tālāvatthukatā, ayaṃ aññapadatthavasena atthaggāho heṭṭhā vuttanayena sugamoti visesamatthaṃ dassento āha ‘‘matthakacchinnatālo viya katā’’ ti. Evañca matthakasadisesu rūparasādīsu rāgesu chinnesupi tabbatthubhūtassa tālāvatthusadisassa cittasantānassa yāva parinibbānaṭṭhānaṃ upapannameva hoti. Yathārutato pana visesanasamāsavasena atthe gayhamāne rūparasādīnaṃ tālāvatthusadisatāya ṭhānaṃ āpajjati.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-2-23",
+      "210-205-24-37",
+      "210-205-38-70",
+      "210-205-71-83",
+      "210-205-84-93"
+     ],
+     "anchors": [
+      {
+       "head": "Tālāvatthukatā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-22-28",
+       "trim": 0
+      },
+      {
+       "head": "tālavatthu viyā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-629-22-28",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "sāratthadīpaniyaṃ"
+     ],
+     "id": "210-205-94~205-153",
+     "text": "Yaṃ pana sāratthadīpaniyaṃ ( sārattha. ṭī.1.3) etaṃ dosaṃ pariharituṃ rūparasādīnaṃ kusalākusalattaṃ vuttaṃ, taṃ te tathāgatassa pahīnātiādipāḷiyā, kāmasukhassādasaṅkhātā rūparasātiādiaṭṭhakathāya ca na sameti, khīṇāsavānampi yāva parinibbānā kusalākusalānaṃ phaluppattito tesaṃ matthakacchinnatālasadisatāpi na yuttāti gahetabbaṃ. Atha vā matthakacchinnatālassa ṭhitaṃ aṭṭhitañca amanasikatvā puna anuppattidhammatāsadisamattaṃ upametvā tālāvatthu viya katāti visesanasamāsavasena atthaggahaṇepi na koci doso.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-94-134",
+      "210-205-135-153"
+     ],
+     "anchors": [
+      {
+       "head": "sāratthadīpaniyaṃ",
+       "role": "inner",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anu",
+      "pacchābhāvo na hotī"
+     ],
+     "id": "210-205-154-164",
+     "text": "Anu -saddo pacchāti atthe vattatīti āha pacchābhāvo na hotītiādi.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-154-164"
+     ],
+     "anchors": [
+      {
+       "head": "Anu",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      },
+      {
+       "head": "pacchābhāvo na hotī",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-629-75-91",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anu abhāvaṃ gatā"
+     ],
+     "id": "210-205-165-173",
+     "text": "Anu abhāvaṃ gatāti pacchā anuppattidhammatāvasena abhāvaṃ gatā.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-165-173"
+     ],
+     "anchors": [
+      {
+       "head": "Anu abhāvaṃ gatā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-110-123",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anacchariyā"
+     ],
+     "id": "210-205-174-181",
+     "text": "Anacchariyāti anu anu uparūpari vimhayakatāti attho.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-174-181"
+     ],
+     "anchors": [
+      {
+       "head": "Anacchariyā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-629-124-134",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Yañca kho tvaṃ vadesī"
+     ],
+     "id": "210-205-182-198",
+     "text": "Yañca kho tvaṃ vadesīti yaṃ vandanādisāmaggīrasābhāvasaṅkhātaṃ kāraṇaṃ arasarūpatāya vadesi, taṃ kāraṇaṃ na vijjatīti attho.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-205-182-198"
+     ],
+     "anchors": [
+      {
+       "head": "Yañca kho tvaṃ vadesī",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "cs_para": 4,
+  "paras": {
+   "138": [
+    631
+   ],
+   "204": [
+    1320
+   ],
+   "210": [
+    206
+   ],
+   "213": [
+    9
+   ]
+  },
+  "mula": [
+   {
+    "id": "213-9-2-14",
+    "book": 213,
+    "para": 9,
+    "ws": 2,
+    "we": 14,
+    "text": "4.‘‘Nibbhogo bhavaṃ gotamo’’ ti?",
+    "heads": []
+   },
+   {
+    "id": "213-9-15-29",
+    "book": 213,
+    "para": 9,
+    "ws": 15,
+    "we": 29,
+    "text": "‘‘Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-9-30-36",
+    "book": 213,
+    "para": 9,
+    "ws": 30,
+    "we": 36,
+    "text": "‘nibbhogo samaṇo gotamo’ ti.",
+    "heads": []
+   },
+   {
+    "id": "213-9-37-55",
+    "book": 213,
+    "para": 9,
+    "ws": 37,
+    "we": 55,
+    "text": "Ye te, brāhmaṇa, rūpabhogā saddabhogā gandhabhogā rasabhogā phoṭṭhabbabhogā te tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā.",
+    "heads": []
+   },
+   {
+    "id": "213-9-56-68",
+    "book": 213,
+    "para": 9,
+    "ws": 56,
+    "we": 68,
+    "text": "Ayaṃ kho, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-9-69-86",
+    "book": 213,
+    "para": 9,
+    "ws": 69,
+    "we": 86,
+    "text": "‘nibbhogo samaṇo gotamo’ ti, no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti.",
+    "heads": []
+   }
+  ],
+  "commentary": {
+   "samantapāsādikā": [
+    {
+     "heads": [
+      "nibbhogo bhavaṃ gotamo"
+     ],
+     "id": "138-631-2~631-28",
+     "text": "4. Evaṃ brāhmaṇo attanā adhippetaṃ arasarūpataṃ āropetuṃ asakkonto athāparaṃ nibbhogo bhavaṃ gotamotiādimāha. Sabbapariyāyesu cettha vuttanayeneva yojanakkamaṃ viditvā sandhāya bhāsitamattaṃ evaṃ veditabbaṃ.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-631-2-17",
+      "138-631-18-28"
+     ],
+     "anchors": [
+      {
+       "head": "nibbhogo bhavaṃ gotamo",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-9-2-14",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "nibbhogo"
+     ],
+     "id": "138-631-29~631-54",
+     "text": "Brāhmaṇo tameva vayovuḍḍhānaṃ abhivādanakammādiṃ loke sāmaggiparibhogoti maññamāno tadabhāvena bhagavantaṃ nibbhogoti āha. Bhagavā pana yvāyaṃ rūpādīsu sattānaṃ chandarāgaparibhogo tadabhāvaṃ attani sampassamāno aparampi pariyāyaṃ anujānāti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-631-29-41",
+      "138-631-42-54"
+     ],
+     "anchors": [
+      {
+       "head": "nibbhogo",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-9-2-14",
+       "trim": 0
+      }
+     ]
+    }
+   ],
+   "sāratthadīpanī-ṭīkā": [
+    {
+     "heads": [
+      "Sabbapariyāyesū"
+     ],
+     "id": "204-1320-2-8",
+     "text": "4. Sabbapariyāyesūti sabbavāresu.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1320-2-8"
+     ],
+     "anchors": [
+      {
+       "head": "Sabbapariyāyesū",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-631-18-28",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Sandhāya bhāsitamattan"
+     ],
+     "id": "204-1320-9-36",
+     "text": "Sandhāya bhāsitamattan ti yaṃ sandhāya brāhmaṇo ‘‘nibbhogo bhavaṃ gotamo’’ tiādimāha, bhagavā ca yaṃ sandhāya nibbhogatādiṃ attani anujānāti, taṃ sandhāya bhāsitamattaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1320-9-36"
+     ],
+     "anchors": [
+      {
+       "head": "Sandhāya bhāsitamattan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-631-18-28",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Chandarāgaparibhogo"
+     ],
+     "id": "204-1320-37-41",
+     "text": "Chandarāgaparibhogoti chandarāgavasena paribhogo.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1320-37-41"
+     ],
+     "anchors": [
+      {
+       "head": "Chandarāgaparibhogo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-631-42-54",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Aparaṃ pariyāyan"
+     ],
+     "id": "204-1320-42-47",
+     "text": "Aparaṃ pariyāyan ti aññaṃ kāraṇaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1320-42-47"
+     ],
+     "anchors": [
+      {
+       "head": "Aparaṃ pariyāyan",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    }
+   ],
+   "vimativinodanī-ṭīkā": [
+    {
+     "heads": [
+      "Sandhāya bhāsitamatthan"
+     ],
+     "id": "210-206-2-27",
+     "text": "4. Sandhāya bhāsitamatthan ti yaṃ atthaṃ sandhāya brāhmaṇo nibbhogo bhavaṃ gotamotiādimāha, bhagavā ca yaṃ sandhāya nibbhogatādiṃ attani anujānāti, taṃ sandhāya bhāsitamatthaṃ.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-206-2-27"
+     ],
+     "anchors": [
+      {
+       "head": "Sandhāya bhāsitamatthan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-631-18-28",
+       "trim": 3
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "cs_para": 5,
+  "paras": {
+   "138": [
+    632
+   ],
+   "204": [
+    1321,
+    1322,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    1328,
+    1329,
+    1330,
+    1331,
+    1332,
+    1333,
+    1334
+   ],
+   "210": [
+    207
+   ],
+   "213": [
+    10
+   ]
+  },
+  "mula": [
+   {
+    "id": "213-10-2-15",
+    "book": 213,
+    "para": 10,
+    "ws": 2,
+    "we": 15,
+    "text": "5.‘‘Akiriyavādo bhavaṃ gotamo’’ ti?",
+    "heads": []
+   },
+   {
+    "id": "213-10-16-30",
+    "book": 213,
+    "para": 10,
+    "ws": 16,
+    "we": 30,
+    "text": "‘‘Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-10-31-37",
+    "book": 213,
+    "para": 10,
+    "ws": 31,
+    "we": 37,
+    "text": "‘akiriyavādo samaṇo gotamo’ ti.",
+    "heads": []
+   },
+   {
+    "id": "213-10-38-48",
+    "book": 213,
+    "para": 10,
+    "ws": 38,
+    "we": 48,
+    "text": "Ahañhi, brāhmaṇa, akiriyaṃ vadāmi kāyaduccaritassa vacīduccaritassa manoduccaritassa.",
+    "heads": []
+   },
+   {
+    "id": "213-10-49-55",
+    "book": 213,
+    "para": 10,
+    "ws": 49,
+    "we": 55,
+    "text": "Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ akiriyaṃ vadāmi.",
+    "heads": []
+   },
+   {
+    "id": "213-10-56-68",
+    "book": 213,
+    "para": 10,
+    "ws": 56,
+    "we": 68,
+    "text": "Ayaṃ kho, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-10-69-86",
+    "book": 213,
+    "para": 10,
+    "ws": 69,
+    "we": 86,
+    "text": "‘akiriyavādo samaṇo gotamo’ ti, no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti.",
+    "heads": []
+   }
+  ],
+  "commentary": {
+   "samantapāsādikā": [
+    {
+     "heads": [
+      "akiriyavādo"
+     ],
+     "id": "138-632-2~632-37",
+     "text": "5. Puna brāhmaṇo yaṃ loke vayovuḍḍhānaṃ abhivādanādikulasamudācārakammaṃ lokiyā karonti tassa akiriyaṃ sampassamāno bhagavantaṃ akiriyavādoti āha. Bhagavā pana, yasmā kāyaduccaritādīnaṃ akiriyaṃ vadati tasmā, taṃ akiriyavādaṃ attani sampassamāno aparampi pariyāyaṃ anujānāti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-632-2-20",
+      "138-632-21-37"
+     ],
+     "anchors": [
+      {
+       "head": "akiriyavādo",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-10-2-15",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "kāyaduccaritan"
+     ],
+     "id": "138-632-38-44",
+     "text": "Tattha ca kāyaduccaritan ti pāṇātipāta-adinnādāna-micchācāracetanā veditabbā.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-632-38-44"
+     ],
+     "anchors": [
+      {
+       "head": "kāyaduccaritan",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-10-38-48",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Vacīduccaritan"
+     ],
+     "id": "138-632-45-49",
+     "text": "Vacīduccaritan ti musāvāda-pisuṇavācā-pharusavācā-samphappalāpacetanā veditabbā.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-632-45-49"
+     ],
+     "anchors": [
+      {
+       "head": "Vacīduccaritan",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-10-38-48",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Manoduccaritan"
+     ],
+     "id": "138-632-50-54",
+     "text": "Manoduccaritan ti abhijjhābyāpādamicchādiṭṭhiyo veditabbā.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-632-50-54"
+     ],
+     "anchors": [
+      {
+       "head": "Manoduccaritan",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-10-38-48",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "anekavihitā pāpakā akusalā dhammā"
+     ],
+     "id": "138-632-55-72",
+     "text": "Ṭhapetvā te dhamme, avasesā akusalā dhammā ‘‘anekavihitā pāpakā akusalā dhammā’’ ti veditabbā.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-632-55-72"
+     ],
+     "anchors": [
+      {
+       "head": "anekavihitā pāpakā akusalā dhammā",
+       "role": "inner",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    }
+   ],
+   "sāratthadīpanī-ṭīkā": [
+    {
+     "heads": [
+      "Kulasamudācārakamman"
+     ],
+     "id": "204-1321-2-13",
+     "text": "5. Kulasamudācārakamman ti kulācārasaṅkhātaṃ kammaṃ, kulacārittanti vuttaṃ hoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-2-13"
+     ],
+     "anchors": [
+      {
+       "head": "Kulasamudācārakamman",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-2-20",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Akiriyan"
+     ],
+     "id": "204-1321-14-17",
+     "text": "Akiriyan ti akaraṇabhāvaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-14-17"
+     ],
+     "anchors": [
+      {
+       "head": "Akiriyan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-2-20",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "kāyaduccaritaṃ"
+     ],
+     "id": "204-1321-18-28",
+     "text": "Duṭṭhu caritaṃ duccaritaṃ, kāyadvāre bāhullavuttito kāyato pavattaṃ duccaritanti kāyaduccaritaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-18-28"
+     ],
+     "anchors": [
+      {
+       "head": "kāyaduccaritaṃ",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "tattha cā"
+     ],
+     "id": "204-1321-29-39",
+     "text": "Taṃ sarūpato dassento ‘‘tattha cā’’ tiādimāha.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-29-39"
+     ],
+     "anchors": [
+      {
+       "head": "tattha cā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Pāṇātipātaadinnādānamicchācāracetanā",
+      "veditabbā",
+      "pāṇo"
+     ],
+     "id": "204-1321-40~1321-70",
+     "text": "Pāṇātipātaadinnādānamicchācāracetanā veditabbāti ettha ( itivu. aṭṭha.74) pāṇoti paramatthato jīvitindriyaṃ, vohārato satto. Jīvitindriyañcettha rūpārūpavasena veditabbaṃ. Rūpajīvitindriye hi vikopite itarampi taṃsambandhatāya vinassati.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-40-59",
+      "204-1321-60-63",
+      "204-1321-64-70"
+     ],
+     "anchors": [
+      {
+       "head": "Pāṇātipātaadinnādānamicchācāracetanā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 0
+      },
+      {
+       "head": "veditabbā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 0
+      },
+      {
+       "head": "pāṇo",
+       "role": "inner",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Satto"
+     ],
+     "id": "204-1321-71~1321-95",
+     "text": "Sattoti ca khandhasantāno gahetabbo. Tattha hi sattapaññatti. Saraseneva patanasabhāvassa antarā eva atīva pātanaṃ atipāto, saṇikaṃ patituṃ adatvā sīghaṃ pātananti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-71-76",
+      "204-1321-77-80",
+      "204-1321-81-95"
+     ],
+     "anchors": [
+      {
+       "head": "Satto",
+       "role": "lemma",
+       "target_layer": null,
+       "target": null,
+       "trim": null
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pāṇātipāto"
+     ],
+     "id": "204-1321-96~1324-63",
+     "text": "Atikkamma vā satthādīhi abhibhavitvā pātanaṃ atipāto, pāṇassa atipāto pāṇātipāto, pāṇavadho pāṇaghātoti vuttaṃ hoti. Atthato pana pāṇe pāṇasaññino parassa jīvitindriyupacchedakapayogasamuṭṭhāpikā kāyavacīdvārānamaññatarappavattā vadhakacetanā. Yāya hi cetanāya vattamānassa jīvitindriyassa nissayabhūtesu mahābhūtesu upakkamakaraṇahetukamahābhūtapaccayā uppajjanakamahābhūtā nuppajjissanti, sā tādisappayogasamuṭṭhāpikā cetanā pāṇātipāto. Laddhupakkamāni hi bhūtāni itarabhūtāni viya na visadānīti samānajātiyānaṃ kāraṇāni na honti. Etthāha – khaṇe khaṇe nirujjhanasabhāvesu saṅkhāresu ko hantā, ko vā haññati, yadi cittacetasikasantāno, so arūpatāya na chedanabhedanādivasena vikopanasamattho, napi vikopanīyo. Atha rūpasantāno, so acetanatāya kaṭṭhakaliṅgarūpamoti na tattha chedanādinā pāṇātipāto labbhati yathā matasarīre. Payogopi pāṇātipātassa paharaṇappahārādi atītesu vā saṅkhāresu bhaveyya anāgatesu vā paccuppannesu vā, tattha na tāva atītānāgatesu sambhavati tesaṃ abhāvato, paccuppannesu ca saṅkhārānaṃ khaṇikattā saraseneva nirujjhanasabhāvatāya vināsābhimukhesu nippayojano payogo siyā, vināsassa ca kāraṇarahitattā na paharaṇappahārādippayogahetukaṃ maraṇaṃ, nirīhakatāya ca saṅkhārānaṃ kassa so payogo, khaṇikattā vadhādhippāyasamakālabhijjanato kassa kiriyā, pariyosānakālānavaṭṭhānato kassa vā pāṇātipātakammabaddhoti? Vuccate – yathāvuttavadhakacetanāsahito saṅkhārānaṃ puñjo sattasaṅkhāto hantā. Tena pavattitavadhappayoganimittaṃ apagatusmāviññāṇajīvitindriyo matavohārappavattinibandhano yathāvuttavadhappayogakaraṇe uppajjanāraho rūpārūpadhammasamūho haññati, kevalo vā cittacetasikasantāno. Vadhappayogāvisayabhāvepi tassa pañcavokārabhave rūpasantānādhīnavuttitāya rūpasantāne parena payojitajīvitindriyupacchedakapayogavasena tannibbattivinibandhakavisadisarūpuppattiyā vihate vicchedo hotīti na pāṇātipātassa asambhavo, napi ahetuko pāṇātipāto, na ca payogo nippayojano. Paccuppannesu saṅkhāresu katapayogavasena tadanantaraṃ uppajjanārahassa saṅkhārakalāpassa tathā anuppattito khaṇikānaṃ saṅkhārānaṃ khaṇikamaraṇassa idha maraṇabhāvena anadhippetattā santatimaraṇassa ca yathāvuttanayena sahetukabhāvato na ahetukaṃ maraṇaṃ, na ca katturahito pāṇātipātapayogo nirīhakesupi saṅkhāresu sannihitatāmattena upakārakesu attano attano anurūpaphaluppādaniyatesu kāraṇesu kattuvohārasiddhito yathā ‘‘padīpo pakāseti, nisākarova candimā’’ ti. Na ca kevalassa vadhādhippāyasahabhuno cittacetasikakalāpassa pāṇātipāto icchitabbo santānavasena avaṭṭhitasseva paṭijānanato. Santānavasena vattamānānañca padīpādīnaṃ atthakiriyā dissatīti attheva pāṇātipātena kammabaddho. Ayañca vicāro adinnādānādīsupi yathāsambhavaṃ vibhāvetabbo. So ( ma. ni. aṭṭha.1.89; dha. sa. aṭṭha. akusalakammapathakathā ) ca pāṇātipāto guṇavirahitesu tiracchānagatādīsu pāṇesu khuddake pāṇe appasāvajjo, mahante mahāsāvajjo. Kasmā? Payogamahantatāya, payogasamattepi vatthumahantatāya. Guṇavantesu manussādīsu appaguṇe pāṇe appasāvajjo, mahāguṇe mahāsāvajjo. Sarīraguṇānaṃ pana samabhāve satipi kilesānaṃ upakkamānañca mudutāya appasāvajjo, tibbatāya mahāsāvajjoti veditabbo.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1321-96-111",
+      "204-1321-112-120",
+      "204-1321-121-136",
+      "204-1321-137-148",
+      "204-1322-2-26",
+      "204-1322-27-40",
+      "204-1322-41-96",
+      "204-1323-2-9",
+      "204-1323-10-22",
+      "204-1323-23-46",
+      "204-1323-47-94",
+      "204-1323-95-105",
+      "204-1323-106-114",
+      "204-1323-115-120",
+      "204-1324-2-33",
+      "204-1324-34-35",
+      "204-1324-36-40",
+      "204-1324-41-50",
+      "204-1324-51-63"
+     ],
+     "anchors": [
+      {
+       "head": "pāṇātipāto",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "adinnādānaṃ"
+     ],
+     "id": "204-1325-2~1325-55",
+     "text": "Kāyavācāhi na dinnanti adinnaṃ, parasantakaṃ, tassa ādānaṃ adinnādānaṃ. Parassaharaṇaṃ theyyaṃ, corikāti vuttaṃ hoti. Atthato pana parapariggahe parapariggahitasaññino tadādāyakaupakkamasamuṭṭhāpikā kāyavacīdvārānamaññataradvārappavattā theyyacetanā. Taṃ hīne parasantake appasāvajjaṃ, paṇīte mahāsāvajjaṃ. Kasmā? Vatthupaṇītatāya. Vatthusamatte sati guṇādhikānaṃ santake vatthusmiṃ mahāsāvajjaṃ, taṃtaṃguṇādhikaṃ upādāya tato tato hīnaguṇassa santake vatthusmiṃ appasāvajjaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1325-2-12",
+      "204-1325-13-19",
+      "204-1325-20-27",
+      "204-1325-28-35",
+      "204-1325-36-37",
+      "204-1325-38-39",
+      "204-1325-40-55"
+     ],
+     "anchors": [
+      {
+       "head": "adinnādānaṃ",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "micchācāro"
+     ],
+     "id": "204-1326-2~1326-44",
+     "text": "Micchā caraṇaṃ micchācāro, methunasamācāresu ekantanindito lāmakācāro. So pana lakkhaṇato asaddhammādhippāyena kāyadvārappavattā agamanīyaṭṭhānavītikkamacetanā. So panesa micchācāro sīlādiguṇavirahite agamanīyaṭṭhāne appasāvajjo, sīlādiguṇasampanne mahāsāvajjo. Tassa cattāro sambhārā – agamanīyavatthu, tasmiṃ sevanacittaṃ, sevanapayogo, maggenamaggappaṭipattiadhivāsananti. Eko payogo sāhatthiko eva.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1326-2-9",
+      "204-1326-10-16",
+      "204-1326-17-26",
+      "204-1326-27-39",
+      "204-1326-40-44"
+     ],
+     "anchors": [
+      {
+       "head": "micchācāro",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "vacīduccaritaṃ"
+     ],
+     "id": "204-1327-2-8",
+     "text": "Vacīdvāre bāhullavuttito vācato pavattaṃ duccaritanti vacīduccaritaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1327-2-8"
+     ],
+     "anchors": [
+      {
+       "head": "vacīduccaritaṃ",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "musāvādapisuṇavācāpharusavācāsamphappalāpacetanā veditabbā"
+     ],
+     "id": "204-1327-9-21",
+     "text": "Taṃ sarūpato dassento āha ‘‘musāvādapisuṇavācāpharusavācāsamphappalāpacetanā veditabbā’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1327-9-21"
+     ],
+     "anchors": [
+      {
+       "head": "musāvādapisuṇavācāpharusavācāsamphappalāpacetanā veditabbā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "musā"
+     ],
+     "id": "204-1327-22-28",
+     "text": "Tattha musāti abhūtaṃ atacchaṃ vatthu.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1327-22-28"
+     ],
+     "anchors": [
+      {
+       "head": "musā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "musāvādo"
+     ],
+     "id": "204-1327-29~1327-188",
+     "text": "Musā vadīyati vuccati etāyāti musāvādo, atathaṃ vatthuṃ tathato paraṃ viññāpetukāmassa tathāviññattisamuṭṭhāpikā cetanā. So yamatthaṃ bhañjati, tassa appatāya appasāvajjo, mahantatāya mahāsāvajjo. Apica gahaṭṭhānaṃ attano santakaṃ adātukāmatāya natthīti ādinayappavatto appasāvajjo, sakkhinā hutvā atthabhañjanatthaṃ vutto mahāsāvajjo. Pabbajitānaṃ appakampi telaṃ vā sappiṃ vā labhitvā hasādhippāyena ‘‘ajja gāme telaṃ nadī maññe sandatī’’ ti pūraṇakathānayena pavatto appasāvajjo, adiṭṭhaṃyeva pana diṭṭhantiādinā nayena vadantānaṃ mahāsāvajjo. Tassa cattāro sambhārā honti – atathaṃ vatthu, visaṃvādanacittaṃ, tajjo vāyāmo, parassa tadatthaviññāpananti. Eko payogo sāhatthikova. So kāyena vā kāyapaṭibaddhena vā vācāya vā paravisaṃvādakakiriyākaraṇe daṭṭhabbo. Tāya ce kiriyāya paro tamatthaṃ jānāti, ayaṃ kiriyāsamuṭṭhāpikacetanākkhaṇeyeva musāvādakammunā bajjhati. Yasmā pana yathā kāyakāyapaṭibaddhavācāhi paraṃ visaṃvādeti, tathā ‘‘idamassa bhaṇāhī’’ ti āṇāpentopi, paṇṇaṃ likhitvā purato nissajjantopi,‘‘ayaṃ attho evaṃ veditabbo’’ ti kuṭṭādīsu likhitvā ṭhapentopi, tasmā ettha āṇattikanissaggiyathāvarāpi payogā yujjanti. Aṭṭhakathāsu pana anāgatattā vīmaṃsitvā gahetabbā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1327-29-42",
+      "204-1327-43-53",
+      "204-1327-54-68",
+      "204-1327-69-98",
+      "204-1327-99-114",
+      "204-1327-115-118",
+      "204-1327-119-129",
+      "204-1327-130-141",
+      "204-1327-142-182",
+      "204-1327-183-188"
+     ],
+     "anchors": [
+      {
+       "head": "musāvādo",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pisuṇā"
+     ],
+     "id": "204-1328-2-12",
+     "text": "Pisatīti pisuṇā, samagge satte avayavabhūte vagge bhinne karotīti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1328-2-12"
+     ],
+     "anchors": [
+      {
+       "head": "pisuṇā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pisuṇā"
+     ],
+     "id": "204-1328-13-17",
+     "text": "Niruttinayena vā piyasuññakaraṇato pisuṇā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1328-13-17"
+     ],
+     "anchors": [
+      {
+       "head": "pisuṇā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pisuṇavācā"
+     ],
+     "id": "204-1328-18~1328-116",
+     "text": "Yāya hi vācāya yassa taṃ vācaṃ bhāsati, tassa hadaye attano piyabhāvaṃ, parassa ca piyasuññabhāvaṃ karoti, sā pisuṇavācā. Lakkhaṇato pana saṃkiliṭṭhacittassa paresaṃ vā bhedāya attano piyakamyatāya vā kāyavacīpayogasamuṭṭhāpikā cetanā pisuṇavācā pisuṇaṃ vadati etāyāti katvā. Sā yassa bhedaṃ karoti, tassa appaguṇatāya appasāvajjā, mahāguṇatāya mahāsāvajjā. Tassā cattāro sambhārā – bhinditabbo paro,‘‘iti ime nānā bhavissanti vinā bhavissantī’’ ti bhedapurekkhāratā vā ‘‘iti ahaṃ piyo bhavissāmi vissāsiko’’ ti piyakamyatā vā, tajjo vāyāmo, tassa tadatthavijānananti. Pare pana abhinne kammapathabhedo natthi, bhinne eva hoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1328-18-38",
+      "204-1328-39-55",
+      "204-1328-56-67",
+      "204-1328-68-106",
+      "204-1328-107-116"
+     ],
+     "anchors": [
+      {
+       "head": "pisuṇavācā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pharusā"
+     ],
+     "id": "204-1329-2-6",
+     "text": "Pharusayatīti pharusā, vācā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1329-2-6"
+     ],
+     "anchors": [
+      {
+       "head": "pharusā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pharusavācā"
+     ],
+     "id": "204-1329-7-19",
+     "text": "Yāya hi vācāya attānampi parampi pharusaṃ sinehābhāvena lūkhaṃ karoti, sā pharusavācā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1329-7-19"
+     ],
+     "anchors": [
+      {
+       "head": "pharusavācā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pharusavācā"
+     ],
+     "id": "204-1329-20~1329-235",
+     "text": "Atha vā sayampi pharusā domanassasamuṭṭhitattā sabhāvenapi kakkasā neva kaṇṇasukhā na hadayasukhāti pharusavācā. Ettha pana paresaṃ mammacchedanavasena pavattiyā ekantaniṭṭhuratāya sabhāvena kāraṇavohārena ca vācāya pharusasaddappavatti daṭṭhabbā. Taṃ pharusaṃ vadati etāyāti pharusavācā, parassa mammacchedakakāyavacīpayogasamuṭṭhāpikā ekantapharusā cetanā. Tassā āvibhāvatthamidaṃ vatthu – eko kira dārako mātu vacanaṃ anādiyitvā araññaṃ gacchati, taṃ mātā nivattetuṃ asakkontī ‘‘caṇḍā taṃ mahiṃsī anubandhatū’’ ti akkosi. Athassa tatheva araññe mahiṃsī uṭṭhāsi. Dārako ‘‘yaṃ mama mātā mukhena kathesi, taṃ mā hotu. Yaṃ cittena cintesi, taṃ hotū’’ ti saccakiriyamakāsi. Mahiṃsī tattheva baddhā viya aṭṭhāsi. Evaṃ mammacchedakopi payogo cittasaṇhatāya pharusavācā na hoti. Mātāpitaro hi kadāci puttake evampi vadanti ‘‘corā vo khaṇḍākhaṇḍikaṃ karontū’’ ti, uppalapattampi ca nesaṃ upari patantaṃ na icchanti. Ācariyupajjhāyā ca kadāci nissitake evaṃ vadanti ‘‘kiṃ ime ahirikā anottappino caranti, niddhamatha ne’’ ti. Atha ca nesaṃ āgamādhigamasampattiṃ icchanti, yathā cittasaṇhatāya pharusavācā na hoti, evaṃ vacanasaṇhatāya apharusavācāpi na hoti. Na hi mārāpetukāmassa ‘‘imaṃ sukhaṃ sayāpethā’’ ti vacanaṃ apharusavācā hoti, cittapharusatāya pana esā pharusavācāva. Sā yaṃ sandhāya pavattitā, tassa appaguṇatāya appasāvajjā, mahāguṇatāya mahāsāvajjā. Tassā tayo sambhārā – akkositabbo paro, kupitacittaṃ, akkosanāti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1329-20-32",
+      "204-1329-33-46",
+      "204-1329-47-57",
+      "204-1329-58-85",
+      "204-1329-86-91",
+      "204-1329-92-104",
+      "204-1329-105-115",
+      "204-1329-116-122",
+      "204-1329-123-130",
+      "204-1329-131-154",
+      "204-1329-155-174",
+      "204-1329-175-192",
+      "204-1329-193-212",
+      "204-1329-213-224",
+      "204-1329-225-235"
+     ],
+     "anchors": [
+      {
+       "head": "pharusavācā",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "samphappalāpo"
+     ],
+     "id": "204-1330-2~1330-52",
+     "text": "Saṃ sukhaṃ hitañca phalati visarati vināsetīti samphaṃ, attano paresañca anupakārakaṃ yaṃ kiñci, samphaṃ palapati etāyāti samphappalāpo, anatthaviññāpikakāyavacīpayogasamauṭṭhāpikā akusalacetanā. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā – bhāratayuddhasītāharaṇādiniratthakakathāpurekkhāratā, tathārūpīkathākathanañca. Pare pana taṃ kathaṃ agaṇhante kammapathabhedo natthi, parena pana samphappalāpe gahiteyeva hoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1330-2-23",
+      "204-1330-24-30",
+      "204-1330-31-38",
+      "204-1330-39-52"
+     ],
+     "anchors": [
+      {
+       "head": "samphappalāpo",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-45-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Abhijjhābyāpādamicchādiṭṭhiyo",
+      "abhijjhā"
+     ],
+     "id": "204-1331-2~1331-64",
+     "text": "Abhijjhābyāpādamicchādiṭṭhiyoti ettha parasampattiṃ abhimukhaṃ jhāyatīti abhijjhā, parasampattīsu lobho. Sā pana ‘‘aho vata idaṃ mamassā’’ ti evaṃ parabhaṇḍābhijjhāyanalakkhaṇā. Adinnādānaṃ viya appasāvajjā mahāsāvajjā ca. Tassā dve sambhārā – parabhaṇḍaṃ, attano pariṇāmanañca. Parabhaṇḍavatthuke hi lobhe uppannepi na tāva kammapathabhedo hoti, yāva ‘‘aho vata idaṃ mamassā’’ ti attano na pariṇāmeti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1331-2-12",
+      "204-1331-13-26",
+      "204-1331-27-32",
+      "204-1331-33-41",
+      "204-1331-42-64"
+     ],
+     "anchors": [
+      {
+       "head": "Abhijjhābyāpādamicchādiṭṭhiyo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-50-54",
+       "trim": 0
+      },
+      {
+       "head": "abhijjhā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-50-54",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "byāpādo"
+     ],
+     "id": "204-1332-2~1332-54",
+     "text": "Hitasukhaṃ byāpādeti vināsetīti byāpādo, paṭigho. So paravināsāya manopadosalakkhaṇo. So pharusavācā viya appasāvajjo mahāsāvajjo ca. Tassa dve sambhārā – parasatto, tassa ca vināsanacintā. Parasattavatthuke hi kodhe uppannepi na tāva kammapathabhedo hoti, yāva ‘‘aho vatāyaṃ ucchijjeyya vinasseyyā’’ ti tassa vināsanaṃ na cinteti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1332-2-8",
+      "204-1332-9-13",
+      "204-1332-14-20",
+      "204-1332-21-30",
+      "204-1332-31-54"
+     ],
+     "anchors": [
+      {
+       "head": "byāpādo",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-50-54",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "micchādiṭṭhi"
+     ],
+     "id": "204-1333-2~1333-52",
+     "text": "Yathābhuccagahaṇābhāvena micchā passatīti micchādiṭṭhi. Sā ‘‘natthi dinnan’’ tiādinā nayena viparītadassanalakkhaṇā. Samphappalāpo viya appasāvajjā mahāsāvajjā ca. Apica aniyatā appasāvajjā, niyatā mahāsāvajjā. Tassa dve sambhārā – vatthuno gahitākāraviparītatā, yathā ca taṃ gaṇhāti, tathābhāvena tassupaṭṭhānanti. Tattha natthikāhetukaaariyadiṭṭhīhi eva kammapathabhedo hoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1333-2-7",
+      "204-1333-8-18",
+      "204-1333-19-24",
+      "204-1333-25-31",
+      "204-1333-32-46",
+      "204-1333-47-52"
+     ],
+     "anchors": [
+      {
+       "head": "micchādiṭṭhi",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-50-54",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "ṭhapetvā te dhamme"
+     ],
+     "id": "204-1334-2~1334-32",
+     "text": "‘‘Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānan’’ ti sāmaññavacanepi pārisesañāyato vuttāvasesā akusalā dhammā gahetabbāti āha ‘‘ṭhapetvā te dhamme’’ tiādi. Te yathāvuttakāyaduccaritādike akusaladhamme ṭhapetvāti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1334-2-26",
+      "204-1334-27-32"
+     ],
+     "anchors": [
+      {
+       "head": "ṭhapetvā te dhamme",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-632-55-72",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anekavihitā"
+     ],
+     "id": "204-1334-33-36",
+     "text": "Anekavihitāti anekappakārā.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1334-33-36"
+     ],
+     "anchors": [
+      {
+       "head": "Anekavihitā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-55-72",
+       "trim": 0
+      }
+     ]
+    }
+   ],
+   "vimativinodanī-ṭīkā": [
+    {
+     "heads": [
+      "Kulasamudācārakamman"
+     ],
+     "id": "210-207-2-9",
+     "text": "5. Kulasamudācārakamman ti kulācārakammaṃ.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-207-2-9"
+     ],
+     "anchors": [
+      {
+       "head": "Kulasamudācārakamman",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-2-20",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "kāyaduccaritaṃ"
+     ],
+     "id": "210-207-10-15",
+     "text": "Kāyato kāyadvārato pavattaṃ duccaritaṃ kāyaduccaritaṃ.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-207-10-15"
+     ],
+     "anchors": [
+      {
+       "head": "kāyaduccaritaṃ",
+       "role": "inner",
+       "target_layer": "attha",
+       "target": "138-632-38-44",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Anekavihitā"
+     ],
+     "id": "210-207-16-19",
+     "text": "Anekavihitāti anekappakārā.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-207-16-19"
+     ],
+     "anchors": [
+      {
+       "head": "Anekavihitā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-632-55-72",
+       "trim": 0
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "cs_para": 6,
+  "paras": {
+   "138": [
+    633
+   ],
+   "204": [
+    1335
+   ],
+   "210": [
+    208
+   ],
+   "213": [
+    11
+   ]
+  },
+  "mula": [
+   {
+    "id": "213-11-2-14",
+    "book": 213,
+    "para": 11,
+    "ws": 2,
+    "we": 14,
+    "text": "6.‘‘Ucchedavādo bhavaṃ gotamo’’ ti?",
+    "heads": []
+   },
+   {
+    "id": "213-11-15-29",
+    "book": 213,
+    "para": 11,
+    "ws": 15,
+    "we": 29,
+    "text": "‘‘Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-11-30-36",
+    "book": 213,
+    "para": 11,
+    "ws": 30,
+    "we": 36,
+    "text": "‘ucchedavādo samaṇo gotamo’ ti.",
+    "heads": []
+   },
+   {
+    "id": "213-11-37-46",
+    "book": 213,
+    "para": 11,
+    "ws": 37,
+    "we": 46,
+    "text": "Ahañhi, brāhmaṇa, ucchedaṃ vadāmi rāgassa dosassa mohassa.",
+    "heads": []
+   },
+   {
+    "id": "213-11-47-53",
+    "book": 213,
+    "para": 11,
+    "ws": 47,
+    "we": 53,
+    "text": "Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ ucchedaṃ vadāmi.",
+    "heads": []
+   },
+   {
+    "id": "213-11-54-67",
+    "book": 213,
+    "para": 11,
+    "ws": 54,
+    "we": 67,
+    "text": "Ayaṃ kho, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-11-68-86",
+    "book": 213,
+    "para": 11,
+    "ws": 68,
+    "we": 86,
+    "text": "‘ucchedavādo samaṇo gotamo’ ti, no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti.",
+    "heads": []
+   }
+  ],
+  "commentary": {
+   "samantapāsādikā": [
+    {
+     "heads": [
+      "ucchedavādo"
+     ],
+     "id": "138-633-2~633-73",
+     "text": "6. Puna brāhmaṇo tameva abhivādanādikammaṃ bhagavati apassanto imaṃ ‘‘āgamma ayaṃ lokatanti lokapaveṇī ucchijjatī’’ ti maññamāno bhagavantaṃ ucchedavādoti āha. Bhagavā pana yasmā aṭṭhasu lobhasahagatacittesu pañcakāmaguṇikarāgassa dvīsu akusalacittesu uppajjamānakadosassa ca anāgāmimaggena ucchedaṃ vadati. Sabbākusalasambhavassa pana niravasesassa mohassa arahattamaggena ucchedaṃ vadati. Ṭhapetvā te tayo, avasesānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ yathānurūpaṃ catūhi maggehi ucchedaṃ vadati; tasmā taṃ ucchedavādaṃ attani sampassamāno aparampi pariyāyaṃ anujānāti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-633-2-27",
+      "138-633-28-41",
+      "138-633-42-49",
+      "138-633-50-64",
+      "138-633-65-73"
+     ],
+     "anchors": [
+      {
+       "head": "ucchedavādo",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-11-2-14",
+       "trim": 0
+      }
+     ]
+    }
+   ],
+   "sāratthadīpanī-ṭīkā": [
+    {
+     "heads": [
+      "Ayaṃ lokatantī"
+     ],
+     "id": "204-1335-2-12",
+     "text": "6. Ayaṃ lokatantīti ayaṃ vuḍḍhānaṃ abhivādanādikiriyālakkhaṇā lokappaveṇī.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1335-2-12"
+     ],
+     "anchors": [
+      {
+       "head": "Ayaṃ lokatantī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-633-2-27",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "pañcakāmaguṇikarāgassā"
+     ],
+     "id": "204-1335-13~1335-67",
+     "text": "Anāgāmibrahmānaṃ alaṅkārādīsu anāgāmibhikkhūnañca cīvarādīsu nikantivasena rāguppatti hotīti anāgāmimaggena pañcakāmaguṇikarāgasseva pahānaṃ veditabbanti āha ‘‘pañcakāmaguṇikarāgassā’’ ti. Rūpādīsu pañcasu kāmaguṇesu vatthukāmakoṭṭhāsesu uppajjamāno rāgo ‘‘pañcakāmaguṇikarāgo’’ ti veditabbo. Koṭṭhāsavacano hettha guṇasaddo ‘‘vayoguṇā anupubbaṃ jahantī’’ tiādīsu ( saṃ. ni.1.4) viya.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1335-13-31",
+      "204-1335-32-45",
+      "204-1335-46-67"
+     ],
+     "anchors": [
+      {
+       "head": "pañcakāmaguṇikarāgassā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-633-28-41",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Dvīsu akusalacittesū"
+     ],
+     "id": "204-1335-68-74",
+     "text": "Dvīsu akusalacittesūti domanassasahagatesu dvīsu akusalacittesu.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1335-68-74"
+     ],
+     "anchors": [
+      {
+       "head": "Dvīsu akusalacittesū",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-633-28-41",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "sabbākusalasambhavassā"
+     ],
+     "id": "204-1335-75-84",
+     "text": "Mohassa sabbākusalasādhāraṇattā āha ‘‘sabbākusalasambhavassā’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1335-75-84"
+     ],
+     "anchors": [
+      {
+       "head": "sabbākusalasambhavassā",
+       "role": "quoted",
+       "target_layer": "attha",
+       "target": "138-633-42-49",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Avasesānan"
+     ],
+     "id": "204-1335-85-88",
+     "text": "Avasesānan ti sakkāyadiṭṭhiādīnaṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1335-85-88"
+     ],
+     "anchors": [
+      {
+       "head": "Avasesānan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-633-50-64",
+       "trim": 1
+      }
+     ]
+    }
+   ],
+   "vimativinodanī-ṭīkā": [
+    {
+     "heads": [
+      "Pañcakāmaguṇikarāgassā"
+     ],
+     "id": "210-208-2-25",
+     "text": "6. Pañcakāmaguṇikarāgassāti rūpādīsu pañcasu kāmakoṭṭhāsesu ativiya saṅgavasena niyuttassa kāmarāgassa, etena anāgāmīnaṃ vatthābharaṇādīsu saṅganikantivasena uppajjanakāmarāgassa kāmarāgatābhāvaṃ dasseti tassa rūparāgādīsu saṅgahato.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-208-2-25"
+     ],
+     "anchors": [
+      {
+       "head": "Pañcakāmaguṇikarāgassā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-633-28-41",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Avasesānan"
+     ],
+     "id": "210-208-26-45",
+     "text": "Avasesānan ti ettha sakkāyadiṭṭhivicikicchānaṃ paṭhamena maggena, sesānaṃ catūhipi ucchedaṃ vadati, tenāha ‘‘yathānurūpan’’ ti.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-208-26-45"
+     ],
+     "anchors": [
+      {
+       "head": "Avasesānan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-633-50-64",
+       "trim": 1
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "cs_para": 7,
+  "paras": {
+   "138": [
+    634
+   ],
+   "204": [
+    1336
+   ],
+   "210": [
+    209
+   ],
+   "213": [
+    12
+   ]
+  },
+  "mula": [
+   {
+    "id": "213-12-2-14",
+    "book": 213,
+    "para": 12,
+    "ws": 2,
+    "we": 14,
+    "text": "7.‘‘Jegucchī bhavaṃ gotamo’’ ti?",
+    "heads": []
+   },
+   {
+    "id": "213-12-15-29",
+    "book": 213,
+    "para": 12,
+    "ws": 15,
+    "we": 29,
+    "text": "‘‘Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-12-30-36",
+    "book": 213,
+    "para": 12,
+    "ws": 30,
+    "we": 36,
+    "text": "‘jegucchī samaṇo gotamo’ ti.",
+    "heads": []
+   },
+   {
+    "id": "213-12-37-45",
+    "book": 213,
+    "para": 12,
+    "ws": 37,
+    "we": 45,
+    "text": "Ahañhi, brāhmaṇa, jigucchāmi kāyaduccaritena vacīduccaritena manoduccaritena.",
+    "heads": []
+   },
+   {
+    "id": "213-12-46-52",
+    "book": 213,
+    "para": 12,
+    "ws": 46,
+    "we": 52,
+    "text": "Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā jigucchāmi.",
+    "heads": []
+   },
+   {
+    "id": "213-12-53-65",
+    "book": 213,
+    "para": 12,
+    "ws": 53,
+    "we": 65,
+    "text": "Ayaṃ kho, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya –",
+    "heads": []
+   },
+   {
+    "id": "213-12-66-83",
+    "book": 213,
+    "para": 12,
+    "ws": 66,
+    "we": 83,
+    "text": "‘jegucchī samaṇo gotamo’ ti, no ca kho yaṃ tvaṃ sandhāya vadesī’’ ti.",
+    "heads": []
+   }
+  ],
+  "commentary": {
+   "samantapāsādikā": [
+    {
+     "heads": [
+      "jegucchī"
+     ],
+     "id": "138-634-2~634-86",
+     "text": "7. Puna brāhmaṇo ‘‘jigucchati maññe samaṇo gotamo idaṃ vayovuḍḍhānaṃ abhivādanādikulasamudācārakammaṃ, tena taṃ na karotī’’ ti maññamāno bhagavantaṃ jegucchīti āha. Bhagavā pana yasmā jigucchati kāyaduccaritādīhi; kiṃ vuttaṃ hoti? Yañca tividhaṃ kāyaduccaritaṃ, yañca catubbidhaṃ vacīduccaritaṃ, yañca tividhaṃ manoduccaritaṃ, yā ca ṭhapetvā tāni duccaritāni avasesānaṃ lāmakaṭṭhena pāpakānaṃ akosallasambhūtaṭṭhena akusalānaṃ dhammānaṃ samāpatti samāpajjanā samaṅgibhāvo, taṃ sabbampi gūthaṃ viya maṇḍanakajātiyo puriso jigucchati hirīyati, tasmā taṃ jegucchitaṃ attani sampassamāno aparampi pariyāyaṃ anujānāti.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-634-2-29",
+      "138-634-30-35",
+      "138-634-36-40",
+      "138-634-41-86"
+     ],
+     "anchors": [
+      {
+       "head": "jegucchī",
+       "role": "inner",
+       "target_layer": "mula",
+       "target": "213-12-2-14",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "kāyaduccaritenā"
+     ],
+     "id": "138-634-87-97",
+     "text": "Tattha ‘‘kāyaduccaritenā’’ ti upayogatthe karaṇavacanaṃ daṭṭhabbaṃ.",
+     "book": 138,
+     "layer": "attha",
+     "sent_ids": [
+      "138-634-87-97"
+     ],
+     "anchors": [
+      {
+       "head": "kāyaduccaritenā",
+       "role": "lemma",
+       "target_layer": "mula",
+       "target": "213-12-37-45",
+       "trim": 1
+      }
+     ]
+    }
+   ],
+   "sāratthadīpanī-ṭīkā": [
+    {
+     "heads": [
+      "Jigucchati maññe"
+     ],
+     "id": "204-1336-2-27",
+     "text": "7. Jigucchati maññeti ‘‘ahamabhijāto rūpavā paññavā, kathaṃ nāma aññesaṃ abhivādanādiṃ kareyyan’’ ti jigucchati viya jigucchatīti vā sallakkhemi.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-2-27"
+     ],
+     "anchors": [
+      {
+       "head": "Jigucchati maññe",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-2-29",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Akosallasambhūtaṭṭhenā"
+     ],
+     "id": "204-1336-28-31",
+     "text": "Akosallasambhūtaṭṭhenāti aññāṇasambhūtaṭṭhena.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-28-31"
+     ],
+     "anchors": [
+      {
+       "head": "Akosallasambhūtaṭṭhenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "akusalānaṃ dhammānaṃ samāpattī"
+     ],
+     "id": "204-1336-32-47",
+     "text": "Akusale dhamme jigucchamāno tesaṃ samaṅgībhāvampi jigucchatīti vuttaṃ ‘‘akusalānaṃ dhammānaṃ samāpattī’’ ti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-32-47"
+     ],
+     "anchors": [
+      {
+       "head": "akusalānaṃ dhammānaṃ samāpattī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 1
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Samāpattī",
+      "samāpajjanā samaṅgibhāvo"
+     ],
+     "id": "204-1336-48-55",
+     "text": "Samāpattīti etasseva vevacanaṃ samāpajjanā samaṅgibhāvoti.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-48-55"
+     ],
+     "anchors": [
+      {
+       "head": "Samāpattī",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 1
+      },
+      {
+       "head": "samāpajjanā samaṅgibhāvo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Maṇḍanakajātiyo"
+     ],
+     "id": "204-1336-56-62",
+     "text": "Maṇḍanakajātiyoti maṇḍanasabhāvo, maṇḍanasīloti attho.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-56-62"
+     ],
+     "anchors": [
+      {
+       "head": "Maṇḍanakajātiyo",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Jegucchitan"
+     ],
+     "id": "204-1336-63-66",
+     "text": "Jegucchitan ti jigucchanasīlataṃ.",
+     "book": 204,
+     "layer": "tika",
+     "sent_ids": [
+      "204-1336-63-66"
+     ],
+     "anchors": [
+      {
+       "head": "Jegucchitan",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 1
+      }
+     ]
+    }
+   ],
+   "vimativinodanī-ṭīkā": [
+    {
+     "heads": [
+      "Jigucchati maññe"
+     ],
+     "id": "210-209-2-19",
+     "text": "7. Jigucchati maññeti jigucchati viya,‘‘jigucchatī’’ ti vā sallakkhemi.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-209-2-19"
+     ],
+     "anchors": [
+      {
+       "head": "Jigucchati maññe",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-2-29",
+       "trim": 0
+      }
+     ]
+    },
+    {
+     "heads": [
+      "Akosallasambhūtaṭṭhenā"
+     ],
+     "id": "210-209-20-23",
+     "text": "Akosallasambhūtaṭṭhenāti aññāṇasambhūtaṭṭhena.",
+     "book": 210,
+     "layer": "tika",
+     "sent_ids": [
+      "210-209-20-23"
+     ],
+     "anchors": [
+      {
+       "head": "Akosallasambhūtaṭṭhenā",
+       "role": "lemma",
+       "target_layer": "attha",
+       "target": "138-634-41-86",
+       "trim": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

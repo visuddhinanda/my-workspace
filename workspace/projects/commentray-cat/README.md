@@ -18,6 +18,7 @@
 | `labeling_guide.md` | 标注指南（第二轮所用的口径） |
 | `merge_labels.py` → `label_stats.json` | 合并、校验、统计 |
 | `recheck_150.tsv` | 独立复标的 150 片，用来算一致率 |
+| `reader_value.md` | 各分类对不同读者和研究者的价值 |
 
 TSV 格式和试点一样：`slice_id  主类  副标签  备注`。
 

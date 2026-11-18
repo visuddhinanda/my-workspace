@@ -20,28 +20,28 @@
 
 | 代码 | 类 | 判断要点（目的、功能） | 典型句式（举例，不限于此） |
 |---|---|---|---|
-| **L 词义** | | | |
+| **L** | **词义** | | |
 | L1 | 同义替换 | 用意义相同或相近的词替换被解释词，让读者懂这个词 | X ti Y（Y 为一两个词）；X ti Y, Z |
 | L2 | 指称／范围限定 | 说明被解释词具体指哪个、哪些，或包括到哪里为止：代词所指、ādi 所含、“其余”是哪些、物件和处所的界限 | X ti khattiyādi…；ādi-saddena … saṅgaṇhāti；sesā nāma …；ettha / tena / so ti …；… tathārūpassa … adhivacanaṃ |
 | L3 | 多义辨析 | 列出一个词的几种意义，并确定此处取哪一义 | X-saddo A-B-C-esu vattati … idha A-yaṃ；… ādīsu … attho |
 | L4 | 实质定义 | 说明所指之法的本质、特相，或戒律术语的技术定义，而不只是换一个词 | atthato / lakkhaṇato / sabhāvato pana …；X nāma …；… cetanā veditabbā |
-| **G 语法** | | | |
+| **G** | **语法** | | |
 | G1 | 词源／构词（nirutti, vigraha） | 通过拆解词形、给出构词理由来解释词义 | …tīti X；…assāti X；…aṭṭhena X；X-ssa Y X-Y |
 | G2 | 格位、性数、虚词作用 | 说明某个词的语法功能：格、性数、虚词或不变词的作用 | karaṇe sāmivacanaṃ；upayogatthe；api / ca / vā-saddena …；nipāto |
 | G3 | 分词、复合词形、异读 | 说明词怎么切分、复合词怎么构成、连声怎么变，或文本有哪些异读 | padacchedo；majjhepadalopa；paranipāta；…tipi pāṭho；sandhivasena |
-| **D 义理** | | | |
+| **D** | **义理** | | |
 | D1 | 法义展开 | 超出词义，展开教义内容：支分、轻重、加行、哪一道断何烦恼、因缘关系等 | tassa pañca sambhārā；appasāvajjo … mahāsāvajjo；… maggena pahīyati |
 | D2 | 譬喻 | 借喻体来说明所喻之法 | yathā hi … evaṃ …；seyyathāpi；X viya Y daṭṭhabbo；upamā |
 | D3 | 判定／抉择（vinicchaya）【新增】 | 对具体情形作出判定：律是犯罪与否、犯何罪；论是某法是否属于某类、能否为某所缘 | sace … āpatti / anāpatti / dukkaṭaṃ；… vaṭṭati / na vaṭṭati；ayamettha vinicchayo |
 | D4 | 分类摄属（saṅgaha）【新增】 | 把法按类归属、计数，说明某类包括几种、哪些 | kusalato cattāro, kiriyato …；… saṅgahitā；ettha katī … |
-| **C 语境** | | | |
+| **C** | **语境** | | |
 | C1 | 意图、动机 | 说明说话者、行事者心里想什么，为什么这样说、这样做 | adhippāyo；maññamāno；sampassamāno；sandhāya vadati |
 | C2 | 叙事衔接 | 交代情节、场景、人物，或引出下文 | atha …；tiādimāha；evaṃ vutte … āha |
 | C3 | 整句释意 | 把整句或整段的意思换个说法讲清楚 | evamattho daṭṭhabbo；kiṃ vuttaṃ hoti；…ti attho；idaṃ vuttaṃ hoti |
-| **A 论辩** | | | |
+| **A** | **论辩** | | |
 | A1 | 设问解答 | 预先提出疑问或反驳，再给出回答 | kasmā / kiṃ pana …? … vuccate；nanu …；codanā-parihāra |
 | A2 | 评破他说、转述异说 | 转述别人的不同理解（可以只是并列），或对它们加以评判、驳斥 | keci / eke vadanti；aparo nayo；某长老说…，某长老说…；X-aṭṭhakathāyaṃ vuttaṃ, taṃ na yuttaṃ |
-| **M 元注释** | | | |
+| **M** | **元注释** | | |
 | M1 | 说明措辞的理由 | 解释上一层（被注文本）为什么这样措辞、为什么用这个词或说这句话 | …ti āha ‘X’ti；tena vuttaṃ ‘X’ti；sarūpato dassento āha；…bhāsitattā |
 | M2 | 指出语句的作用 | 指出某句话在文中起什么作用：显示什么、排除什么、属于哪种问或答 | etena … dasseti / dassito；nivattanatthaṃ；… pucchā |
 | M3 | 方法指引 | 不直接解释，而是让读者按前面或别处的方法类推、参照 | vuttanayeneva；eseva nayo；heṭṭhā vuttanayena；visuddhimagge vuttaṃ |

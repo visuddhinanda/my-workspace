@@ -1,13 +1,13 @@
 {{ai}}
-sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]以[[upakkama]]有意地使精液出离原处；除[[supinanta]]以外，出精即犯[[saṅghādisesa]]，[[upakkama]]而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除[[supinanta]]外”。
+sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]以加行有意地使精液出离原处；除梦中以外，出精即犯[[saṅghādisesa]]，加行而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除梦中外”。
 
 {{toc}}
 
 ## 词源与定义
 
-本戒的名称由戒文中的[[sukkavissaṭṭhi]]加上[[sikkhāpada]]构成。律藏《经分别》本章的标题是“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=213-799|style=reference}}，[[bhikkhupātimokkha]]中的标题同为“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=207-35|style=reference}}，《疑惑度脱》的释文以“*Sukkavissaṭṭhisikkhāpadavaṇṇanā*”（[[sukkavissaṭṭhisikkhāpada]]的解释）为题。{{para|id=207-1373|style=reference}}
+本戒的名称由戒文中的 sukkavissaṭṭhi 加上[[sikkhāpada]]构成。律藏《经分别》本章的标题是“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=213-799|style=reference}}，[[bhikkhupātimokkha]]中的标题同为“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=207-35|style=reference}}，《疑惑度脱》的释文以“*Sukkavissaṭṭhisikkhāpadavaṇṇanā*”（[[sukkavissaṭṭhisikkhāpada]]的解释）为题。{{para|id=207-1373|style=reference}}
 
-[[sukkavissaṭṭhi]]是 sukka（精）与 vissaṭṭhi（出离）的复合词。《疑惑度脱》解释：“*Sukkavissaṭṭhīti sukkassa vissaṭṭhi*”（[[sukkavissaṭṭhi]]，即精的出离）。{{para|id=207-1374|style=reference}}律藏分别解释两个成分。sukka 有十种：“*Sukkan ti dasa sukkāni – nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇaṃ telavaṇṇaṃ khīravaṇṇaṃ dadhivaṇṇaṃ sappivaṇṇaṃ*”（精：十种精——青、黄、赤、白、酪浆色、水色、油色、乳色、凝乳色、酥色）{{para|id=213-810|style=reference}}；vissaṭṭhi 指离开原处：“*Vissaṭṭhīti ṭhānato cāvanā vuccati vissaṭṭhīti*”（出：使之从原处移离，称为出）。{{para|id=213-811|style=reference}}
+sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词。《疑惑度脱》解释：“*Sukkavissaṭṭhīti sukkassa vissaṭṭhi*”（sukkavissaṭṭhi，即精的出离）。{{para|id=207-1374|style=reference}}律藏分别解释两个成分。sukka 有十种：“*Sukkan ti dasa sukkāni – nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇaṃ telavaṇṇaṃ khīravaṇṇaṃ dadhivaṇṇaṃ sappivaṇṇaṃ*”（精：十种精——青、黄、赤、白、酪浆色、水色、油色、乳色、凝乳色、酥色）{{para|id=213-810|style=reference}}；vissaṭṭhi 指离开原处：“*Vissaṭṭhīti ṭhānato cāvanā vuccati vissaṭṭhīti*”（出：使之从原处移离，称为出）。{{para|id=213-811|style=reference}}
 
 ## 巴蒂摩卡原文与译文
 
@@ -15,7 +15,7 @@ sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的
 
 > *Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.*{{para|id=207-36|style=reference}}
 
-译文：有意的[[sukkavissaṭṭhi]]，除了在[[supinanta]]，是[[saṅghādisesa]]。
+译文：有意的出精，除了在梦中，是[[saṅghādisesa]]。
 
 本戒在律藏中经过一次修订，各版本的戒文见第 4 项[[paññattividhi@十七特征]]。
 
@@ -31,44 +31,44 @@ sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的
 
 ### 3. [[vatthu@十七特征]]
 
-作[[upakkama]]而出[[asuci]]。{{para|id=207-1375|style=reference}}
+作加行而出[[asuci]]。{{para|id=207-1375|style=reference}}
 
-[[bhagavant]]住在[[sāvatthi]]时，[[seyyasaka]]不乐于修[[brahmacariya]]，因而消瘦憔悴、面色发黄、青筋暴露。[[udāyī]]见了，教他吃饱、睡足、洗好，欲念起时用手作[[upakkama]]出[[asuci]]，并说自己也这样做。{{para|id=213-802|style=reference}}据《普端严》，这位[[udāyī]]就是[[seyyasaka]]的[[upajjhāya]][[lāḷudāyī]]，一个耽于睡眠等的轻躁[[bhikkhu]]。{{para|id=138-2034|style=reference}}
+[[bhagavant]]住在[[sāvatthi]]时，[[seyyasaka]]不乐于修[[brahmacariya]]，因而消瘦憔悴、面色发黄、青筋暴露。[[udāyī]]见了，教他吃饱、睡足、洗好，欲念起时用手作加行出[[asuci]]，并说自己也这样做。{{para|id=213-802|style=reference}}据《普端严》，这位[[udāyī]]就是[[seyyasaka]]的[[upajjhāya]][[lāḷudāyī]]，一个耽于睡眠等的轻躁[[bhikkhu]]。{{para|id=138-2034|style=reference}}
 
 [[seyyasaka]]照做以后气色好转。同伴问他是否服了[[bhesajja]]，他如实相告；同伴质问他怎能用吃[[saddhādeyya]]之食的那只手作这种事。{{para|id=213-803|style=reference}}少欲的[[bhikkhu]]们讥嫌，报告[[bhagavant]]。[[bhagavant]]召集[[saṅgha]]问明属实，呵责他说：自己以种种方式为离染而说法，而不是为染着，随即制定本戒。{{para|id=213-804|style=reference}}
 
-后来有[[bhikkhu]]吃了[[paṇītabhojana]]后失念入睡，在[[supinanta]]出精，担心犯了[[saṅghādisesa]]。[[bhagavant]]说其中虽然有[[cetanā]]，但那是不算数的（abbohārika），于是补上“除[[supinanta]]外”。{{para|id=213-807|style=reference}}《普端严》解释，梦中的[[cetanā]]因为生起于不属其作用范围之处，所以不算数，不成为[[āpatti]]的[[aṅga@十七特征]]{{para|id=138-2036|style=reference}}；它虽然也会带来果报，仍然不算数{{para|id=138-2044|style=reference}}。《疑惑度脱旧复注》所说相同。{{para|id=212-171|style=reference}}
+后来有[[bhikkhu]]吃了[[paṇītabhojana]]后失念入睡，在梦中出精，担心犯了[[saṅghādisesa]]。[[bhagavant]]说其中虽然有[[cetanā]]，但那是不算数的（abbohārika），于是补上“除梦中外”。{{para|id=213-807|style=reference}}《普端严》解释，梦中的[[cetanā]]因为生起于不属其作用范围之处，所以不算数，不成为[[āpatti]]的[[aṅga@十七特征]]{{para|id=138-2036|style=reference}}；它虽然也会带来果报，仍然不算数{{para|id=138-2044|style=reference}}。《疑惑度脱旧复注》所说相同。{{para|id=212-171|style=reference}}
 
 ### 4. [[paññattividhi@十七特征]]
 
-- [[anupaññatti]]：“除[[supinanta]]外”是本戒的补充条款。{{para|id=207-1375|style=reference}}本戒在律藏中共有两个版本：
+- [[anupaññatti]]：“除梦中外”是本戒的补充条款。{{para|id=207-1375|style=reference}}本戒在律藏中共有两个版本：
   1. [[mūlapaññatti]]：因[[seyyasaka]]用手出精而制定。{{para|id=213-804|style=reference}}
      > *Sañcetanikā sukkavissaṭṭhi saṅghādiseso.*{{para|id=213-805|style=reference}}
      >
-     > 有意的[[sukkavissaṭṭhi]]，是[[saṅghādisesa]]。
-  2. 第一次[[anupaññatti]]：有[[bhikkhu]]吃了[[paṇītabhojana]]后失念入睡，在[[supinanta]]出精，担心犯了[[saṅghādisesa]]；[[bhagavant]]说其中的[[cetanā]]不算数，并修订戒文。{{para|id=213-807|style=reference}}
+     > 有意的出精，是[[saṅghādisesa]]。
+  2. 第一次[[anupaññatti]]：有[[bhikkhu]]吃了[[paṇītabhojana]]后失念入睡，在梦中出精，担心犯了[[saṅghādisesa]]；[[bhagavant]]说其中的[[cetanā]]不算数，并修订戒文。{{para|id=213-807|style=reference}}
      > *Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.*{{para|id=213-808|style=reference}}
      >
-     > 有意的[[sukkavissaṭṭhi]]，除了在[[supinanta]]，是[[saṅghādisesa]]。
+     > 有意的出精，除了在梦中，是[[saṅghādisesa]]。
 
-     修订内容：在“有意的[[sukkavissaṭṭhi]]”之后加入“除了在[[supinanta]]”（aññatra supinantā），把梦中出精排除在本戒之外。这一版即[[bhikkhupātimokkha]]所诵的戒文。{{para|id=207-36|style=reference}}
+     修订内容：在“有意的出精”之后加入“除了在梦中”（aññatra supinantā），把梦中出精排除在本戒之外。这一版即[[bhikkhupātimokkha]]所诵的戒文。{{para|id=207-36|style=reference}}
 - [[asādhāraṇapaññatti]]：只为[[bhikkhu]]制定。{{para|id=207-1375|style=reference}}
 
 ### 5. [[āṇatti@十七特征]]
 
 [[anāṇattika]]。{{para|id=207-1375|style=reference}}
 
-不过，让别人在自己的[[aṅgajāta]]上作[[upakkama]]而出精，仍然犯。{{para|id=207-1375|style=reference}}律藏的[[vinītavatthu]]中，[[bhikkhu]]有出精之意，叫[[sāmaṇera]]握他的[[aṅgajāta]]，出了[[asuci]]，判为[[saṅghādisesa]]。{{para|id=213-1003|style=reference}}
+不过，让别人在自己的[[aṅgajāta]]上作加行而出精，仍然犯。{{para|id=207-1375|style=reference}}律藏的[[vinītavatthu]]中，[[bhikkhu]]有出精之意，叫[[sāmaṇera]]握他的[[aṅgajāta]]，出了[[asuci]]，判为[[saṅghādisesa]]。{{para|id=213-1003|style=reference}}
 
 ### 6. [[āpatti@十七特征]]
 
-- [[saṅghādisesa]]：有意、作[[upakkama]]并且出精。{{para|id=213-834|style=reference}}例如[[bhikkhu]]以出精之意用热水洗浴而出精，判为[[saṅghādisesa]]。{{para|id=213-987|style=reference}}《疑惑度脱》说，哪怕只离开原处一只小苍蝇能喝的那么一点，即使尚未进入尿道，也犯[[saṅghādisesa]]。{{para|id=207-1375|style=reference}}
-- [[thullaccaya]]：有意、作[[upakkama]]而没有出精。{{para|id=213-966|style=reference}}例如同样以出精之意用热水洗浴而未出，判为不犯[[saṅghādisesa]]、犯[[thullaccaya]]。{{para|id=213-988|style=reference}}
+- [[saṅghādisesa]]：有意、作加行并且出精。{{para|id=213-834|style=reference}}例如[[bhikkhu]]以出精之意用热水洗浴而出精，判为[[saṅghādisesa]]。{{para|id=213-987|style=reference}}《疑惑度脱》说，哪怕只离开原处一只小苍蝇能喝的那么一点，即使尚未进入尿道，也犯[[saṅghādisesa]]。{{para|id=207-1375|style=reference}}
+- [[thullaccaya]]：有意、作加行而没有出精。{{para|id=213-966|style=reference}}例如同样以出精之意用热水洗浴而未出，判为不犯[[saṅghādisesa]]、犯[[thullaccaya]]。{{para|id=213-988|style=reference}}
 - [[dukkaṭa]]：律藏的[[vinītavatthu]]中有两种行为判为[[dukkaṭa]]：握熟睡[[sāmaṇera]]的[[aṅgajāta]]而自己出精{{para|id=213-1004|style=reference}}；以染心注视[[mātugāma]]的[[aṅgajāta]]而出精，[[bhagavant]]并因此规定不应以染心注视，注视的犯[[dukkaṭa]]。{{para|id=213-1010|style=reference}}
 
 ### 7. [[anāpatti@十七特征]]
 
-[[supinanta]]、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。{{para|id=213-973|style=reference}}
+梦中、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。{{para|id=213-973|style=reference}}
 
 ### 8. [[vipatti@十七特征]]
 
@@ -154,7 +154,6 @@ sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的
 ## 相关条目
 
 - [[saṅghādisesa]]
-- [[sukkavissaṭṭhi]]
 - [[paṭhamapārājika]]
 - [[kāyasaṃsaggasikkhāpada]]
 - [[bhikkhupātimokkha]]

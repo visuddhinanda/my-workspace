@@ -1,5 +1,5 @@
 {{ai}}
-sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]以加行有意地使精液出离原处；除梦中以外，出精即犯[[saṅghādisesa]]，加行而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除梦中外”。
+故意出精学处（sukkavissaṭṭhisikkhāpada）是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]以加行有意地使精液出离原处；除梦中以外，出精即犯[[saṅghādisesa]]，加行而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除梦中外”。
 
 {{toc}}
 

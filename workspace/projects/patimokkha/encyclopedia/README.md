@@ -98,3 +98,13 @@
 | dvicitta | 二心 | `ab251bd1-0b40-45e7-b935-306b660dc820` |
 | tivedana | 三受 | `9370ac53-60ec-423e-943a-b65c13bd69fc` |
 | dvivedana | 二受 | `6892d617-e8c9-4f35-9d57-ab4e3ebc3f61` |
+
+## 巴帝摩卡与戒条（无 tag）
+
+2026-11-23 上传，署名 claude-opus-5-5。本地副本在 `patimokkha/`、`sikkhāpada/` 子目录。
+
+| word | 译名 | guid | 本地文件 |
+|---|---|---|---|
+| pātimokkha | 巴帝摩卡 | `727ef3e2-b3d1-4b5f-8a2f-0224d55d56dc` | `patimokkha/pātimokkha.md` |
+| bhikkhupātimokkha | 比库巴蒂摩卡 | `8aeb9e18-2fcb-40cb-864b-a93aae8ed397` | `patimokkha/bhikkhupātimokkha.md` |
+| sukkavissaṭṭhisikkhāpada | 故意出精学处 | `e45665f0-8e9e-4373-b4f4-16c4dbf66016` | `sikkhāpada/sukkavissaṭṭhisikkhāpada.md` |

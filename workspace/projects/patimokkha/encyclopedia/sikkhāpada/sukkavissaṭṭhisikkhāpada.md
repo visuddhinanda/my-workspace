@@ -5,15 +5,9 @@ sukkavissaṭṭhisikkhāpada 是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的
 
 ## 词源与定义
 
-律藏在戒文之后逐词解释。“有意的”是：“*Sañcetanikāti jānanto sañjānanto cecca abhivitaritvā vītikkamo*”（有意的：知道、了知、故意、决意而违犯）。{{para|id=213-809|style=reference}}《疑惑度脱》从构词上解释：“*Saṃvijjati cetanā assāti sañcetanā, sañcetanāva sañcetanikā, sañcetanā vā assa atthīti sañcetanikā*”（有[[cetanā]]的，是 sañcetanā；sañcetanā 即是 sañcetanikā；或者具有 sañcetanā 的，是 sañcetanikā）。{{para|id=207-1374|style=reference}}
+本戒的名称由戒文中的[[sukkavissaṭṭhi]]加上[[sikkhāpada]]构成。律藏《经分别》本章的标题是“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=213-799|style=reference}}，[[bhikkhupātimokkha]]中的标题同为“*Sukkavissaṭṭhisikkhāpadaṃ*”{{para|id=207-35|style=reference}}，《疑惑度脱》的释文以“*Sukkavissaṭṭhisikkhāpadavaṇṇanā*”（[[sukkavissaṭṭhisikkhāpada]]的解释）为题。{{para|id=207-1373|style=reference}}
 
-“精”有十种颜色：“*Sukkan ti dasa sukkāni – nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇaṃ telavaṇṇaṃ khīravaṇṇaṃ dadhivaṇṇaṃ sappivaṇṇaṃ*”（精：十种精——青、黄、赤、白、酪浆色、水色、油色、乳色、凝乳色、酥色）。{{para|id=213-810|style=reference}}“出”指离开原处：“*Vissaṭṭhīti ṭhānato cāvanā vuccati vissaṭṭhīti*”（出：使之从原处移离，称为出）。{{para|id=213-811|style=reference}}
-
-《疑惑度脱》合起来解释[[sukkavissaṭṭhi]]：“*Sukkavissaṭṭhīti sukkassa vissaṭṭhi, rāgūpatthambhādīsu yena kenaci aṅgajāte kammaññataṃ patte ārogyādīsu yaṃkiñci apadisitvā ajjhattarūpādīsu yattha katthaci mocanassādacetanāya nimitte upakkamantassa āsayadhātunānattato nīlādivasena dasavidhesu sukkesu yassa kassaci sukkassa ṭhānā cāvanāti attho*”（[[sukkavissaṭṭhi]]即精的出离：因欲的支撑等任何一种原因，[[aṅgajāta]]变得堪用时，以健康等任何一种为借口，在自身的色等任何一处，以出精之乐的[[cetanā]]在相上作[[upakkama]]的人，使依所在与界的差别而有青等十种精中的任何一种离开原处，这是它的意思）。{{para|id=207-1374|style=reference}}
-
-“除[[supinanta]]外”：“*Aññatra supinantāti ṭhapetvā supinantaṃ*”（除[[supinanta]]外：除去[[supinanta]]）。{{para|id=213-812|style=reference}}
-
-[[saṅghādisesa]]一名，律藏解释为整个过程都要[[saṅgha]]来处理：“*Saṅghādisesoti saṅghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti; na sambahulā, na ekapuggalo*”（[[saṅghādisesa]]：唯有[[saṅgha]]为此[[āpatti]]给予[[parivāsa]]、[[mūlāyapaṭikassana]]、给予[[mānatta]]、[[abbhāna]]；不是数人，也不是一人）。{{para|id=213-813|style=reference}}《疑惑度脱》说：“*Vacanattho panettha saṅgho ādimhi ceva sese ca icchitabbo assāti saṅghādiseso*”（词义是：在其开始与其余〔阶段〕都需要[[saṅgha]]，所以称为[[saṅghādisesa]]）。{{para|id=207-1374|style=reference}}
+[[sukkavissaṭṭhi]]是 sukka（精）与 vissaṭṭhi（出离）的复合词。《疑惑度脱》解释：“*Sukkavissaṭṭhīti sukkassa vissaṭṭhi*”（[[sukkavissaṭṭhi]]，即精的出离）。{{para|id=207-1374|style=reference}}律藏分别解释两个成分。sukka 有十种：“*Sukkan ti dasa sukkāni – nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇaṃ telavaṇṇaṃ khīravaṇṇaṃ dadhivaṇṇaṃ sappivaṇṇaṃ*”（精：十种精——青、黄、赤、白、酪浆色、水色、油色、乳色、凝乳色、酥色）{{para|id=213-810|style=reference}}；vissaṭṭhi 指离开原处：“*Vissaṭṭhīti ṭhānato cāvanā vuccati vissaṭṭhīti*”（出：使之从原处移离，称为出）。{{para|id=213-811|style=reference}}
 
 ## 巴蒂摩卡原文与译文
 

@@ -353,7 +353,7 @@
 | 巴吉帝亚 12 | Anupaññatti … aññavādakasikkhāpadādīsu | [kaṅkhā.aṭṭha. 207:1335; 缅 kaṅkhāvitaraṇī p.114; PTS Kkh p.25; VRI p.118](https://next.wikipali.cc/library/tipitaka/207-1299/read#1335) |
 | 巴吉帝亚 16 | anupakhajjasikkhāpade vuttanayena | [kaṅkhā.aṭṭha. 207:1670](https://next.wikipali.cc/library/tipitaka/207-1669/read#1670) |
 | 巴吉帝亚 32 | 巴吉帝亚 33：gaṇabhojane vuttanayeneva | [kaṅkhā.aṭṭha. 207:1733; VRI p.209](https://next.wikipali.cc/library/tipitaka/207-1732/read#1733) |
-| 巴吉帝亚 46 | 巴吉帝亚 83：idaṃ cāritte vuttanayameva | [kaṅkhā.aṭṭha. 207:1973; 缅 kaṅkhāvitaraṇī p.268; PTS Kkh p.141; VRI p.255](https://next.wikipali.cc/library/tipitaka/207-1972/read#1973) |
+| 巴吉帝亚 46 | 巴吉帝亚 85：idaṃ cāritte vuttanayameva | [kaṅkhā.aṭṭha. 207:1973; 缅 kaṅkhāvitaraṇī p.268; PTS Kkh p.141; VRI p.255](https://next.wikipali.cc/library/tipitaka/207-1972/read#1973) |
 | 巴吉帝亚 47 | 巴吉帝亚 39：so mahānāmasikkhāpadena | [kaṅkhā.aṭṭha. 207:1764; 缅 kaṅkhāvitaraṇī p.228; VRI p.218](https://next.wikipali.cc/library/tipitaka/207-1763/read#1764) |
 | 巴吉帝亚 48 | uyyuttasenāsikkhāpade vuttanayena | [kaṅkhā.aṭṭha. 207:1807](https://next.wikipali.cc/library/tipitaka/207-1806/read#1807) |
 | 巴吉帝亚 59 | 尼萨耆 1 预告：vikappanasikkhāpadeyeva vaṇṇayissāma | [kaṅkhā.aṭṭha. 207:1452; 缅 kaṅkhāvitaraṇī p.155; PTS Kkh p.56; VRI p.153](https://next.wikipali.cc/library/tipitaka/207-1449/read#1452) |
@@ -401,9 +401,10 @@ paṭhamapārājika、adinnādāna、sañcaritta、samanubhāsana、kathina、e�
 ## 五、总表（供建术语表）
 
 - 每条戒一行；**分部**（pārājika 等）和**品**各占单独一行。
-- 「戒条名称」取《疑惑度脱》标题；律藏标题不同的（含拼写不同）放进「别名」，并注「律」。巴拉基咖四条标题本来就没有 sikkhāpada，照原样列出。
+- 「戒条名称」**优先用原典（律藏标题）的名称和拼写**；原典名有歧义（与别的戒重名、同词另有所指）或不是名称时，改用《疑惑度脱》或复注的名称，并在「未采纳原典的原因」栏写明理由。巴拉基咖四条标题本来就没有 sikkhāpada，照原样列出。
 - 带 sikkhāpada 的复合词保留 sikkhāpada。sikkhāpada 前面的词如果在 207、213、214 三本书的正文里**单独出现过**（任意格尾，含 -nti/-ti），就把裸词也列上，「单独出现」栏给首见段落和段落数。
 - ⚠ 单独出现是按词形机械判定的，**不区分是不是在当戒名用**。kathina、patta、ovāda、joti 这类普通词单独出现，多数是一般义而不是戒名；建术语表时请按「单独出现」栏的出处判断。
+- **[原典]**：这个名称见于根本典，即律藏 213/214 的章节标题，或巴蒂摩卡本文 207:3–523（分部标题、灭诤条文）。没标的出自注疏（《疑惑度脱》207:1215 以后、复注 212），或者只是在正文里单独出现的裸词。原来标「（律）」的律藏标题都改成了 [原典]。
 - 别名后注「推断 / 待核」的，见第二节。等起名（addhāna 等）不列为别名。
 - **「戒条名称」只放一个**，一律用带 sikkhāpada 的复合词（裸词常与普通词同形）；其余标题名、裸词、正文别名都放进「别名」。
 - 同名戒条改用原典里能区分的名字作戒条名称：
@@ -414,259 +415,259 @@ paṭhamapārājika、adinnādāna、sañcaritta、samanubhāsana、kathina、e�
   - 尼萨耆 30 的标题名 pariṇata 与巴吉帝亚 82 pariṇāmana 本来就不同，各用标题名
 - ⚠ **仍然重名、原典（207、212、213、214）里找不到区分名的**，暂时保留同名，待定：
   - sañciccasikkhāpada：巴吉帝亚 61、77
-  - vassikasāṭikasikkhāpada：尼萨耆 24、巴吉帝亚 91（律藏巴吉帝亚 91 拼作 vassikasāṭikā，只是拼写不同）
+  - vassikasāṭika / vassikasāṭikā：尼萨耆 24 作 vassikasāṭikasikkhāpada，巴吉帝亚 91 采原典拼写 vassikasāṭikāsikkhāpada，两者只差一个长音，实际仍等于同名
   - 众学法成对或成组的条目：《疑惑度脱》合释、共用一个标题（suppaṭicchanna 3–4、susaṃvuta 5–6、okkhittacakkhu 7–8、ukkhittaka 9–10、ujjagghika 11–12、uccasadda 13–14、kāyappacālakādi 15–20、khambhakata 21–22、samatittika 30–32、sapadāna 33–34、anāhaṭa 41–42、capucapukāraka 50–51、hatthanillehakādi 52–54、daṇḍapāṇi 58–59、pāduka 61–62），另有 oguṇṭhita 23–24 与 67、pallatthika 26 与 65 同名
 - 戒条名称里有两个带空格的短语（巴吉帝亚 45，以及别名里的 bhikkhuniyā saddhiṃ …）。建术语时如果标记不支持空格，需要另定词形。
 
-| 编号 | 戒条名称 | 别名 | 单独出现（裸词首见 / 段数） |
-|---|---|---|---|
-| **巴拉基咖** | **pārājika** |  |  |
-| 1 | paṭhamapārājika | methunadhammasikkhāpada（207:2165 比库尼部分标题）、methunadhamma | methunadhamma：213:1239 等 16 段 |
-| 2 | dutiyapārājika | adinnādāna（207:1366） | adinnādāna：213:373 等 12 段 |
-| 3 | tatiyapārājika | manussaviggaha（207:1856） | manussaviggaha：213:404 等 10 段 |
-| 4 | catutthapārājika |  |  |
-| **僧始终** | **saṅghādisesa** |  |  |
-| 1 | sukkavissaṭṭhisikkhāpada | sukkavissaṭṭhi | sukkavissaṭṭhi：213:805 等 10 段 |
-| 2 | kāyasaṃsaggasikkhāpada | kāyasaṃsagga | kāyasaṃsagga：213:1844 等 26 段 |
-| 3 | duṭṭhullavācāsikkhāpada | duṭṭhullavācā、duṭṭhullobhāsana（207:1386） | duṭṭhullavācā：207:1382 等 3 段；duṭṭhullobhāsana：207:1387 等 2 段 |
-| 4 | attakāmasikkhāpada | attakāma、attakāmapāricariyasikkhāpada（律）、attakāmapāricariya | attakāma：213:1234 等 3 段；attakāmapāricariya：213:1246 等 13 段 |
-| 5 | sañcarittasikkhāpada | sañcaritta | sañcaritta：213:1457 等 17 段 |
-| 6 | kuṭikārasikkhāpada |  |  |
-| 7 | vihārakārasikkhāpada |  |  |
-| 8 | duṭṭhadosasikkhāpada |  |  |
-| 9 | aññabhāgiyasikkhāpada | aññabhāgiya、dutiyaduṭṭhadosasikkhāpada（律） | aññabhāgiya：207:1408 等 7 段 |
-| 10 | saṅghabhedasikkhāpada | saṅghabheda | saṅghabheda：213:1762 等 18 段 |
-| 11 | bhedānuvattakasikkhāpada |  |  |
-| 12 | dubbacasikkhāpada | dubbaca | dubbaca：213:1847 等 2 段 |
-| 13 | kuladūsakasikkhāpada | kuladūsaka | kuladūsaka：213:1825 等 10 段 |
-| **不定** | **aniyata** | aniyatadvaya | aniyatadvaya：207:1788 总称 |
-| 1 | paṭhamāniyatasikkhāpada | paṭhamaaniyatasikkhāpada（律） |  |
-| 2 | dutiyāniyatasikkhāpada | dutiyāniyata、dutiyaaniyatasikkhāpada（律）、dutiyaaniyata | dutiyāniyata：207:1621 等 1 段；dutiyaaniyata：207:1720 等 1 段 |
-| **尼萨耆巴吉帝亚** | **nissaggiyapācittiya** |  |  |
-| *第1品* | *cīvaravagga* |  | |
-| 1 | kathinasikkhāpada | kathina、paṭhamakathinasikkhāpada（律）、paṭhamakathina | kathina：214:750 等 37 段；paṭhamakathina：207:1460 等 2 段 |
-| 2 | udositasikkhāpada | udosita | udosita：213:1957 等 6 段 |
-| 3 | akālacīvarasikkhāpada | akālacīvara、tatiyakathinasikkhāpada（律） | akālacīvara：214:2513 等 23 段 |
-| 4 | purāṇacīvarasikkhāpada | purāṇacīvara、dhovāpanasikkhāpada（207:1510，推断）、purāṇacīvaradhovāpana（207:1532） | purāṇacīvara：213:1997 等 10 段；purāṇacīvaradhovāpana：207:1532 等 1 段 |
-| 5 | cīvarappaṭiggahaṇasikkhāpada | cīvarapaṭiggahaṇasikkhāpada（律） |  |
-| 6 | aññātakaviññattisikkhāpada | aññātakaviññatti | aññātakaviññatti：207:1485 等 3 段 |
-| 7 | tatuttarisikkhāpada | tatuttari | tatuttari：214:995 等 11 段 |
-| 8 | upakkhaṭasikkhāpada | upakkhaṭa | upakkhaṭa：213:2074 等 9 段 |
-| 9 | dutiyaupakkhaṭasikkhāpada |  |  |
-| 10 | rājasikkhāpada | rāja | rāja：214:1494 等 46 段 |
-| *第2品* | *eḷakalomavagga* | kosiyavagga（律） | |
-| 11 | kosiyasikkhāpada | kosiya | kosiya：213:2292 等 5 段 |
-| 12 | suddhakāḷakasikkhāpada | suddhakāḷaka | suddhakāḷaka：213:2171 等 9 段 |
-| 13 | dvebhāgasikkhāpada |  |  |
-| 14 | chabbassasikkhāpada | chabbassa | chabbassa：213:2292 等 7 段 |
-| 15 | nisīdanasanthatasikkhāpada | nisīdanasikkhāpada、nisīdana、nisīdanasanthata | nisīdana：213:2292 等 29 段；nisīdanasanthata：207:105 等 3 段 |
-| 16 | eḷakalomasikkhāpada | eḷakaloma | eḷakaloma：213:2171 等 27 段 |
-| 17 | eḷakalomadhovāpanasikkhāpada |  |  |
-| 18 | jātarūpasikkhāpada | jātarūpa、rūpiyasikkhāpada（律）、rūpiya、rūpiyappaṭiggahaṇa（207:1330，见于 -āpatti 复合词） | jātarūpa：213:2251 等 2 段；rūpiya：213:2269 等 6 段；rūpiyappaṭiggahaṇa：仅见于复合词 |
-| 19 | rūpiyasaṃvohārasikkhāpada | rūpiyasaṃvohāra | rūpiyasaṃvohāra：213:2266 等 7 段 |
-| 20 | kayavikkayasikkhāpada | kayavikkaya | kayavikkaya：213:2285 等 8 段 |
-| *第3品* | *pattavagga* |  | |
-| 21 | pattasikkhāpada | patta | patta：214:1180 等 114 段 |
-| 22 | ūnapañcabandhanasikkhāpada | ūnapañcabandhana | ūnapañcabandhana：213:2324 等 7 段 |
-| 23 | bhesajjasikkhāpada | bhesajja | bhesajja：213:826 等 35 段 |
-| 24 | vassikasāṭikasikkhāpada | vassikasāṭika | vassikasāṭika：214:1615 等 13 段 |
-| 25 | cīvaraacchindanasikkhāpada |  |  |
-| 26 | suttaviññattisikkhāpada |  |  |
-| 27 | mahāpesakārasikkhāpada |  |  |
-| 28 | accekacīvarasikkhāpada | accekacīvara | accekacīvara：213:2425 等 11 段 |
-| 29 | sāsaṅkasikkhāpada | sāsaṅka、cīvaravippavāsasikkhāpada（207:2019，待核） | sāsaṅka：213:2474 等 7 段 |
-| 30 | pariṇatasikkhāpada | pariṇata、pariṇāmanasikkhāpada（207:1959）、pariṇāmana | pariṇata：207:136 等 17 段；pariṇāmana：214:1483 等 2 段 |
-| **巴吉帝亚** | **pācittiya** | suddhapācittiya、suddhikapācittiya | suddhapācittiya：207:2004 疑惑度脱标题；suddhikapācittiya：207:1959 |
-| *第1品* | *musāvādavagga* |  | |
-| 1 | musāvādasikkhāpada | musāvāda | musāvāda：213:1032 等 6 段 |
-| 2 | omasavādasikkhāpada | omasavāda | omasavāda：213:1664 等 13 段 |
-| 3 | pesuññasikkhāpada | pesuñña | pesuñña：214:150 等 34 段 |
-| 4 | padasodhammasikkhāpada | padasodhamma | padasodhamma：207:1886 等 3 段 |
-| 5 | paṭhamasahaseyyasikkhāpada | sahaseyyasikkhāpada（律）、sahaseyya | sahaseyya：214:175 等 20 段 |
-| 6 | dutiyasahaseyyasikkhāpada |  |  |
-| 7 | dhammadesanāsikkhāpada |  |  |
-| 8 | bhūtārocanasikkhāpada |  |  |
-| 9 | duṭṭhullārocanasikkhāpada |  |  |
-| 10 | pathavīkhaṇanasikkhāpada | pathavikhaṇana（207:1639 正文拼写） | pathavikhaṇana：207:1639 等 1 段 |
-| *第2品* | *bhūtagāmavagga* |  | |
-| 11 | bhūtagāmasikkhāpada | bhūtagāma | bhūtagāma：214:351 等 3 段 |
-| 12 | aññavādakasikkhāpada | aññavādaka | aññavādaka：214:374 等 13 段 |
-| 13 | ujjhāpanakasikkhāpada | ujjhāpanaka | ujjhāpanaka：214:382 等 7 段 |
-| 14 | paṭhamasenāsanasikkhāpada |  |  |
-| 15 | dutiyasenāsanasikkhāpada |  |  |
-| 16 | anupakhajjasikkhāpada | anupakhajja | anupakhajja：214:433 等 17 段 |
-| 17 | nikkaḍḍhanasikkhāpada | nikkaḍḍhana、saṅghikavihāranikkaḍḍhanasikkhāpada（207:2445） | nikkaḍḍhana：207:1667 等 1 段 |
-| 18 | vehāsakuṭisikkhāpada | vehāsakuṭi | vehāsakuṭi：214:458 等 3 段 |
-| 19 | mahallakavihārasikkhāpada |  |  |
-| 20 | siñcanasikkhāpada | sappāṇakasikkhāpada、sappāṇaka、siñcana | sappāṇaka：214:494 等 16 段；siñcana：207:1680 等 1 段 |
-| *第3品* | *ovādavagga* |  | |
-| 21 | ovādasikkhāpada | ovāda | ovāda：214:3364 等 28 段 |
-| 22 | atthaṅgatasikkhāpada | atthaṅgata | atthaṅgata：214:538 等 15 段 |
-| 23 | bhikkhunupassayasikkhāpada | bhikkhunupassaya | bhikkhunupassaya：214:2711 等 18 段 |
-| 24 | āmisasikkhāpada | āmisa | āmisa：213:337 等 22 段 |
-| 25 | cīvaradānasikkhāpada |  |  |
-| 26 | cīvarasibbanasikkhāpada | cīvarasibbana | cīvarasibbana：207:2483 等 1 段 |
-| 27 | saṃvidhānasikkhāpada | saṃvidhāna、bhikkhuniyā saddhiṃ saṃvidhānasikkhāpada（207:1879）、bhikkhuniyā saddhiṃ ekaddhānamaggagamanasikkhāpada（207:2310）、addhānamaggasikkhāpada（207:2330，推断）、addhānamagga | saṃvidhāna：214:1332 等 3 段；addhānamagga：207:1708 等 1 段 |
-| 28 | nāvābhiruhanasikkhāpada |  |  |
-| 29 | paripācitasikkhāpada | paripācita | paripācita：207:1717 等 3 段 |
-| 30 | rahonisajjasikkhāpada | bhikkhuniyā rahonisajjasikkhāpada（212:300 复注） |  |
-| *第4品* | *bhojanavagga* |  | |
-| 31 | āvasathasikkhāpada | āvasatha、āvasathapiṇḍasikkhāpada（律）、āvasathapiṇḍa | āvasatha：214:3151 等 12 段；āvasathapiṇḍa：214:687 等 10 段 |
-| 32 | gaṇabhojanasikkhāpada | gaṇabhojana | gaṇabhojana：214:693 等 23 段 |
-| 33 | paramparabhojanasikkhāpada | paramparabhojana | paramparabhojana：214:746 等 11 段 |
-| 34 | kāṇamātāsikkhāpada | kāṇamātā、kāṇamātusikkhāpada（律）、kāṇamātu | kāṇamātā：214:759 等 2 段；kāṇamātu：214:759 等 2 段 |
-| 35 | paṭhamapavāraṇāsikkhāpada | pavāraṇāsikkhāpada（207:1768）、pavāraṇā | pavāraṇā：213:2428 等 27 段 |
-| 36 | dutiyapavāraṇāsikkhāpada |  |  |
-| 37 | vikālabhojanasikkhāpada | vikālabhojana | vikālabhojana：214:3398 等 4 段 |
-| 38 | sannidhikārakasikkhāpada | sannidhikāraka、sannidhi（207:1761，并列复合词 sannidhibhesajjasikkhāpada） | sannidhikāraka：214:826 等 12 段；sannidhi：214:880 等 3 段 |
-| 39 | paṇītabhojanasikkhāpada | paṇītabhojana | paṇītabhojana：213:807 等 11 段 |
-| 40 | dantaponasikkhāpada | dantapona | dantapona：214:880 等 3 段 |
-| *第5品* | *acelakavagga* |  | |
-| 41 | acelakasikkhāpada | acelaka | acelaka：214:885 等 4 段 |
-| 42 | uyyojanasikkhāpada | uyyojana | uyyojana：207:2357 等 4 段 |
-| 43 | sabhojanasikkhāpada | sabhojana | sabhojana：214:916 等 8 段 |
-| 44 | rahopaṭicchannasikkhāpada | rahopaṭicchanna、rahopaṭicchanna-rahonisajjasikkhāpada（疑惑度脱合释标题） | rahopaṭicchanna：207:1789 等 1 段 |
-| 45 | mātugāmena saddhiṃ rahonisajjasikkhāpada（212:1614 复注） | rahonisajjasikkhāpada、rahopaṭicchanna-rahonisajjasikkhāpada（疑惑度脱合释标题） |  |
-| 46 | cārittasikkhāpada | cāritta | cāritta：214:952 等 12 段 |
-| 47 | mahānāmasikkhāpada | mahānāma | mahānāma：214:987 等 6 段 |
-| 48 | uyyuttasenāsikkhāpada | uyyuttasenā | uyyuttasenā：207:1800 等 1 段 |
-| 49 | senāvāsasikkhāpada |  |  |
-| 50 | uyyodhikasikkhāpada | uyyodhika | uyyodhika：214:1027 等 6 段 |
-| *第6品* | *surāpānavagga* |  | |
-| 51 | surāpānasikkhāpada |  |  |
-| 52 | aṅgulipatodakasikkhāpada | aṅgulipatodaka | aṅgulipatodaka：207:251 等 8 段 |
-| 53 | hasadhammasikkhāpada | hasadhamma | hasadhamma：214:1063 等 5 段 |
-| 54 | anādariyasikkhāpada | anādariya | anādariya：214:1072 等 90 段 |
-| 55 | bhiṃsāpanasikkhāpada |  |  |
-| 56 | jotisikkhāpada | joti、jotikasikkhāpada（律）、jotika | joti：214:1095 等 11 段；jotika：214:1109 等 1 段 |
-| 57 | nahānasikkhāpada | nahāna | nahāna：214:1134 等 3 段 |
-| 58 | dubbaṇṇakaraṇasikkhāpada | dubbaṇṇakaraṇa | dubbaṇṇakaraṇa：214:1147 等 7 段 |
-| 59 | vikappanasikkhāpada | vikappana | vikappana：214:1167 等 3 段 |
-| 60 | apanidhānasikkhāpada | apanidhāna、cīvaraapanidhānasikkhāpada（律） | apanidhāna：207:1850 等 1 段 |
-| *第7品* | *sappāṇakavagga* |  | |
-| 61 | sañciccasikkhāpada | sañcicca | sañcicca：214:2992 等 33 段 |
-| 62 | sappāṇakasikkhāpada | sappāṇaka | sappāṇaka：214:494 等 16 段 |
-| 63 | ukkoṭanasikkhāpada | ukkoṭana | ukkoṭana：207:1864 等 1 段 |
-| 64 | duṭṭhullasikkhāpada | duṭṭhulla、duṭṭhullāpattippaṭicchādanasikkhāpada（207:2175） | duṭṭhulla：213:1844 等 31 段 |
-| 65 | ūnavīsativassasikkhāpada | ūnavīsativassa | ūnavīsativassa：214:1247 等 18 段 |
-| 66 | theyyasatthasikkhāpada | theyyasattha | theyyasattha：214:1259 等 7 段 |
-| 67 | mātugāmasikkhāpada | saṃvidhānasikkhāpada、saṃvidhāna、mātugāma | saṃvidhāna：214:1332 等 3 段；mātugāma：214:942 等 96 段 |
-| 68 | ariṭṭhasikkhāpada | ariṭṭha、paṭhamaariṭṭhasikkhāpada（207:2448，推断） | ariṭṭha：214:1294 等 10 段 |
-| 69 | ukkhittasambhogasikkhāpada |  |  |
-| 70 | kaṇṭakasikkhāpada | kaṇṭaka | kaṇṭaka：214:1309 等 5 段 |
-| *第8品* | *sahadhammikavagga* |  | |
-| 71 | sahadhammikasikkhāpada | sahadhammika | sahadhammika：214:1336 等 30 段 |
-| 72 | vilekhanasikkhāpada |  |  |
-| 73 | mohanasikkhāpada | mohana | mohana：207:1905 等 1 段 |
-| 74 | pahārasikkhāpada | pahāra | pahāra：214:1380 等 21 段 |
-| 75 | talasattikasikkhāpada | talasattika | talasattika：214:1398 等 8 段 |
-| 76 | amūlakasikkhāpada | amūlaka | amūlaka：213:1627 等 20 段 |
-| 77 | sañciccasikkhāpada | sañcicca | sañcicca：214:2992 等 33 段 |
-| 78 | upassutisikkhāpada | upassuti | upassuti：214:1426 等 11 段 |
-| 79 | kammappaṭibāhanasikkhāpada | kammapaṭibāhanasikkhāpada（律） |  |
-| 80 | chandaṃadatvāgamanasikkhāpada |  |  |
-| 81 | dubbalasikkhāpada | dubbala | dubbala：213:426 等 3 段 |
-| 82 | pariṇāmanasikkhāpada | pariṇāmana | pariṇāmana：214:1483 等 2 段 |
-| *第9品* | *ratanavagga* |  | |
-| 83 | antepurasikkhāpada | antepura | antepura：214:1491 等 6 段 |
-| 84 | ratanasikkhāpada | ratana | ratana：214:1491 等 15 段 |
-| 85 | vikālagāmappavesanasikkhāpada | vikālagāmappavisanasikkhāpada（律） |  |
-| 86 | sūcigharasikkhāpada | sūcighara | sūcighara：214:1177 等 11 段 |
-| 87 | mañcapīṭhasikkhāpada | mañcapīṭha | mañcapīṭha：213:1031 等 4 段 |
-| 88 | tūlonaddhasikkhāpada | tūlonaddha | tūlonaddha：207:1985 等 6 段 |
-| 89 | nisīdanasikkhāpada | nisīdana | nisīdana：213:2292 等 29 段 |
-| 90 | kaṇḍuppaṭicchādisikkhāpada | kaṇḍuppaṭicchādi | kaṇḍuppaṭicchādi：214:1608 等 8 段 |
-| 91 | vassikasāṭikasikkhāpada | vassikasāṭika、vassikasāṭikāsikkhāpada（律）、vassikasāṭikā | vassikasāṭika：214:1615 等 13 段；vassikasāṭikā：214:1615 等 13 段 |
-| 92 | nandasikkhāpada | nanda | nanda：207:2000 等 5 段 |
-| **应悔过** | **pāṭidesanīya** |  |  |
-| 1 | paṭhamapāṭidesanīyasikkhāpada |  |  |
-| 2 | dutiyapāṭidesanīyasikkhāpada |  |  |
-| 3 | tatiyapāṭidesanīyasikkhāpada |  |  |
-| 4 | catutthapāṭidesanīyasikkhāpada |  |  |
-| **众学法** | **sekhiya** |  |  |
-| *众学法总称* | *chabbīsatisāruppasikkhāpada* | | 众学法 1–26 总称，207:2059 |
-| 1 | parimaṇḍalasikkhāpada | parimaṇḍala | parimaṇḍala：214:3667 等 20 段 |
-| 2 | dutiyaparimaṇḍalasikkhāpada |  |  |
-| 3 | suppaṭicchannasikkhāpada | suppaṭicchanna | suppaṭicchanna：214:1740 等 10 段 |
-| 4 | suppaṭicchannasikkhāpada | suppaṭicchanna | suppaṭicchanna：214:1740 等 10 段 |
-| 5 | susaṃvutasikkhāpada | susaṃvuta | susaṃvuta：214:1756 等 9 段 |
-| 6 | susaṃvutasikkhāpada | susaṃvuta | susaṃvuta：214:1756 等 9 段 |
-| 7 | okkhittacakkhusikkhāpada | okkhittacakkhu | okkhittacakkhu：214:1762 等 7 段 |
-| 8 | okkhittacakkhusikkhāpada | okkhittacakkhu | okkhittacakkhu：214:1762 等 7 段 |
-| 9 | ukkhittakasikkhāpada | ukkhittaka | ukkhittaka：214:1773 等 18 段 |
-| 10 | ukkhittakasikkhāpada | ukkhittaka | ukkhittaka：214:1773 等 18 段 |
-| 11 | ujjagghikasikkhāpada | ujjagghika | ujjagghika：214:1791 等 8 段 |
-| 12 | ujjagghikasikkhāpada | ujjagghika | ujjagghika：214:1791 等 8 段 |
-| 13 | uccasaddasikkhāpada |  |  |
-| 14 | uccasaddasikkhāpada |  |  |
-| 15 | kāyappacālakādisikkhāpada |  |  |
-| 16 | kāyappacālakādisikkhāpada |  |  |
-| 17 | kāyappacālakādisikkhāpada |  |  |
-| 18 | kāyappacālakādisikkhāpada |  |  |
-| 19 | kāyappacālakādisikkhāpada |  |  |
-| 20 | kāyappacālakādisikkhāpada |  |  |
-| 21 | khambhakatasikkhāpada | khambhakata | khambhakata：214:1839 等 11 段 |
-| 22 | khambhakatasikkhāpada | khambhakata | khambhakata：214:1839 等 11 段 |
-| 23 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 |
-| 24 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 |
-| 25 | ukkuṭikasikkhāpada | ukkuṭika | ukkuṭika：214:3331 等 32 段 |
-| 26 | pallatthikasikkhāpada | pallatthika | pallatthika：207:394 等 10 段 |
-| *众学法总称* | *tiṃsabhojanappaṭisaṃyuttasikkhāpada* | | 众学法 27–56 总称，207:2106 |
-| 27 | sakkaccapaṭiggahaṇasikkhāpada |  |  |
-| 28 | pattasaññīpaṭiggahaṇasikkhāpada |  |  |
-| 29 | samasūpakapaṭiggahaṇasikkhāpada |  |  |
-| 30 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 |
-| 31 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 |
-| 32 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 |
-| 33 | sapadānasikkhāpada | sapadāna | sapadāna：214:1902 等 7 段 |
-| 34 | sapadānasikkhāpada | sapadāna | sapadāna：214:1902 等 7 段 |
-| 35 | thūpakatasikkhāpada | thūpakata | thūpakata：214:1913 等 6 段 |
-| 36 | odanappaṭicchādanasikkhāpada |  |  |
-| 37 | sūpodanaviññattisikkhāpada | sūpodanaviññatti | sūpodanaviññatti：207:1764 等 1 段 |
-| 38 | ujjhānasaññīsikkhāpada |  |  |
-| 39 | kabaḷasikkhāpada | kabaḷa | kabaḷa：214:1934 等 11 段 |
-| 40 | ālopasikkhāpada | ālopa | ālopa：207:1115 等 6 段 |
-| 41 | anāhaṭasikkhāpada | anāhaṭa | anāhaṭa：214:1948 等 5 段 |
-| 42 | anāhaṭasikkhāpada | anāhaṭa | anāhaṭa：214:1948 等 5 段 |
-| 43 | sakabaḷasikkhāpada | sakabaḷa | sakabaḷa：214:1958 等 5 段 |
-| 44 | piṇḍukkhepakasikkhāpada | piṇḍukkhepaka | piṇḍukkhepaka：214:1962 等 6 段 |
-| 45 | kabaḷāvacchedakasikkhāpada | kabaḷāvacchedaka | kabaḷāvacchedaka：214:1968 等 5 段 |
-| 46 | avagaṇḍakārakasikkhāpada | avagaṇḍakāraka | avagaṇḍakāraka：214:1973 等 5 段 |
-| 47 | hatthaniddhunakasikkhāpada | hatthaniddhunaka | hatthaniddhunaka：214:1976 等 6 段 |
-| 48 | sitthāvakārakasikkhāpada | sitthāvakāraka | sitthāvakāraka：214:1981 等 6 段 |
-| 49 | jivhānicchārakasikkhāpada | jivhānicchāraka | jivhānicchāraka：207:2097 等 5 段 |
-| 50 | capucapukārakasikkhāpada | capucapukāraka | capucapukāraka：214:1993 等 6 段 |
-| 51 | capucapukārakasikkhāpada | capucapukāraka | capucapukāraka：214:1993 等 6 段 |
-| 52 | hatthanillehakādisikkhāpada |  |  |
-| 53 | hatthanillehakādisikkhāpada |  |  |
-| 54 | hatthanillehakādisikkhāpada |  |  |
-| 55 | sāmisasikkhāpada | sāmisa | sāmisa：214:2019 等 7 段 |
-| 56 | sasitthakasikkhāpada | sasitthaka | sasitthaka：214:2023 等 5 段 |
-| *众学法总称* | *ekūnavīsatidhammadesanāpaṭisaṃyuttasikkhāpada* | | 众学法 57–75 总称，207:2142 |
-| 57 | chattapāṇisikkhāpada | chattapāṇi | chattapāṇi：214:1487 等 2 段 |
-| 58 | daṇḍapāṇisikkhāpada |  |  |
-| 59 | daṇḍapāṇisikkhāpada |  |  |
-| 60 | āvudhapāṇisikkhāpada |  |  |
-| 61 | pādukasikkhāpada |  |  |
-| 62 | pādukasikkhāpada |  |  |
-| 63 | yānasikkhāpada | yāna | yāna：214:352 等 52 段 |
-| 64 | sayanasikkhāpada | sayana | sayana：214:1239 等 4 段 |
-| 65 | pallatthikasikkhāpada | pallatthika | pallatthika：207:394 等 10 段 |
-| 66 | veṭhitasikkhāpada | veṭhita | veṭhita：214:2086 等 2 段 |
-| 67 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 |
-| 68 | chamāsikkhāpada | chamā | chamā：214:2098 等 7 段 |
-| 69 | nīcāsanasikkhāpada |  |  |
-| 70 | ṭhitasikkhāpada | ṭhita | ṭhita：214:1457 等 155 段 |
-| 71 | pacchatogamanasikkhāpada |  |  |
-| 72 | uppathenagamanasikkhāpada |  |  |
-| 73 | ṭhitouccārasikkhāpada |  |  |
-| 74 | hariteuccārasikkhāpada |  |  |
-| 75 | udakeuccārasikkhāpada |  |  |
-| **灭诤** | **adhikaraṇasamatha** | | |
-| 1 | sammukhāvinaya |  | sammukhāvinaya：214:2156 等 12 段 |
-| 2 | sativinaya |  | sativinaya：214:2156 等 5 段 |
-| 3 | amūḷhavinaya |  | amūḷhavinaya：214:2156 等 5 段 |
-| 4 | paṭiññātakaraṇa | paṭiññāya kāretabba（巴蒂摩卡本文 207:506） | paṭiññātakaraṇa：207:2152 等 2 段 |
-| 5 | yebhuyyasikā |  | yebhuyyasikā：214:2156 等 6 段 |
-| 6 | tassapāpiyasikā |  | tassapāpiyasikā：214:2156 等 6 段 |
-| 7 | tiṇavatthāraka |  | tiṇavatthāraka：214:2156 等 8 段 |
+| 编号 | 戒条名称 | 别名 | 单独出现（裸词首见 / 段数） | 未采纳原典的原因 |
+|---|---|---|---|---|
+| **巴拉基咖** | **pārājika**[原典] |  |  |  |
+| 1 | paṭhamapārājika[原典] | methunadhammasikkhāpada（207:2165 比库尼部分标题）、methunadhamma | methunadhamma：213:1239 等 16 段 |  |
+| 2 | dutiyapārājika[原典] | adinnādāna（207:1366） | adinnādāna：213:373 等 12 段 |  |
+| 3 | tatiyapārājika[原典] | manussaviggaha（207:1856） | manussaviggaha：213:404 等 10 段 |  |
+| 4 | catutthapārājika[原典] |  |  |  |
+| **僧始终** | **saṅghādisesa**[原典] |  |  |  |
+| 1 | sukkavissaṭṭhisikkhāpada[原典] | sukkavissaṭṭhi | sukkavissaṭṭhi：213:805 等 10 段 |  |
+| 2 | kāyasaṃsaggasikkhāpada[原典] | kāyasaṃsagga | kāyasaṃsagga：213:1844 等 26 段 |  |
+| 3 | duṭṭhullavācāsikkhāpada[原典] | duṭṭhullavācā、duṭṭhullobhāsana（207:1386） | duṭṭhullavācā：207:1382 等 3 段；duṭṭhullobhāsana：207:1387 等 2 段 |  |
+| 4 | attakāmapāricariyasikkhāpada[原典] | attakāmasikkhāpada、attakāma、attakāmapāricariya | attakāma：213:1234 等 3 段；attakāmapāricariya：213:1246 等 13 段 |  |
+| 5 | sañcarittasikkhāpada[原典] | sañcaritta | sañcaritta：213:1457 等 17 段 |  |
+| 6 | kuṭikārasikkhāpada[原典] |  |  |  |
+| 7 | vihārakārasikkhāpada[原典] |  |  |  |
+| 8 | duṭṭhadosasikkhāpada[原典] |  |  |  |
+| 9 | dutiyaduṭṭhadosasikkhāpada[原典] | aññabhāgiyasikkhāpada、aññabhāgiya | aññabhāgiya：207:1408 等 7 段 |  |
+| 10 | saṅghabhedasikkhāpada[原典] | saṅghabheda | saṅghabheda：213:1762 等 18 段 |  |
+| 11 | bhedānuvattakasikkhāpada[原典] |  |  |  |
+| 12 | dubbacasikkhāpada[原典] | dubbaca | dubbaca：213:1847 等 2 段 |  |
+| 13 | kuladūsakasikkhāpada[原典] | kuladūsaka | kuladūsaka：213:1825 等 10 段 |  |
+| **不定** | **aniyata**[原典] | aniyatadvaya | aniyatadvaya：207:1788 总称 |  |
+| 1 | paṭhamaaniyatasikkhāpada[原典] | paṭhamāniyatasikkhāpada |  |  |
+| 2 | dutiyaaniyatasikkhāpada[原典] | dutiyāniyatasikkhāpada、dutiyāniyata、dutiyaaniyata | dutiyāniyata：207:1621 等 1 段；dutiyaaniyata：207:1720 等 1 段 |  |
+| **尼萨耆巴吉帝亚** | **nissaggiyapācittiya**[原典] |  |  |  |
+| *第1品* | *cīvaravagga*[原典] |  |  |  |
+| 1 | paṭhamakathinasikkhāpada[原典] | kathinasikkhāpada、kathina、paṭhamakathina | kathina：214:750 等 37 段；paṭhamakathina：207:1460 等 2 段 |  |
+| 2 | udositasikkhāpada[原典] | udosita | udosita：213:1957 等 6 段 |  |
+| 3 | tatiyakathinasikkhāpada[原典] | akālacīvarasikkhāpada、akālacīvara | akālacīvara：214:2513 等 23 段 |  |
+| 4 | purāṇacīvarasikkhāpada[原典] | purāṇacīvara、dhovāpanasikkhāpada（207:1510，推断）、purāṇacīvaradhovāpana（207:1532） | purāṇacīvara：213:1997 等 10 段；purāṇacīvaradhovāpana：207:1532 等 1 段 |  |
+| 5 | cīvarapaṭiggahaṇasikkhāpada[原典] | cīvarappaṭiggahaṇasikkhāpada |  |  |
+| 6 | aññātakaviññattisikkhāpada[原典] | aññātakaviññatti | aññātakaviññatti：207:1485 等 3 段 |  |
+| 7 | tatuttarisikkhāpada[原典] | tatuttari | tatuttari：214:995 等 11 段 |  |
+| 8 | upakkhaṭasikkhāpada[原典] | upakkhaṭa | upakkhaṭa：213:2074 等 9 段 |  |
+| 9 | dutiyaupakkhaṭasikkhāpada[原典] |  |  |  |
+| 10 | rājasikkhāpada[原典] | rāja | rāja：214:1494 等 46 段 |  |
+| *第2品* | *kosiyavagga*[原典] | eḷakalomavagga |  |  |
+| 11 | kosiyasikkhāpada[原典] | kosiya | kosiya：213:2292 等 5 段 |  |
+| 12 | suddhakāḷakasikkhāpada[原典] | suddhakāḷaka | suddhakāḷaka：213:2171 等 9 段 |  |
+| 13 | dvebhāgasikkhāpada[原典] |  |  |  |
+| 14 | chabbassasikkhāpada[原典] | chabbassa | chabbassa：213:2292 等 7 段 |  |
+| 15 | nisīdanasanthatasikkhāpada[原典] | nisīdanasikkhāpada、nisīdana、nisīdanasanthata | nisīdana：213:2292 等 29 段；nisīdanasanthata：207:105 等 3 段 |  |
+| 16 | eḷakalomasikkhāpada[原典] | eḷakaloma | eḷakaloma：213:2171 等 27 段 |  |
+| 17 | eḷakalomadhovāpanasikkhāpada[原典] |  |  |  |
+| 18 | rūpiyasikkhāpada[原典] | jātarūpasikkhāpada、jātarūpa、rūpiya、rūpiyappaṭiggahaṇa（207:1330，见于 -āpatti 复合词） | jātarūpa：213:2251 等 2 段；rūpiya：213:2269 等 6 段；rūpiyappaṭiggahaṇa：仅见于复合词 |  |
+| 19 | rūpiyasaṃvohārasikkhāpada[原典] | rūpiyasaṃvohāra | rūpiyasaṃvohāra：213:2266 等 7 段 |  |
+| 20 | kayavikkayasikkhāpada[原典] | kayavikkaya | kayavikkaya：213:2285 等 8 段 |  |
+| *第3品* | *pattavagga*[原典] |  |  |  |
+| 21 | pattasikkhāpada[原典] | patta | patta：214:1180 等 114 段 |  |
+| 22 | ūnapañcabandhanasikkhāpada[原典] | ūnapañcabandhana | ūnapañcabandhana：213:2324 等 7 段 |  |
+| 23 | bhesajjasikkhāpada[原典] | bhesajja | bhesajja：213:826 等 35 段 |  |
+| 24 | vassikasāṭikasikkhāpada[原典] | vassikasāṭika | vassikasāṭika：214:1615 等 13 段 |  |
+| 25 | cīvaraacchindanasikkhāpada[原典] |  |  |  |
+| 26 | suttaviññattisikkhāpada[原典] |  |  |  |
+| 27 | mahāpesakārasikkhāpada[原典] |  |  |  |
+| 28 | accekacīvarasikkhāpada[原典] | accekacīvara | accekacīvara：213:2425 等 11 段 |  |
+| 29 | sāsaṅkasikkhāpada[原典] | sāsaṅka、cīvaravippavāsasikkhāpada（207:2019，待核） | sāsaṅka：213:2474 等 7 段 |  |
+| 30 | pariṇatasikkhāpada[原典] | pariṇata、pariṇāmanasikkhāpada（207:1959）、pariṇāmana | pariṇata：207:136 等 17 段；pariṇāmana：214:1483 等 2 段 |  |
+| **巴吉帝亚** | **pācittiya**[原典] | suddhapācittiya[原典]、suddhikapācittiya | suddhapācittiya：207:140 巴蒂摩卡标题、207:2004 疑惑度脱标题；suddhikapācittiya：207:1959 |  |
+| *第1品* | *musāvādavagga*[原典] |  |  |  |
+| 1 | musāvādasikkhāpada[原典] | musāvāda | musāvāda：213:1032 等 6 段 |  |
+| 2 | omasavādasikkhāpada[原典] | omasavāda | omasavāda：213:1664 等 13 段 |  |
+| 3 | pesuññasikkhāpada[原典] | pesuñña | pesuñña：214:150 等 34 段 |  |
+| 4 | padasodhammasikkhāpada[原典] | padasodhamma | padasodhamma：207:1886 等 3 段 |  |
+| 5 | paṭhamasahaseyyasikkhāpada | sahaseyyasikkhāpada[原典]、sahaseyya | sahaseyya：214:175 等 20 段 | 原典作 sahaseyyasikkhāpada；与第 6 条 Dutiyasahaseyya 成对，单称 sahaseyya 指哪条不明，用《疑惑度脱》的 paṭhamasahaseyya |
+| 6 | dutiyasahaseyyasikkhāpada[原典] |  |  |  |
+| 7 | dhammadesanāsikkhāpada[原典] |  |  |  |
+| 8 | bhūtārocanasikkhāpada[原典] |  |  |  |
+| 9 | duṭṭhullārocanasikkhāpada[原典] |  |  |  |
+| 10 | pathavīkhaṇanasikkhāpada[原典] | pathavikhaṇana（207:1639 正文拼写） | pathavikhaṇana：207:1639 等 1 段 |  |
+| *第2品* | *bhūtagāmavagga*[原典] |  |  |  |
+| 11 | bhūtagāmasikkhāpada[原典] | bhūtagāma | bhūtagāma：214:351 等 3 段 |  |
+| 12 | aññavādakasikkhāpada[原典] | aññavādaka | aññavādaka：214:374 等 13 段 |  |
+| 13 | ujjhāpanakasikkhāpada[原典] | ujjhāpanaka | ujjhāpanaka：214:382 等 7 段 |  |
+| 14 | paṭhamasenāsanasikkhāpada[原典] |  |  |  |
+| 15 | dutiyasenāsanasikkhāpada[原典] |  |  |  |
+| 16 | anupakhajjasikkhāpada[原典] | anupakhajja | anupakhajja：214:433 等 17 段 |  |
+| 17 | nikkaḍḍhanasikkhāpada[原典] | nikkaḍḍhana、saṅghikavihāranikkaḍḍhanasikkhāpada（207:2445） | nikkaḍḍhana：207:1667 等 1 段 |  |
+| 18 | vehāsakuṭisikkhāpada[原典] | vehāsakuṭi | vehāsakuṭi：214:458 等 3 段 |  |
+| 19 | mahallakavihārasikkhāpada[原典] |  |  |  |
+| 20 | siñcanasikkhāpada | sappāṇakasikkhāpada[原典]、sappāṇaka、siñcana | sappāṇaka：214:494 等 16 段；siñcana：207:1680 等 1 段 | 原典作 sappāṇakasikkhāpada，与第 62 条同名；用《疑惑度脱》正文的 siñcana（207:1860） |
+| *第3品* | *ovādavagga*[原典] |  |  |  |
+| 21 | ovādasikkhāpada[原典] | ovāda | ovāda：214:3364 等 28 段 |  |
+| 22 | atthaṅgatasikkhāpada[原典] | atthaṅgata | atthaṅgata：214:538 等 15 段 |  |
+| 23 | bhikkhunupassayasikkhāpada[原典] | bhikkhunupassaya | bhikkhunupassaya：214:2711 等 18 段 |  |
+| 24 | āmisasikkhāpada[原典] | āmisa | āmisa：213:337 等 22 段 |  |
+| 25 | cīvaradānasikkhāpada[原典] |  |  |  |
+| 26 | cīvarasibbanasikkhāpada[原典] | cīvarasibbana | cīvarasibbana：207:2483 等 1 段 |  |
+| 27 | saṃvidhānasikkhāpada[原典] | saṃvidhāna、bhikkhuniyā saddhiṃ saṃvidhānasikkhāpada（207:1879）、bhikkhuniyā saddhiṃ ekaddhānamaggagamanasikkhāpada（207:2310）、addhānamaggasikkhāpada（207:2330，推断）、addhānamagga | saṃvidhāna：214:1332 等 3 段；addhānamagga：207:1708 等 1 段 |  |
+| 28 | nāvābhiruhanasikkhāpada[原典] |  |  |  |
+| 29 | paripācitasikkhāpada[原典] | paripācita | paripācita：207:1717 等 3 段 |  |
+| 30 | rahonisajjasikkhāpada[原典] | bhikkhuniyā rahonisajjasikkhāpada（212:300 复注） |  |  |
+| *第4品* | *bhojanavagga*[原典] |  |  |  |
+| 31 | āvasathapiṇḍasikkhāpada[原典] | āvasathasikkhāpada、āvasatha、āvasathapiṇḍa | āvasatha：214:3151 等 12 段；āvasathapiṇḍa：214:687 等 10 段 |  |
+| 32 | gaṇabhojanasikkhāpada[原典] | gaṇabhojana | gaṇabhojana：214:693 等 23 段 |  |
+| 33 | paramparabhojanasikkhāpada[原典] | paramparabhojana | paramparabhojana：214:746 等 11 段 |  |
+| 34 | kāṇamātusikkhāpada[原典] | kāṇamātāsikkhāpada、kāṇamātā、kāṇamātu | kāṇamātā：214:759 等 2 段；kāṇamātu：214:759 等 2 段 |  |
+| 35 | paṭhamapavāraṇāsikkhāpada[原典] | pavāraṇāsikkhāpada（207:1768）、pavāraṇā | pavāraṇā：213:2428 等 27 段 |  |
+| 36 | dutiyapavāraṇāsikkhāpada[原典] |  |  |  |
+| 37 | vikālabhojanasikkhāpada[原典] | vikālabhojana | vikālabhojana：214:3398 等 4 段 |  |
+| 38 | sannidhikārakasikkhāpada[原典] | sannidhikāraka、sannidhi（207:1761，并列复合词 sannidhibhesajjasikkhāpada） | sannidhikāraka：214:826 等 12 段；sannidhi：214:880 等 3 段 |  |
+| 39 | paṇītabhojanasikkhāpada[原典] | paṇītabhojana | paṇītabhojana：213:807 等 11 段 |  |
+| 40 | dantaponasikkhāpada[原典] | dantapona | dantapona：214:880 等 3 段 |  |
+| *第5品* | *acelakavagga*[原典] |  |  |  |
+| 41 | acelakasikkhāpada[原典] | acelaka | acelaka：214:885 等 4 段 |  |
+| 42 | uyyojanasikkhāpada[原典] | uyyojana | uyyojana：207:2357 等 4 段 |  |
+| 43 | sabhojanasikkhāpada[原典] | sabhojana | sabhojana：214:916 等 8 段 |  |
+| 44 | rahopaṭicchannasikkhāpada[原典] | rahopaṭicchanna、rahopaṭicchanna-rahonisajjasikkhāpada（疑惑度脱合释标题） | rahopaṭicchanna：207:1789 等 1 段 |  |
+| 45 | mātugāmena saddhiṃ rahonisajjasikkhāpada（212:1614 复注） | rahonisajjasikkhāpada[原典]、rahopaṭicchanna-rahonisajjasikkhāpada（疑惑度脱合释标题） |  | 原典作 rahonisajjasikkhāpada，与第 30 条同名；用复注的区分名（212:1614） |
+| 46 | cārittasikkhāpada[原典] | cāritta | cāritta：214:952 等 12 段 |  |
+| 47 | mahānāmasikkhāpada[原典] | mahānāma | mahānāma：214:987 等 6 段 |  |
+| 48 | uyyuttasenāsikkhāpada[原典] | uyyuttasenā | uyyuttasenā：207:1800 等 1 段 |  |
+| 49 | senāvāsasikkhāpada[原典] |  |  |  |
+| 50 | uyyodhikasikkhāpada[原典] | uyyodhika | uyyodhika：214:1027 等 6 段 |  |
+| *第6品* | *surāpānavagga*[原典] |  |  |  |
+| 51 | surāpānasikkhāpada[原典] |  |  |  |
+| 52 | aṅgulipatodakasikkhāpada[原典] | aṅgulipatodaka | aṅgulipatodaka：207:251 等 8 段 |  |
+| 53 | hasadhammasikkhāpada[原典] | hasadhamma | hasadhamma：214:1063 等 5 段 |  |
+| 54 | anādariyasikkhāpada[原典] | anādariya | anādariya：214:1072 等 90 段 |  |
+| 55 | bhiṃsāpanasikkhāpada[原典] |  |  |  |
+| 56 | jotisikkhāpada | joti、jotikasikkhāpada[原典] | joti：214:1095 等 11 段（裸词 jotika 另指用火处所，不列为别名） | 原典标题作 jotikasikkhāpada，但 jotika 在本章不犯条款中另指用火处所（214:1097、1109）；用戒文词形 joti（207:259） |
+| 57 | nahānasikkhāpada[原典] | nahāna | nahāna：214:1134 等 3 段 |  |
+| 58 | dubbaṇṇakaraṇasikkhāpada[原典] | dubbaṇṇakaraṇa | dubbaṇṇakaraṇa：214:1147 等 7 段 |  |
+| 59 | vikappanasikkhāpada[原典] | vikappana | vikappana：214:1167 等 3 段 |  |
+| 60 | cīvaraapanidhānasikkhāpada[原典] | apanidhānasikkhāpada、apanidhāna | apanidhāna：207:1850 等 1 段 |  |
+| *第7品* | *sappāṇakavagga*[原典] |  |  |  |
+| 61 | sañciccasikkhāpada[原典] | sañcicca | sañcicca：214:2992 等 33 段 |  |
+| 62 | sappāṇakasikkhāpada[原典] | sappāṇaka | sappāṇaka：214:494 等 16 段 |  |
+| 63 | ukkoṭanasikkhāpada[原典] | ukkoṭana | ukkoṭana：207:1864 等 1 段 |  |
+| 64 | duṭṭhullasikkhāpada[原典] | duṭṭhulla、duṭṭhullāpattippaṭicchādanasikkhāpada（207:2175） | duṭṭhulla：213:1844 等 31 段 |  |
+| 65 | ūnavīsativassasikkhāpada[原典] | ūnavīsativassa | ūnavīsativassa：214:1247 等 18 段 |  |
+| 66 | theyyasatthasikkhāpada[原典] | theyyasattha | theyyasattha：214:1259 等 7 段 |  |
+| 67 | mātugāmasikkhāpada | saṃvidhānasikkhāpada[原典]、saṃvidhāna、mātugāma | saṃvidhāna：214:1332 等 3 段；mātugāma：214:942 等 96 段 | 原典作 saṃvidhānasikkhāpada，与第 27 条同名；用《疑惑度脱》正文的 mātugāma（207:1709） |
+| 68 | ariṭṭhasikkhāpada[原典] | ariṭṭha、paṭhamaariṭṭhasikkhāpada（207:2448，推断） | ariṭṭha：214:1294 等 10 段 |  |
+| 69 | ukkhittasambhogasikkhāpada[原典] |  |  |  |
+| 70 | kaṇṭakasikkhāpada[原典] | kaṇṭaka | kaṇṭaka：214:1309 等 5 段 |  |
+| *第8品* | *sahadhammikavagga*[原典] |  |  |  |
+| 71 | sahadhammikasikkhāpada[原典] | sahadhammika | sahadhammika：214:1336 等 30 段 |  |
+| 72 | vilekhanasikkhāpada[原典] |  |  |  |
+| 73 | mohanasikkhāpada[原典] | mohana | mohana：207:1905 等 1 段 |  |
+| 74 | pahārasikkhāpada[原典] | pahāra | pahāra：214:1380 等 21 段 |  |
+| 75 | talasattikasikkhāpada[原典] | talasattika | talasattika：214:1398 等 8 段 |  |
+| 76 | amūlakasikkhāpada[原典] | amūlaka | amūlaka：213:1627 等 20 段 |  |
+| 77 | sañciccasikkhāpada[原典] | sañcicca | sañcicca：214:2992 等 33 段 |  |
+| 78 | upassutisikkhāpada[原典] | upassuti | upassuti：214:1426 等 11 段 |  |
+| 79 | kammapaṭibāhanasikkhāpada[原典] | kammappaṭibāhanasikkhāpada |  |  |
+| 80 | chandaṃadatvāgamanasikkhāpada[原典] |  |  |  |
+| 81 | dubbalasikkhāpada[原典] | dubbala | dubbala：213:426 等 3 段 |  |
+| 82 | pariṇāmanasikkhāpada[原典] | pariṇāmana | pariṇāmana：214:1483 等 2 段 |  |
+| *第9品* | *ratanavagga*[原典] |  |  |  |
+| 83 | antepurasikkhāpada[原典] | antepura | antepura：214:1491 等 6 段 |  |
+| 84 | ratanasikkhāpada[原典] | ratana | ratana：214:1491 等 15 段 |  |
+| 85 | vikālagāmappavisanasikkhāpada[原典] | vikālagāmappavesanasikkhāpada |  |  |
+| 86 | sūcigharasikkhāpada[原典] | sūcighara | sūcighara：214:1177 等 11 段 |  |
+| 87 | mañcapīṭhasikkhāpada[原典] | mañcapīṭha | mañcapīṭha：213:1031 等 4 段 |  |
+| 88 | tūlonaddhasikkhāpada[原典] | tūlonaddha | tūlonaddha：207:1985 等 6 段 |  |
+| 89 | nisīdanasikkhāpada[原典] | nisīdana | nisīdana：213:2292 等 29 段 |  |
+| 90 | kaṇḍuppaṭicchādisikkhāpada[原典] | kaṇḍuppaṭicchādi | kaṇḍuppaṭicchādi：214:1608 等 8 段 |  |
+| 91 | vassikasāṭikāsikkhāpada[原典] | vassikasāṭikasikkhāpada、vassikasāṭika、vassikasāṭikā | vassikasāṭika：214:1615 等 13 段；vassikasāṭikā：214:1615 等 13 段 |  |
+| 92 | nandasikkhāpada[原典] | nanda | nanda：207:2000 等 5 段 |  |
+| **应悔过** | **pāṭidesanīya**[原典] |  |  |  |
+| 1 | paṭhamapāṭidesanīyasikkhāpada[原典] |  |  |  |
+| 2 | dutiyapāṭidesanīyasikkhāpada[原典] |  |  |  |
+| 3 | tatiyapāṭidesanīyasikkhāpada[原典] |  |  |  |
+| 4 | catutthapāṭidesanīyasikkhāpada[原典] |  |  |  |
+| **众学法** | **sekhiya**[原典] |  |  |  |
+| *众学法总称* | *chabbīsatisāruppasikkhāpada* |  | 众学法 1–26 总称，207:2059 |  |
+| 1 | parimaṇḍalasikkhāpada | parimaṇḍala | parimaṇḍala：214:3667 等 20 段 | 原典（律藏）无逐条标题 |
+| 2 | dutiyaparimaṇḍalasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 3 | suppaṭicchannasikkhāpada | suppaṭicchanna | suppaṭicchanna：214:1740 等 10 段 | 原典（律藏）无逐条标题 |
+| 4 | suppaṭicchannasikkhāpada | suppaṭicchanna | suppaṭicchanna：214:1740 等 10 段 | 原典（律藏）无逐条标题 |
+| 5 | susaṃvutasikkhāpada | susaṃvuta | susaṃvuta：214:1756 等 9 段 | 原典（律藏）无逐条标题 |
+| 6 | susaṃvutasikkhāpada | susaṃvuta | susaṃvuta：214:1756 等 9 段 | 原典（律藏）无逐条标题 |
+| 7 | okkhittacakkhusikkhāpada | okkhittacakkhu | okkhittacakkhu：214:1762 等 7 段 | 原典（律藏）无逐条标题 |
+| 8 | okkhittacakkhusikkhāpada | okkhittacakkhu | okkhittacakkhu：214:1762 等 7 段 | 原典（律藏）无逐条标题 |
+| 9 | ukkhittakasikkhāpada | ukkhittaka | ukkhittaka：214:1773 等 18 段 | 原典（律藏）无逐条标题 |
+| 10 | ukkhittakasikkhāpada | ukkhittaka | ukkhittaka：214:1773 等 18 段 | 原典（律藏）无逐条标题 |
+| 11 | ujjagghikasikkhāpada | ujjagghika | ujjagghika：214:1791 等 8 段 | 原典（律藏）无逐条标题 |
+| 12 | ujjagghikasikkhāpada | ujjagghika | ujjagghika：214:1791 等 8 段 | 原典（律藏）无逐条标题 |
+| 13 | uccasaddasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 14 | uccasaddasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 15 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 16 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 17 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 18 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 19 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 20 | kāyappacālakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 21 | khambhakatasikkhāpada | khambhakata | khambhakata：214:1839 等 11 段 | 原典（律藏）无逐条标题 |
+| 22 | khambhakatasikkhāpada | khambhakata | khambhakata：214:1839 等 11 段 | 原典（律藏）无逐条标题 |
+| 23 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 | 原典（律藏）无逐条标题 |
+| 24 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 | 原典（律藏）无逐条标题 |
+| 25 | ukkuṭikasikkhāpada | ukkuṭika | ukkuṭika：214:3331 等 32 段 | 原典（律藏）无逐条标题 |
+| 26 | pallatthikasikkhāpada | pallatthika | pallatthika：207:394 等 10 段 | 原典（律藏）无逐条标题 |
+| *众学法总称* | *tiṃsabhojanappaṭisaṃyuttasikkhāpada* |  | 众学法 27–56 总称，207:2106 |  |
+| 27 | sakkaccapaṭiggahaṇasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 28 | pattasaññīpaṭiggahaṇasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 29 | samasūpakapaṭiggahaṇasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 30 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 | 原典（律藏）无逐条标题 |
+| 31 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 | 原典（律藏）无逐条标题 |
+| 32 | samatittikasikkhāpada | samatittika | samatittika：214:1884 等 5 段 | 原典（律藏）无逐条标题 |
+| 33 | sapadānasikkhāpada | sapadāna | sapadāna：214:1902 等 7 段 | 原典（律藏）无逐条标题 |
+| 34 | sapadānasikkhāpada | sapadāna | sapadāna：214:1902 等 7 段 | 原典（律藏）无逐条标题 |
+| 35 | thūpakatasikkhāpada | thūpakata | thūpakata：214:1913 等 6 段 | 原典（律藏）无逐条标题 |
+| 36 | odanappaṭicchādanasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 37 | sūpodanaviññattisikkhāpada | sūpodanaviññatti | sūpodanaviññatti：207:1764 等 1 段 | 原典（律藏）无逐条标题 |
+| 38 | ujjhānasaññīsikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 39 | kabaḷasikkhāpada | kabaḷa | kabaḷa：214:1934 等 11 段 | 原典（律藏）无逐条标题 |
+| 40 | ālopasikkhāpada | ālopa | ālopa：207:1115 等 6 段 | 原典（律藏）无逐条标题 |
+| 41 | anāhaṭasikkhāpada | anāhaṭa | anāhaṭa：214:1948 等 5 段 | 原典（律藏）无逐条标题 |
+| 42 | anāhaṭasikkhāpada | anāhaṭa | anāhaṭa：214:1948 等 5 段 | 原典（律藏）无逐条标题 |
+| 43 | sakabaḷasikkhāpada | sakabaḷa | sakabaḷa：214:1958 等 5 段 | 原典（律藏）无逐条标题 |
+| 44 | piṇḍukkhepakasikkhāpada | piṇḍukkhepaka | piṇḍukkhepaka：214:1962 等 6 段 | 原典（律藏）无逐条标题 |
+| 45 | kabaḷāvacchedakasikkhāpada | kabaḷāvacchedaka | kabaḷāvacchedaka：214:1968 等 5 段 | 原典（律藏）无逐条标题 |
+| 46 | avagaṇḍakārakasikkhāpada | avagaṇḍakāraka | avagaṇḍakāraka：214:1973 等 5 段 | 原典（律藏）无逐条标题 |
+| 47 | hatthaniddhunakasikkhāpada | hatthaniddhunaka | hatthaniddhunaka：214:1976 等 6 段 | 原典（律藏）无逐条标题 |
+| 48 | sitthāvakārakasikkhāpada | sitthāvakāraka | sitthāvakāraka：214:1981 等 6 段 | 原典（律藏）无逐条标题 |
+| 49 | jivhānicchārakasikkhāpada | jivhānicchāraka | jivhānicchāraka：207:2097 等 5 段 | 原典（律藏）无逐条标题 |
+| 50 | capucapukārakasikkhāpada | capucapukāraka | capucapukāraka：214:1993 等 6 段 | 原典（律藏）无逐条标题 |
+| 51 | capucapukārakasikkhāpada | capucapukāraka | capucapukāraka：214:1993 等 6 段 | 原典（律藏）无逐条标题 |
+| 52 | hatthanillehakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 53 | hatthanillehakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 54 | hatthanillehakādisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 55 | sāmisasikkhāpada | sāmisa | sāmisa：214:2019 等 7 段 | 原典（律藏）无逐条标题 |
+| 56 | sasitthakasikkhāpada | sasitthaka | sasitthaka：214:2023 等 5 段 | 原典（律藏）无逐条标题 |
+| *众学法总称* | *ekūnavīsatidhammadesanāpaṭisaṃyuttasikkhāpada* |  | 众学法 57–75 总称，207:2142 |  |
+| 57 | chattapāṇisikkhāpada | chattapāṇi | chattapāṇi：214:1487 等 2 段 | 原典（律藏）无逐条标题 |
+| 58 | daṇḍapāṇisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 59 | daṇḍapāṇisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 60 | āvudhapāṇisikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 61 | pādukasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 62 | pādukasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 63 | yānasikkhāpada | yāna | yāna：214:352 等 52 段 | 原典（律藏）无逐条标题 |
+| 64 | sayanasikkhāpada | sayana | sayana：214:1239 等 4 段 | 原典（律藏）无逐条标题 |
+| 65 | pallatthikasikkhāpada | pallatthika | pallatthika：207:394 等 10 段 | 原典（律藏）无逐条标题 |
+| 66 | veṭhitasikkhāpada | veṭhita | veṭhita：214:2086 等 2 段 | 原典（律藏）无逐条标题 |
+| 67 | oguṇṭhitasikkhāpada | oguṇṭhita | oguṇṭhita：214:1854 等 10 段 | 原典（律藏）无逐条标题 |
+| 68 | chamāsikkhāpada | chamā | chamā：214:2098 等 7 段 | 原典（律藏）无逐条标题 |
+| 69 | nīcāsanasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 70 | ṭhitasikkhāpada | ṭhita | ṭhita：214:1457 等 155 段 | 原典（律藏）无逐条标题 |
+| 71 | pacchatogamanasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 72 | uppathenagamanasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 73 | ṭhitouccārasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 74 | hariteuccārasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| 75 | udakeuccārasikkhāpada |  |  | 原典（律藏）无逐条标题 |
+| **灭诤** | **adhikaraṇasamatha**[原典] |  |  |  |
+| 1 | sammukhāvinaya[原典] |  | sammukhāvinaya：214:2156 等 12 段 |  |
+| 2 | sativinaya[原典] |  | sativinaya：214:2156 等 5 段 |  |
+| 3 | amūḷhavinaya[原典] |  | amūḷhavinaya：214:2156 等 5 段 |  |
+| 4 | paṭiññātakaraṇa | paṭiññāya kāretabba[原典]（巴蒂摩卡本文 207:506） | paṭiññātakaraṇa：207:2152 等 2 段 | 原典作 paṭiññāya kāretabbaṃ（207:506），是动词短语，不是名称；用《疑惑度脱》的 paṭiññātakaraṇa（207:2151） |
+| 5 | yebhuyyasikā[原典] |  | yebhuyyasikā：214:2156 等 6 段 |  |
+| 6 | tassapāpiyasikā[原典] |  | tassapāpiyasikā：214:2156 等 6 段 |  |
+| 7 | tiṇavatthāraka[原典] |  | tiṇavatthāraka：214:2156 等 8 段 |  |

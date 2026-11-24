@@ -13,33 +13,23 @@ sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词�
 
 [[bhikkhupātimokkha]]原文：
 
-> *Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.*{{para|id=207-36|style=reference}}
+> {{207-36-2-10}}{{para|id=207-36|style=reference}}
 
 译文：有意的出精，除了在梦中，是[[saṅghādisesa]]。
 
-本戒在律藏中经过一次修订，各版本的戒文见第 4 项[[paññattividhi@十七特征]]。
+本戒在律藏中经过一次修订，各版本的戒文见[[paññattividhi@十七特征]]一节。
 
-## [[sattarasappakāralakkhaṇa@十七特征]]
+## [[vatthu@十七特征]]
 
-### 1. [[nidāna@十七特征]]
+作努力而出不净。{{para|id=207-1375|style=reference}}
 
-[[sāvatthi]]。本戒在[[sāvatthi]]制定。{{para|id=207-1375|style=reference}}
-
-### 2. [[puggala@十七特征]]
-
-[[seyyasaka]]。本戒因[[seyyasaka]]而制{{para|id=207-1375|style=reference}}，他也是本戒的[[ādikammika]]，所以本人不犯。{{para|id=138-2082|style=reference}}
-
-### 3. [[vatthu@十七特征]]
-
-作加行而出[[asuci]]。{{para|id=207-1375|style=reference}}
-
-[[bhagavant]]住在[[sāvatthi]]时，[[seyyasaka]]不乐于修[[brahmacariya]]，因而消瘦憔悴、面色发黄、青筋暴露。[[udāyī]]见了，教他吃饱、睡足、洗好，欲念起时用手作加行出[[asuci]]，并说自己也这样做。{{para|id=213-802|style=reference}}据《普端严》，这位[[udāyī]]就是[[seyyasaka]]的[[upajjhāya]][[lāḷudāyī]]，一个耽于睡眠等的轻躁[[bhikkhu]]。{{para|id=138-2034|style=reference}}
+[[bhagavant]]住在[[sāvatthi]]时，[[seyyasaka]]不乐于修[[brahmacariya]]，因而消瘦憔悴、面色发黄、青筋暴露。[[udāyī]]见了，教他吃饱、睡足、洗好，欲念起时用手作努力出不净，并说自己也这样做。{{para|id=213-802|style=reference}}据《普端严》，这位[[udāyī]]就是[[seyyasaka]]的[[upajjhāya]][[lāḷudāyī]]，一个耽于睡眠等的轻躁[[bhikkhu]]。{{para|id=138-2034|style=reference}}
 
 [[seyyasaka]]照做以后气色好转。同伴问他是否服了[[bhesajja]]，他如实相告；同伴质问他怎能用吃[[saddhādeyya]]之食的那只手作这种事。{{para|id=213-803|style=reference}}少欲的[[bhikkhu]]们讥嫌，报告[[bhagavant]]。[[bhagavant]]召集[[saṅgha]]问明属实，呵责他说：自己以种种方式为离染而说法，而不是为染着，随即制定本戒。{{para|id=213-804|style=reference}}
 
 后来有[[bhikkhu]]吃了[[paṇītabhojana]]后失念入睡，在梦中出精，担心犯了[[saṅghādisesa]]。[[bhagavant]]说其中虽然有[[cetanā]]，但那是不算数的（abbohārika），于是补上“除梦中外”。{{para|id=213-807|style=reference}}《普端严》解释，梦中的[[cetanā]]因为生起于不属其作用范围之处，所以不算数，不成为[[āpatti]]的[[aṅga@十七特征]]{{para|id=138-2036|style=reference}}；它虽然也会带来果报，仍然不算数{{para|id=138-2044|style=reference}}。《疑惑度脱旧复注》所说相同。{{para|id=212-171|style=reference}}
 
-### 4. [[paññattividhi@十七特征]]
+## [[paññattividhi@十七特征]]
 
 - [[anupaññatti]]：“除梦中外”是本戒的补充条款。{{para|id=207-1375|style=reference}}本戒在律藏中共有两个版本：
   1. [[mūlapaññatti]]：因[[seyyasaka]]用手出精而制定。{{para|id=213-804|style=reference}}
@@ -54,65 +44,39 @@ sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词�
      修订内容：在“有意的出精”之后加入“除了在梦中”（aññatra supinantā），把梦中出精排除在本戒之外。这一版即[[bhikkhupātimokkha]]所诵的戒文。{{para|id=207-36|style=reference}}
 - [[asādhāraṇapaññatti]]：只为[[bhikkhu]]制定。{{para|id=207-1375|style=reference}}
 
-### 5. [[āṇatti@十七特征]]
+## [[āṇatti@十七特征]]
 
 [[anāṇattika]]。{{para|id=207-1375|style=reference}}
 
-不过，让别人在自己的[[aṅgajāta]]上作加行而出精，仍然犯。{{para|id=207-1375|style=reference}}律藏的[[vinītavatthu]]中，[[bhikkhu]]有出精之意，叫[[sāmaṇera]]握他的[[aṅgajāta]]，出了[[asuci]]，判为[[saṅghādisesa]]。{{para|id=213-1003|style=reference}}
+不过，让别人在自己的生殖器上作努力而出精，仍然犯。{{para|id=207-1375|style=reference}}律藏的判例中，[[bhikkhu]]有出精之意，叫[[sāmaṇera]]握他的生殖器，出了不净，判为[[saṅghādisesa]]。{{para|id=213-1003|style=reference}}
 
-### 6. [[āpatti@十七特征]]
+## [[āpatti@十七特征]]
 
-- [[saṅghādisesa]]：有意、作加行并且出精。{{para|id=213-834|style=reference}}例如[[bhikkhu]]以出精之意用热水洗浴而出精，判为[[saṅghādisesa]]。{{para|id=213-987|style=reference}}《疑惑度脱》说，哪怕只离开原处一只小苍蝇能喝的那么一点，即使尚未进入尿道，也犯[[saṅghādisesa]]。{{para|id=207-1375|style=reference}}
-- [[thullaccaya]]：有意、作加行而没有出精。{{para|id=213-966|style=reference}}例如同样以出精之意用热水洗浴而未出，判为不犯[[saṅghādisesa]]、犯[[thullaccaya]]。{{para|id=213-988|style=reference}}
-- [[dukkaṭa]]：律藏的[[vinītavatthu]]中有两种行为判为[[dukkaṭa]]：握熟睡[[sāmaṇera]]的[[aṅgajāta]]而自己出精{{para|id=213-1004|style=reference}}；以染心注视[[mātugāma]]的[[aṅgajāta]]而出精，[[bhagavant]]并因此规定不应以染心注视，注视的犯[[dukkaṭa]]。{{para|id=213-1010|style=reference}}
+- [[saṅghādisesa]]：有意、作努力并且出精。{{para|id=213-834|style=reference}}例如[[bhikkhu]]以出精之意用热水洗浴而出精，判为[[saṅghādisesa]]。{{para|id=213-987|style=reference}}《疑惑度脱》说，哪怕只离开原处一只小苍蝇能喝的那么一点，即使尚未进入尿道，也犯[[saṅghādisesa]]。{{para|id=207-1375|style=reference}}
+- [[thullaccaya]]：有意、作努力而没有出精。{{para|id=213-966|style=reference}}例如同样以出精之意用热水洗浴而未出，判为不犯[[saṅghādisesa]]、犯[[thullaccaya]]。{{para|id=213-988|style=reference}}
+- [[dukkaṭa]]：律藏的判例中有两种行为判为[[dukkaṭa]]：握熟睡[[sāmaṇera]]的生殖器而自己出精{{para|id=213-1004|style=reference}}；以染心注视女人的生殖器而出精，[[bhagavant]]并因此规定不应以染心注视，注视的犯[[dukkaṭa]]。{{para|id=213-1010|style=reference}}
 
-### 7. [[anāpatti@十七特征]]
+## [[sattarasappakāralakkhaṇa@十七特征]]
 
-梦中、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。{{para|id=213-973|style=reference}}
-
-### 8. [[vipatti@十七特征]]
-
-[[sīlavipatti]]。{{para|id=207-1375|style=reference}}
-
-### 9. [[aṅga@十七特征]]
-
-本戒有三个支分：{{para|id=207-1375|style=reference}}
-
-1. 有出精之思（cetanā）
-2. 作加行（upakkama）
-3. 精液离开原处（muccana）
-
-### 10. [[samuṭṭhānavidhi@十七特征]]
-
-[[paṭhamapārājikasamuṭṭhāna]]。《疑惑度脱》说本戒的[[samuṭṭhāna@十七特征]]等与[[paṭhamapārājika]]相同{{para|id=207-1375|style=reference}}，第 10 至 17 项都依[[paṭhamapārājika]]所列。{{para|id=207-1336|style=reference}}
-
-### 11. [[kiriyā@十七特征]]
-
-[[kiriya@十七特征]]。
-
-### 12. [[saññā@十七特征]]
-
-[[saññāvimokkha]]。
-
-### 13. [[citta@十七特征]]
-
-[[sacittaka@十七特征]]。
-
-### 14. [[vajja@十七特征]]
-
-[[lokavajja]]。
-
-### 15. [[kamma@十七特征]]
-
-[[kāyakamma@十七特征]]。
-
-### 16. [[kusalattika@十七特征]]
-
-[[akusalacitta]]。
-
-### 17. [[vedanāttika@十七特征]]
-
-[[dvivedana]]。
+| 序号 | 特征 | 内容 |
+|---|---|---|
+| 1 | [[nidāna@十七特征]] | [[sāvatthi]]。{{para|id=207-1375|style=reference}} |
+| 2 | [[puggala@十七特征]] | [[seyyasaka]]。本戒因[[seyyasaka]]而制{{para|id=207-1375|style=reference}}，他也是本戒的[[ādikammika]]，所以本人不犯。{{para|id=138-2082|style=reference}} |
+| 3 | [[vatthu@十七特征]] | 作努力而出不净。{{para|id=207-1375|style=reference}}详见上文。 |
+| 4 | [[paññattividhi@十七特征]] | [[anupaññatti]]、[[asādhāraṇapaññatti]]。{{para|id=207-1375|style=reference}}详见上文。 |
+| 5 | [[āṇatti@十七特征]] | [[anāṇattika]]。{{para|id=207-1375|style=reference}}详见上文。 |
+| 6 | [[āpatti@十七特征]] | [[saṅghādisesa]]、[[thullaccaya]]、[[dukkaṭa]]。详见上文。 |
+| 7 | [[anāpatti@十七特征]] | 梦中、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。{{para|id=213-973|style=reference}} |
+| 8 | [[vipatti@十七特征]] | [[sīlavipatti]]。{{para|id=207-1375|style=reference}} |
+| 9 | [[aṅga@十七特征]] | 本戒有三个支分：{{para|id=207-1375|style=reference}}<ol><li>有出精之思（cetanā）</li><li>作努力（upakkama）</li><li>精液离开原处（muccana）</li></ol> |
+| 10 | [[samuṭṭhānavidhi@十七特征]] | [[paṭhamapārājikasamuṭṭhāna]]。《疑惑度脱》说本戒的[[samuṭṭhāna@十七特征]]等与[[paṭhamapārājika]]相同{{para|id=207-1375|style=reference}}，第 10 至 17 项都依[[paṭhamapārājika]]所列。{{para|id=207-1336|style=reference}} |
+| 11 | [[kiriyā@十七特征]] | [[kiriya@十七特征]]。 |
+| 12 | [[saññā@十七特征]] | [[saññāvimokkha]]。 |
+| 13 | [[citta@十七特征]] | [[sacittaka@十七特征]]。 |
+| 14 | [[vajja@十七特征]] | [[lokavajja]]。 |
+| 15 | [[kamma@十七特征]] | [[kāyakamma@十七特征]]。 |
+| 16 | [[kusalattika@十七特征]] | [[akusalacitta]]。 |
+| 17 | [[vedanāttika@十七特征]] | [[dvivedana]]。 |
 
 ## 比库尼对应戒
 
@@ -146,7 +110,7 @@ sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词�
 - 《小品·集犍度》各种[[parivāsa]]、[[mānatta]]、[[mūlāyapaṭikassana]]、[[abbhāna]]的羯磨文都以本[[āpatti]]为例：{{chapter|id=216-622|style=reference}}
 - 《附随（Parivārapāḷi）》：{{chapter|id=217-3594|style=reference}}
 - 律藏其他[[sikkhāpada]]：[[duṭṭhullārocanasikkhāpada]]{{chapter|id=214-301|style=reference}}、[[duṭṭhullasikkhāpada]]{{chapter|id=214-1226|style=reference}}
-- 《论事（Kathāvatthu）》·《他人带来论（Parūpahārakathā）》讨论[[arahant]]是否会有[[asuci]]的出精。{{para|id=77-893|style=reference}}{{chapter|id=77-892|style=reference}}
+- 《论事（Kathāvatthu）》·《他人带来论（Parūpahārakathā）》讨论[[arahant]]是否会有不净的出精。{{para|id=77-893|style=reference}}{{chapter|id=77-892|style=reference}}
 - 律学手册：《律摄义注（Vinayasaṅgaha-aṭṭhakathā）》{{chapter|id=208-1024|style=reference}}、《律庄严复注（Vinayālaṅkāra-ṭīkā）》{{chapter|id=211-1734|style=reference}}、《律抉择复注（Vinayavinicchaya-ṭīkā）》{{chapter|id=201-712|style=reference}}
 
 {{ref}}

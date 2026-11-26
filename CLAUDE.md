@@ -7,6 +7,7 @@
 - 文档用中文 Markdown 写作；引用原文时注明 WikiPali 坐标（`book-paragraph`）。
 - 写入 WikiPali 前需向用户确认目标 channel。不要读取或提交 `~/.wikipali/credentials.json`。
 - 插件安装与升级步骤见 `README.md`。
+- 本地术语文件（百科词条等，YAML 头部 + 正文）与 WikiPali 的同步用 `tools/termsync.py`（status / pull / push / baseline），说明见 `tools/README.md`。带头部的文件不要用 `--note "$(cat 文件)"` 上传。
 
 ## 项目铁律
 

@@ -80,6 +80,11 @@
     - [[tikasaṅghādisesa]]
     - [[vematika]]
 7. [[anāpatti@十七特征]]：不犯的情形。“*Anāpattīti ajānanādivasena anāpatti*”（不犯，是依不知等而有的不犯）。{{para|id=207-1324|title=kaṅkhāvitaraṇī 1324|style=reference}}
+    - [[ajānanta]]
+    - [[asādiyanta]]
+    - [[ummattaka]]
+    - [[khittacitta]]
+    - [[vedanāṭṭa]]
     - [[ādikammika]]
 8. [[vipatti@十七特征]]：所属的失坏。“*Vipattīti sīlaācāradiṭṭhiājīvavipattīnaṃ aññatarā*”（失坏，是戒、行、见、命失坏中的某一种）。{{para|id=207-1324|title=kaṅkhāvitaraṇī 1324|style=reference}}
     - [[sīlavipatti]]

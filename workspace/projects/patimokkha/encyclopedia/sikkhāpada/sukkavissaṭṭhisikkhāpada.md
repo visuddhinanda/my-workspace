@@ -1,5 +1,12 @@
+---
+word: sukkavissaṭṭhisikkhāpada
+meaning: 故意出精学处
+summary: 故意出精学处（sukkavissaṭṭhisikkhāpada）是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]做出努力有意地使精液出离原处；除梦中以外，出精即犯[[saṅghādisesa]]，做出努力而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除梦中外”。
+quality: standard
+channels:
+- 311a835d-723e-44ec-957a-2d1127695d95
+---
 {{ai}}
-故意出精学处（sukkavissaṭṭhisikkhāpada）是[[bhikkhupātimokkha]]中[[saṅghādisesa]]的第一条[[sikkhāpada]]，禁止[[bhikkhu]]以加行有意地使精液出离原处；除梦中以外，出精即犯[[saṅghādisesa]]，加行而未出精犯[[thullaccaya]]。此戒因[[seyyasaka]]在[[sāvatthi]]用手出精而制，后因[[bhikkhu]]梦遗生疑而补上“除梦中外”。
 
 {{toc}}
 
@@ -56,9 +63,45 @@ sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词�
 - [[thullaccaya]]：有意、作努力而没有出精。{{para|id=213-966|style=reference}}例如同样以出精之意用热水洗浴而未出，判为不犯[[saṅghādisesa]]、犯[[thullaccaya]]。{{para|id=213-988|style=reference}}
 - [[dukkaṭa]]：律藏的判例中有两种行为判为[[dukkaṭa]]：握熟睡[[sāmaṇera]]的生殖器而自己出精{{para|id=213-1004|style=reference}}；以染心注视女人的生殖器而出精，[[bhagavant]]并因此规定不应以染心注视，注视的犯[[dukkaṭa]]。{{para|id=213-1010|style=reference}}
 
+## [[anāpatti@十七特征]]
+
+律藏《经分别》：
+
+> *Anāpatti supinantena, namocanādhippāyassa, ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.*{{para|id=213-973|style=reference}}
+>
+> 不犯：梦中、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。
+
+《疑惑度脱》：
+
+> *Anupakkamantassa ca, amocanādhippāyassa ca, supinaṃ passantassa ca, ummattakādīnañca muttepi anāpatti.*{{para|id=207-1375|style=reference}}
+>
+> 不作努力者、[[namocanādhippāya]]、作梦者，以及[[ummattaka]]等，即使出精也不犯。
+
+两者的差异：
+
+- 《疑惑度脱》多列了不作努力者。律藏的不犯列表里没有这一项，但前面的判罪组合已经说明：有意而不作努力，出精{{para|id=213-967|style=reference}}或不出精{{para|id=213-968|style=reference}}都不犯。
+- 措辞不同而意思相同：律藏作 namocanādhippāyassa、supinantena（在梦中），《疑惑度脱》作 amocanādhippāyassa、supinaṃ passantassa（作梦者）。
+- 律藏逐一列出[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]四种人，《疑惑度脱》合称“[[ummattaka]]等”，并补充“即使出精”（muttepi）。
+
+## [[aṅga@十七特征]]
+
+《疑惑度脱》：
+
+> *Sīlavipatti, cetanā, upakkamo, muccanan ti imānettha tīṇi aṅgāni.*{{para|id=207-1375|style=reference}}
+>
+> [[sīlavipatti]]。[[cetanā]]、努力、出离，这三项是这里的[[aṅga@十七特征]]。
+
+律藏《经分别》没有列出[[aṅga@十七特征]]，而是用 ceteti（有意）、upakkamati（作努力）、muccati（出精）三个因素的八种组合来判罪：
+
+- 三者具备，犯[[saṅghādisesa]]。{{para|id=213-965|style=reference}}
+- 有意、作努力而没有出精，犯[[thullaccaya]]。{{para|id=213-966|style=reference}}
+- 其余六种组合都不犯。{{para|id=213-967|style=reference}}至{{para|id=213-972|style=reference}}
+
+两者的差异：三个因素一一对应（cetanā＝ceteti，upakkamo＝upakkamati，muccana＝muccati），内容一致。律藏逐一列出各种组合的判罪，《疑惑度脱》则把犯[[saṅghādisesa]]须具备的三项归纳为[[aṅga@十七特征]]；列[[aṅga@十七特征]]是义注的体例，不是律藏根本的说法。
+
 ## [[sattarasappakāralakkhaṇa@十七特征]]
 
-| 序号 | 特征 | 内容 |
+|  | 特征 | 内容 |
 |---|---|---|
 | 1 | [[nidāna@十七特征]] | [[sāvatthi]]。{{para|id=207-1375|style=reference}} |
 | 2 | [[puggala@十七特征]] | [[seyyasaka]]。本戒因[[seyyasaka]]而制{{para|id=207-1375|style=reference}}，他也是本戒的[[ādikammika]]，所以本人不犯。{{para|id=138-2082|style=reference}} |
@@ -66,9 +109,9 @@ sukkavissaṭṭhi 是 sukka（精）与 vissaṭṭhi（出离）的复合词�
 | 4 | [[paññattividhi@十七特征]] | [[anupaññatti]]、[[asādhāraṇapaññatti]]。{{para|id=207-1375|style=reference}}详见上文。 |
 | 5 | [[āṇatti@十七特征]] | [[anāṇattika]]。{{para|id=207-1375|style=reference}}详见上文。 |
 | 6 | [[āpatti@十七特征]] | [[saṅghādisesa]]、[[thullaccaya]]、[[dukkaṭa]]。详见上文。 |
-| 7 | [[anāpatti@十七特征]] | 梦中、[[namocanādhippāya]]、[[ummattaka]]、[[khittacitta]]、[[vedanāṭṭa]]、[[ādikammika]]。{{para|id=213-973|style=reference}} |
+| 7 | [[anāpatti@十七特征]] | 不作努力者、[[namocanādhippāya]]、作梦者，以及[[ummattaka]]等，即使出精也不犯。{{para|id=207-1375|style=reference}}详见上文。 |
 | 8 | [[vipatti@十七特征]] | [[sīlavipatti]]。{{para|id=207-1375|style=reference}} |
-| 9 | [[aṅga@十七特征]] | 本戒有三个支分：{{para|id=207-1375|style=reference}}<ol><li>有出精之思（cetanā）</li><li>作努力（upakkama）</li><li>精液离开原处（muccana）</li></ol> |
+| 9 | [[aṅga@十七特征]] | <ol><li>有出精之思（cetanā）</li><li>作努力（upakkama）</li><li>精液离开原处（muccana）</li></ol>{{para|id=207-1375|style=reference}}详见上文。 |
 | 10 | [[samuṭṭhānavidhi@十七特征]] | [[paṭhamapārājikasamuṭṭhāna]]。《疑惑度脱》说本戒的[[samuṭṭhāna@十七特征]]等与[[paṭhamapārājika]]相同{{para|id=207-1375|style=reference}}，第 10 至 17 项都依[[paṭhamapārājika]]所列。{{para|id=207-1336|style=reference}} |
 | 11 | [[kiriyā@十七特征]] | [[kiriya@十七特征]]。 |
 | 12 | [[saññā@十七特征]] | [[saññāvimokkha]]。 |

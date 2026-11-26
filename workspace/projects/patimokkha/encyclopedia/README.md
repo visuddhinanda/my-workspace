@@ -108,3 +108,17 @@
 | pātimokkha | 巴帝摩卡 | `727ef3e2-b3d1-4b5f-8a2f-0224d55d56dc` | `patimokkha/pātimokkha.md` |
 | bhikkhupātimokkha | 比库巴蒂摩卡 | `8aeb9e18-2fcb-40cb-864b-a93aae8ed397` | `patimokkha/bhikkhupātimokkha.md` |
 | sukkavissaṭṭhisikkhāpada | 故意出精学处 | `e45665f0-8e9e-4373-b4f4-16c4dbf66016` | `sikkhāpada/sukkavissaṭṭhisikkhāpada.md` |
+
+## 其他 channel 的副本
+
+| word | 译名 | channel | guid | 本地文件 |
+|---|---|---|---|---|
+| sukkavissaṭṭhisikkhāpada | 故意出精学处 | wikipali简体中文 `311a835d…` | `6f0e59b6-2e45-4441-acce-5a184ec73f9c` | `sikkhāpada/sukkavissaṭṭhisikkhāpada.md` |
+| garubhaṇḍa | 重物 | wikipali简体中文 `311a835d…` | `f1c15da7-873d-40d8-a5e0-1727021cb1ca` | `garubhaṇḍa.md`（只传了这个 channel） |
+
+（2026-11-26 上传，署名 claude-opus-5-5。本地修改后，两个 channel 要分别 `term-edit` 同步。）
+
+`sikkhāpada/sukkavissaṭṭhisikkhāpada.md` 已改为「YAML 头部 + 正文」，官方中文版的同步基准在
+`.snapshots/311a835d/`（上次推送 / 拉取时服务器的记录，含乐观锁 etag）。**不要再用
+`--note "$(cat 文件)"` 上传这个文件**（会把头部传进正文）：先剥掉头部，推送时用
+`term-edit --if-match <快照 etag> --json`，成功后用返回值更新快照。Claude channel 的副本暂未纳入同步。

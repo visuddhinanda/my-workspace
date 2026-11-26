@@ -118,7 +118,7 @@
 
 （2026-11-26 上传，署名 claude-opus-5-5。本地修改后，两个 channel 要分别 `term-edit` 同步。）
 
-`sikkhāpada/sukkavissaṭṭhisikkhāpada.md` 已改为「YAML 头部 + 正文」，官方中文版的同步基准在
+`sikkhāpada/sukkavissaṭṭhisikkhāpada.md`、`garubhaṇḍa.md` 已改为「YAML 头部 + 正文」，官方中文版的同步基准在
 `.snapshots/311a835d/`（上次推送 / 拉取时服务器的记录，含乐观锁 etag）。**不要再用
-`--note "$(cat 文件)"` 上传这个文件**（会把头部传进正文）：先剥掉头部，推送时用
-`term-edit --if-match <快照 etag> --json`，成功后用返回值更新快照。Claude channel 的副本暂未纳入同步。
+`--note "$(cat 文件)"` 上传这个文件**（会把头部传进正文），改用 `tools/termsync.py`（见仓库根 `tools/README.md`）。
+Claude channel 的副本暂未纳入同步。

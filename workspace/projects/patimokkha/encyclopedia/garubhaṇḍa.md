@@ -1,5 +1,14 @@
+---
+word: garubhaṇḍa
+meaning: 重物
+summary: 重物（garubhaṇḍa）是[[saṅgha]]所有、不得舍出也不得分配的物品，即律藏《卧坐具犍度》所列的五类：[[ārāma]]与园地（ārāmavatthu），精舍（vihāra）与精舍地，床（mañca）、椅（pīṭha）、褥、枕（bimbohana），铜器与斧锄等工具，藤、竹、草、土、木器、陶器等材料。同一组五类，律藏从“不可舍出”的角度称为不可舍物（avissajjiya），从“不可分配”的角度称为不可分物（avebhaṅgiya）；义注按细目数为二十五种。擅自舍出或分配的，犯[[thullaccaya]]。重物可以依法交换，不能断其根本地送出或分掉。
+quality: draft
+content_type: markdown-e2
+channels:
+- 311a835d-723e-44ec-957a-2d1127695d95
+---
 {{ai}}
-重物（garubhaṇḍa）是[[saṅgha]]所有、不得舍出也不得分配的物品，即律藏《卧坐具犍度》所列的五类：[[ārāma]]与园地（ārāmavatthu），精舍（vihāra）与精舍地，床（mañca）、椅（pīṭha）、褥、枕（bimbohana），铜器与斧锄等工具，藤、竹、草、土、木器、陶器等材料。同一组五类，律藏从“不可舍出”的角度称为不可舍物（avissajjiya），从“不可分配”的角度称为不可分物（avebhaṅgiya）；义注按细目数为二十五种。擅自舍出或分配的，犯[[thullaccaya]]。重物可以依法交换，不能断其根本地送出或分掉。
+
 
 {{toc}}
 

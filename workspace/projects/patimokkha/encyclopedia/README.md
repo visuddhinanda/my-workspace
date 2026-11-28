@@ -115,10 +115,13 @@
 |---|---|---|---|---|
 | sukkavissaṭṭhisikkhāpada | 故意出精学处 | wikipali简体中文 `311a835d…` | `6f0e59b6-2e45-4441-acce-5a184ec73f9c` | `sikkhāpada/sukkavissaṭṭhisikkhāpada.md` |
 | garubhaṇḍa | 重物 | wikipali简体中文 `311a835d…` | `f1c15da7-873d-40d8-a5e0-1727021cb1ca` | `garubhaṇḍa.md`（只传了这个 channel） |
+| pātimokkha | 巴帝摩卡 | wikipali简体中文 `311a835d…` | `64e145f6-4739-4a72-884a-0ce805350291` | `patimokkha/pātimokkha.md` |
+| bhikkhupātimokkha | 比库巴蒂摩卡 | wikipali简体中文 `311a835d…` | `4f91bbb7-d919-4804-b17f-baea4436df3d` | `patimokkha/bhikkhupātimokkha.md` |
+| bhikkhunipātimokkha | 比库尼巴蒂摩卡 | wikipali简体中文 `311a835d…` | `a9ffe3f3-7555-4ef9-ac55-670554554013` | `patimokkha/bhikkhunipātimokkha.md`（只传了这个 channel） |
 
 （2026-11-26 上传，署名 claude-opus-5-5。本地修改后，两个 channel 要分别 `term-edit` 同步。）
 
-`sikkhāpada/sukkavissaṭṭhisikkhāpada.md`、`garubhaṇḍa.md` 已改为「YAML 头部 + 正文」，官方中文版的同步基准在
+`sikkhāpada/sukkavissaṭṭhisikkhāpada.md`、`garubhaṇḍa.md`、`patimokkha/` 下三条已改为「YAML 头部 + 正文」（开头的定义段放在头部 summary，不在正文），官方中文版的同步基准在
 `.snapshots/311a835d/`（上次推送 / 拉取时服务器的记录，含乐观锁 etag）。**不要再用
 `--note "$(cat 文件)"` 上传这个文件**（会把头部传进正文），改用 `tools/termsync.py`（见仓库根 `tools/README.md`）。
 Claude channel 的副本暂未纳入同步。

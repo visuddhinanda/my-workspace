@@ -1,5 +1,12 @@
+---
+word: pātimokkha
+meaning: 巴帝摩卡
+summary: 巴帝摩卡（pātimokkha）在律中有两层意思：一是戒本身，即[[sīlapātimokkha]]；二是记载这些戒的条文，即[[ganthapātimokkha]]。后者是[[saṅgha]]每半月在[[uposatha]]上诵出的文本，分[[bhikkhupātimokkha]]与[[bhikkhunipātimokkha]]两种。注释书又把由诸[[buddha]]诵出的三首偈称为[[ovādapātimokkha]]，与弟子诵出的[[āṇāpātimokkha]]相区别，律中所说的[[pātimokkha]]指后者。
+content_type: markdown-e2
+channels:
+- 311a835d-723e-44ec-957a-2d1127695d95
+---
 {{ai}}
-巴帝摩卡（pātimokkha）在律中有两层意思：一是戒本身，即[[sīlapātimokkha]]；二是记载这些戒的条文，即[[ganthapātimokkha]]。后者是[[saṅgha]]每半月在[[uposatha]]上诵出的文本，分[[bhikkhupātimokkha]]与[[bhikkhunipātimokkha]]两种。注释书又把由诸[[buddha]]诵出的三首偈称为[[ovādapātimokkha]]，与弟子诵出的[[āṇāpātimokkha]]相区别，律中所说的[[pātimokkha]]指后者。
 
 {{toc}}
 

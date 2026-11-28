@@ -1,5 +1,12 @@
+---
+word: bhikkhupātimokkha
+meaning: 比库巴蒂摩卡
+summary: 比库巴蒂摩卡（bhikkhupātimokkha）是[[bhikkhu]]每半月在[[uposatha]]上诵出的[[ganthapātimokkha]]，以“大德[[saṅgha]]，请听我说”开头，分为五个[[uddesa]]：[[nidānuddesa]]、[[pārājikuddesa]]、[[saṅghādisesuddesa]]、[[aniyatuddesa]]、[[vitthāruddesa]]。其中收录[[pārājika]]四条、[[saṅghādisesa]]十三条、[[aniyata]]两条、[[nissaggiyapācittiya]]三十条、[[pācittiya]]九十二条、[[pāṭidesanīya]]四条、[[sekhiyā]]七十五条、[[adhikaraṇasamatha]]七条，合计二百二十七条。本条末尾的“戒条名称目录”逐条列出各[[sikkhāpada]]的名称，作为检索入口。
+content_type: markdown-e2
+channels:
+- 311a835d-723e-44ec-957a-2d1127695d95
+---
 {{ai}}
-比库巴蒂摩卡（bhikkhupātimokkha）是[[bhikkhu]]每半月在[[uposatha]]上诵出的[[ganthapātimokkha]]，以“大德[[saṅgha]]，请听我说”开头，分为五个[[uddesa]]：[[nidānuddesa]]、[[pārājikuddesa]]、[[saṅghādisesuddesa]]、[[aniyatuddesa]]、[[vitthāruddesa]]。其中收录[[pārājika]]四条、[[saṅghādisesa]]十三条、[[aniyata]]两条、[[nissaggiyapācittiya]]三十条、[[pācittiya]]九十二条、[[pāṭidesanīya]]四条、[[sekhiyā]]七十五条、[[adhikaraṇasamatha]]七条，合计二百二十七条。本条末尾的“戒条名称目录”逐条列出各[[sikkhāpada]]的名称，作为检索入口。
 
 {{toc}}
 
